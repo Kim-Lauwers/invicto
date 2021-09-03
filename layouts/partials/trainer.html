@@ -1,0 +1,54 @@
+<div id="{{ .firstname }}_{{ .familyname }}">
+    <h3>{{ .firstname }} {{ .familyname }}</h3>
+
+    <img src="{{ .imageSrc }}" width="155px">
+    <h4>Contact:</h4>
+    <a href="mailto:{{ .mail }}">{{ .mail}}</a>
+    <h4>Behaalde graden:</h4>
+    <ul>
+        {{ range .danGraden }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+
+    {{ if .startJuJitsu }}
+    <h4>Gestart met Ju-Jitsu in:</h4>
+    {{ .startJuJitsu }}
+    {{ end }}
+
+    {{ if .diplomas }}
+    <h4>Behaalde diploma's:</h4>
+    <ul>
+        {{ range .diplomas }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ if .functionsclub }}
+    <h4>Functies binnen onze club:</h4>
+    <ul>
+        {{ range .functionsclub }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ if .functionsNextToClub }}
+    <h4>Extra vechtsportfuncties naast onze club:</h4>
+    <ul>
+        {{ range .functionsNextToClub }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ if .palmares }}
+    <h4>Samenvatting van behaalde competitie resultaten:</h4>
+    <ul>
+        {{ range .palmares }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+</div>
