@@ -1,0 +1,5 @@
+baseURL = "https://www.invictokeerbergen.be"
+languageCode = "en-us"
+[params]
+    title = "Invicto VZW"
+    shortSiteName="Invicto"
