@@ -1,5 +1,5 @@
 title = "Nieuws"
 description = "Bekijk het laatste nieuws van onze club."
 icon = "fa-newspaper"
-link = "/club"
+link = "/nieuws"
 weight = 1

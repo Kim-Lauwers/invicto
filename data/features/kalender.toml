@@ -1,5 +1,5 @@
 title = "Kalender"
 description = "Bekijk onze kalender voor onze trainingen en events"
 icon = "fa-calendar-alt"
-link = "/club"
+link = "/kalender"
 weight = 5
