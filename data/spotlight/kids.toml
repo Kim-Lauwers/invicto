@@ -1,6 +1,6 @@
 title = "Invicto Kids"
 description = "Onze jeugd-afdeling"
-image = "/images/pic03.jpg"
+image = "/images/spotlight/kids.png"
 imageAlt = "Invicto Kids"
-link = ""
+link = "/kids"
 weight = 10

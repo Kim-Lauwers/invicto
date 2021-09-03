@@ -1,6 +1,6 @@
 title = "Invicto BJJ"
 description = "Onze BJJ-afdeling"
-image = "/images/pic01.jpg"
+image = "/images/spotlight/bjj.png"
 imageAlt = "Invicto BJJ"
-link = ""
+link = "/bjj"
 weight = 1

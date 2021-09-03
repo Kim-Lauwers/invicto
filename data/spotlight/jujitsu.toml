@@ -1,6 +1,6 @@
 title = "Invicto Fighting"
 description = "Onze Ju-Jitsu-afdeling"
-image = "/images/pic02.jpg"
+image = "/images/spotlight/jujitsu.png"
 imageAlt = "Invicto Fighting"
-link = ""
+link = "/fighting"
 weight = 5
