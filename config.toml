@@ -1,5 +1,11 @@
 baseURL = "https://www.invictokeerbergen.be"
 languageCode = "en-us"
+paginate = 9
+
 [params]
+    dateForm = "January 2, 2006"
     title = "Invicto VZW"
     shortSiteName="Invicto"
+
+[permalinks]
+    nieuws = "/:section/:year/:month/:day/:slug/"
