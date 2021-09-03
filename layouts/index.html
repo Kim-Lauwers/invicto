@@ -39,13 +39,18 @@
     <section id="two" class="wrapper alt style2">
         {{ range .Site.Data.spotlight }}
         <section class="spotlight">
-            <a href="{{ .link }}">
-                <div class="image"><img src="{{ .image }}" alt="{{ .imageAlt}}"/></div>
-                <div class="content">
-                    <h2>{{ .title }}</h2>
-                    <p>{{ .description }}</p>
+                <div class="image">
+                    <a href="{{ .link }}">
+                        <img src="{{ .image }}" alt="{{ .imageAlt}}"/>
+                    </a>
+
                 </div>
-            </a>
+                <div class="content">
+                    <a href="{{ .link }}">
+                        <h2>{{ .title }}</h2>
+                        <p>{{ .description }}</p>
+                    </a>
+                </div>
         </section>
         {{ end }}
     </section>
