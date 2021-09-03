@@ -18,6 +18,4 @@ In 1995 verhuist de club naar Keerbergen, en verandert de naam in "Ju-Jitsu Keer
 
 In 2010 wijzigt de club van een feitelijke vereniging naar een VZW en sindsdien gaan we door het leven als "Ju-Jitsu Keerbergen VZW". \
 
-In 2021 wijzigt de club zijn naam naar "Self Defense Academy Keerbergen" en in het kort "Invicto". 
-## Organigram
-![Organigram](/images/club/organigram.jpg "Organigram")
+In 2021 wijzigt de club zijn naam naar "Self Defense Academy Keerbergen" en in het kort "Invicto".

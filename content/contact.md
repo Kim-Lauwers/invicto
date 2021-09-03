@@ -33,6 +33,9 @@ E-mail: [api-mannelijk [AT] jujitsukeerbergen.be](mailto:api-mannelijk@jujitsuke
 Tais Verbond (Vrouwelijk) \
 E-mail: [api-vrouwelijk [AT] jujitsukeerbergen.be](mailto:api-vrouwelijk@jujitsukeerbergen.be) \
 
+### Organigram
+![Organigram](/images/club/organigram.jpg "Organigram")
+
 ### Federaties
 Aangesloten bij [Vlaamse Ju-Jitsu Federatie](http://vjjf.be) \
   ![VJJF](/images/federatie/vjjf-logo.webp "VJJF LOGO")
