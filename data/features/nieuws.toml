@@ -1,0 +1,5 @@
+title = "Nieuws"
+description = "Bekijk het laatste nieuws van onze club."
+icon = "fa-chalkboard-teacher"
+link = "/club"
+weight = 1

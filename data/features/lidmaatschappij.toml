@@ -1,0 +1,5 @@
+title = "Lidmaatschap en training"
+description = "Meer informatie over onze trainingen en het lidmaatschap."
+icon = "fa-plus-circle"
+link = "/trainingen"
+weight = 7
