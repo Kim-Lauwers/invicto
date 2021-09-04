@@ -5,6 +5,10 @@ date = 2018-03-09T11:19:39+01:00
 draft = false
 layout = "generic"
 +++
+
+> If we don’t change, we don’t grow. If we don’t grow, we aren’t really living.” – Anatole Franc
+
+
 Ju-Jitsu Keerbergen is opgericht in oktober 1983 te Rijmenam onder leiding van toenmalige Belgische Kampioen Ju-Jitsu "Vandenbroeck Marc". \
 Toen was de naam van de club nog "Ju-Jitsu Rijmenam". \
 De opzet voor een nieuwe club was voornamelijk om een gemakkelijke uit te voeren Ju-Jitsustijl te ontwikkelen die tot doel had zich leren te verdedigen in alle noodsituaties, anders dan de Ju-Jitsu stijlen die in Europa werden onderricht, welke meestal klassieke stijlen waren met weinig of geen moderne inspiratie. \
