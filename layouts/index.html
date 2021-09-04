@@ -29,7 +29,7 @@
                 <p>
                     Welkom op de website van Invicto Keerbergen! <br/>
                     Bij deze wil ik u van harte verwelkomen op onze website. <br/>
-                    Op onze site kunnen jullie informatie vinden over onze club en onze verschillende sportafdelingen. <br/>
+                    Hier kan u alle informatie vinden over onze club en onze verschillende sportafdelingen. <br/>
                 </p>
             </header>
         </div>
@@ -37,7 +37,7 @@
 
     <!-- Departments -->
     <section id="two" class="wrapper alt style2">
-        {{ range .Site.Data.spotlight }}
+        {{ range sort .Site.Data.spotlight "weight" }}
         <section class="spotlight">
             <div class="content">
                 <a href="{{ .link }}">

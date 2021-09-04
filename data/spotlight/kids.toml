@@ -3,4 +3,4 @@ description = "Onze jeugd-afdeling"
 image = "/images/spotlight/kids.png"
 imageAlt = "Invicto Kids"
 link = "/kids"
-weight = 10
+weight = 15

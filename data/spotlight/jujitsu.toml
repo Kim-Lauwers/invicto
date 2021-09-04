@@ -3,4 +3,4 @@ description = "Onze Ju-Jitsu-afdeling"
 image = "/images/spotlight/jujitsu.png"
 imageAlt = "Invicto Fighting"
 link = "/fighting"
-weight = 5
+weight = 10
