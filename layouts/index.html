@@ -62,7 +62,7 @@
                 <p>Een link naar gezochte informatie op onze site. </p>
             </header>
             <ul class="features">
-                {{ range .Site.Data.features }}
+                {{ range sort .Site.Data.features "weight" }}
 
                 <li class="icon solid {{ .icon }}">
                     <a href="{{ .link }}">

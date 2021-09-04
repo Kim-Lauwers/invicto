@@ -2,4 +2,4 @@ title = "Trainers"
 description = "Kom even kijken van welke toptrainers je les krijgt in onze club."
 icon = "fa-chalkboard-teacher"
 link = "/trainers"
-weight = 3
+weight = 5

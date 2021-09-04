@@ -1,7 +1,7 @@
 <!-- Footer -->
 <footer id="footer">
     <ul class="icons">
-        {{ range .Site.Data.socials }}
+        {{ range sort .Site.Data.socials "weight" }}
         <li>
             <a href="{{ .url }}" class="icon {{ .class }}" alt>
                     <span class="label">{{ .name }}</span>
