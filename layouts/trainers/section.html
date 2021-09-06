@@ -31,10 +31,12 @@
                     {{ end }}
                 </ul>
 
+                <h3>Trainers</h3>
                 {{ range sort $.Site.Data.trainers "weight" }}
                     {{ partial "trainer.html" . }}
                 {{ end }}
 
+                <h3>Assistenten</h3>
                 {{ range sort $.Site.Data.assistent "weight" }}
                     {{ partial "trainer.html" . }}
                 {{ end }}
