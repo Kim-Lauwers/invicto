@@ -15,18 +15,26 @@
     {{ if .Description }}
     <meta name="description" content="{{ .Site.Params.Title }} {{ .Description }}">
     {{ else }}
-    <meta property="og:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
+    <meta property="description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
     {{ end }}
-    <meta name="keywords" content="Ju-Jitsu, Keerbergen, Vechtsporten, Judo, BJJ, JJK, Invicto, Striking, No-Gi, Grappling">
+    <meta name="keywords" content="Ju-Jitsu, Keerbergen, Vechtsporten, Judo, BJJ, JJK, Invicto, Striking, No-Gi, Grappling, Jeugd, Kids, {{ .Site.Params.Title }}, {{ .Title }}">
     <meta name="author" content="{{ .Site.Params.Title }}">
 
     <meta property="og:title" content="{{ .Site.Params.Title }} {{ .Title }}">
+    {{ if .Description }}
+    <meta name="og:description" content="{{ .Site.Params.Title }} {{ .Description }}">
+    {{ else }}
     <meta property="og:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
+    {{ end }}
     <meta property="og:image" content="https://www.invcitokeerbergen.be/images/site/invicto.jpeg">
     <meta property="og:url" content="{{ .Permalink }}">
 
     <meta name="twitter:title" content="{{ .Site.Params.Title }} {{ .Title }}">
-    <meta name="twitter:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
+    {{ if .Description }}
+    <meta name="twitter:description" content="{{ .Site.Params.Title }} {{ .Description }}">
+    {{ else }}
+    <meta property="twitter:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
+    {{ end }}
     <meta name="twitter:image" content="https://www.invcitokeerbergen.be/images/site/invicto.jpeg">
     <meta name="twitter:card" content="summary_large_image">
 
