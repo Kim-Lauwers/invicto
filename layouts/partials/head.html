@@ -1,6 +1,6 @@
 <!-- Header -->
 <head>
-    <title>{{ .Site.Title }} {{ .Params.Title }}</title>
+    <title>{{ .Site.Params.Title }} - {{ .Title }}</title>
 
     <link rel="icon" type="image/png" href="/images/site/icon/favicon16x16.png" sizes="16x16">
     <link rel="icon" type="image/png" href="/images/site/icon/favicon32x32.png" sizes="32x32">
@@ -10,17 +10,21 @@
     <link rel="apple-touch-icon" sizes="114x114" href="/images/site/icon/touch-iphone.png" >
     <link rel="apple-touch-icon" sizes="152x152" href="/images/site/icon/touch-ipad-ret.png" >
 
-    <meta name="description" content="Invicto VZW is een gepassioneerde vechtsportclub in Keerbergen.">
+    {{ if .Description }}
+    <meta name="description" content="{{ .Site.Params.Title }} - {{ .Description }}">
+    {{ else }}
+    <meta property="og:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
+    {{ end }}
     <meta name="keywords" content="Ju-Jitsu, Keerbergen, Vechtsporten, Judo, BJJ, JJK, Invicto, Striking, No-Gi, Grappling">
-    <meta name="author" content="Invicto VZW">
+    <meta name="author" content="{{ .Site.Params.Title }}">
 
-    <meta property="og:title" content="Invicto VZW">
-    <meta property="og:description" content="Gepassioneerde gevechtsportclub te Keerbergen.">
+    <meta property="og:title" content="{{ .Site.Params.Title }} - {{ .Title }}">
+    <meta property="og:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
     <meta property="og:image" content="https://www.invcitokeerbergen.be/images/site/invicto.jpeg">
     <meta property="og:url" content="https://www.invcitokeerbergen.be">
 
-    <meta name="twitter:title" content="Invicto VZW">
-    <meta name="twitter:description" content="Gepassioneerde gevechtsportclub te Keerbergen.">
+    <meta name="twitter:title" content="{{ .Site.Params.Title }} {{ .Title }}">
+    <meta name="twitter:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
     <meta name="twitter:image" content="https://www.invcitokeerbergen.be/images/site/invicto.jpeg">
     <meta name="twitter:card" content="summary_large_image">
 
