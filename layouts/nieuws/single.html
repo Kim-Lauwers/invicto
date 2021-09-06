@@ -19,7 +19,7 @@
             <div class="inner">
                 <h2>{{ .Title }}</h2>
 
-                <p>
+                <article>
                     {{ if .Params.detailpageImgUrl }}
                     <span class="image left">
                         <img src="{{ .Site.BaseURL }}/{{ .Params.detailpageImgUrl }}" alt="{{ .Params.imageAlt }}" />
@@ -27,7 +27,7 @@
                     {{ end }}
 
                     {{ .Content }}
-                </p>
+                </article>
 
                 <ul class="meta">
                     <p class="icon solid fa-user-clock">{{ .Date }}</p>
