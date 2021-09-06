@@ -24,7 +24,7 @@ E-mail: [info [AT] invictokeerbergen.be](mailto:info@invictokeerbergen.be)
 
 ### Gediplomeerde Jeugdsportcoördinator
 Kim Lauwers \
-E-mail: [kim [AT] invictokeerbergen.be](mailto:kim@invictokeerbergen.be)
+E-mail: [jeugdsport [AT] invictokeerbergen.be](mailto:jeugdsport@invictokeerbergen.be)
 
 ### Gediplomeerde Vertrouwenspersoon (Club - API)
 Kim Lauwers (Mannelijk) \
