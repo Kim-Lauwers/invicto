@@ -17,15 +17,19 @@
     {{ else }}
     <meta property="description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
     {{ end }}
+
     <meta name="keywords" content="Ju-Jitsu, Keerbergen, Vechtsporten, Judo, BJJ, JJK, Invicto, Striking, No-Gi, Grappling, Jeugd, Kids, {{ .Site.Params.Title }}, {{ .Title }}">
     <meta name="author" content="{{ .Site.Params.Title }}">
 
     <meta property="og:title" content="{{ .Site.Params.Title }} {{ .Title }}">
+
     {{ if .Description }}
     <meta name="og:description" content="{{ .Site.Params.Title }} {{ .Description }}">
     {{ else }}
     <meta property="og:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
     {{ end }}
+
+
     <meta property="og:image" content="{{ .Site.BaseURL }}images/site/invicto.jpeg">
     <meta property="og:url" content="{{ .Permalink }}">
 
