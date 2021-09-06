@@ -1,7 +1,7 @@
 <div id="{{ .firstname }}_{{ .familyname }}">
     <h4>{{ .firstname }} {{ .familyname }}</h4>
 
-    <img src="{{ .imageSrc }}" width="155px">
+    <img src="{{ .imageSrc }}" alt="{{ .firstname }} {{ .familyname }}" width="155px">
 
     {{ if .mail }}
     <h5>Contact:</h5>
