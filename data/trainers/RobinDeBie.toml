@@ -17,5 +17,5 @@ palmares = [
             "Antwerps kampioen Ju-Jitsu Fighting",
             "Goud BJJ Dutch Open"
             ]
-imageSrc = "/images/trainers/RobinDeBie.jpg"
+imageSrc = "/images/trainers/RobinDeBie.webp"
 weight = "5"
