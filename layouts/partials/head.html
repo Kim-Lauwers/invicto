@@ -26,7 +26,7 @@
     {{ else }}
     <meta property="og:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
     {{ end }}
-    <meta property="og:image" content="https://www.invcitokeerbergen.be/images/site/invicto.jpeg">
+    <meta property="og:image" content="{{ .Site.BaseURL }}images/site/invicto.jpeg">
     <meta property="og:url" content="{{ .Permalink }}">
 
     <meta name="twitter:title" content="{{ .Site.Params.Title }} {{ .Title }}">
@@ -35,7 +35,7 @@
     {{ else }}
     <meta property="twitter:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
     {{ end }}
-    <meta name="twitter:image" content="https://www.invcitokeerbergen.be/images/site/invicto.jpeg">
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}images/site/invicto.jpeg">
     <meta name="twitter:card" content="summary_large_image">
 
     <meta charset="utf-8" />
