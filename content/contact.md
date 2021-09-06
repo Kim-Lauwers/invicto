@@ -19,19 +19,19 @@ Kim Lauwers  \
 Broekelei 9 \
 3140 Keerbergen \
 Tel : +32 476 98 38 35 \
-E-mail: [kim [AT] jujitsukeerbergen.be](mailto:kim@jujitsukeerbergen.be) \
-E-mail: [info [AT] jujitsukeerbergen.be](mailto:info@jujitsukeerbergen.be)
+E-mail: [kim [AT] invictokeerbergen.be](mailto:kim@invictokeerbergen.be) \
+E-mail: [info [AT] invictokeerbergen.be](mailto:info@invictokeerbergen.be)
 
 ### Gediplomeerde Jeugdsportcoördinator
 Kim Lauwers \
-E-mail: [kim [AT] jujitsukeerbergen.be](mailto:kim@jujitsukeerbergen.be)
+E-mail: [kim [AT] invictokeerbergen.be](mailto:kim@invictokeerbergen.be)
 
 ### Gediplomeerde Vertrouwenspersoon (Club - API)
 Kim Lauwers (Mannelijk) \
-E-mail: [api-mannelijk [AT] jujitsukeerbergen.be](mailto:api-mannelijk@jujitsukeerbergen.be) \
+E-mail: [api-mannelijk [AT] invictokeerbergen.be](mailto:api-mannelijk@invictokeerbergen.be) \
 
 Tais Verbond (Vrouwelijk) (Nog in opleiding) \
-E-mail: [api-vrouwelijk [AT] jujitsukeerbergen.be](mailto:api-vrouwelijk@jujitsukeerbergen.be) \
+E-mail: [api-vrouwelijk [AT] invictokeerbergen.be](mailto:api-vrouwelijk@invictokeerbergen.be) \
 
 ### Organigram
 ![Organigram](/images/club/organigram.jpg "Organigram")
