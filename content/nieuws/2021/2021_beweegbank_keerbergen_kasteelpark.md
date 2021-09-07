@@ -5,9 +5,9 @@ draft = false
 description = "Kasteelpark heeft een beweegbank"
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "images/nieuws/2021/beweegbank.jpg"
-listpageImgUrl = "/images/nieuws/2021/beweegbank.jpg"
-detailpageImgUrl = "/images/nieuws/2021/beweegbank.jpg"
+homepageImgUrl = "images/nieuws/2021/beweegbank.webp"
+listpageImgUrl = "/images/nieuws/2021/beweegbank.webp"
+detailpageImgUrl = "/images/nieuws/2021/beweegbank.webp"
 [menu.global]
     parent = "nieuws"
 +++

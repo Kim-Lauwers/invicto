@@ -5,8 +5,8 @@ draft = false
 description = "Kinderen trainen op zaterdag outdoor"
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "images/nieuws/2021/buiten_20-02-21.jpg"
-listpageImgUrl = "/images/nieuws/2021/buiten_20-02-21_thumb.jpg"
+homepageImgUrl = "images/nieuws/2021/buiten_20-02-21.webp"
+listpageImgUrl = "/images/nieuws/2021/buiten_20-02-21_thumb.webp"
 detailpageImgUrl = ""
 [menu.global]
     parent = "nieuws"

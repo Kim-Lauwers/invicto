@@ -5,9 +5,9 @@ draft = false
 description = "Bubbels van 10 + vragenlijst"
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "images/nieuws/2021/corona_05_maart.jpg"
-listpageImgUrl = "/images/nieuws/2021/corona_05_maart.jpg"
-detailpageImgUrl = "/images/nieuws/2021/corona_05_maart.jpg"
+homepageImgUrl = "images/nieuws/2021/corona_05_maart.webp"
+listpageImgUrl = "/images/nieuws/2021/corona_05_maart.webp"
+detailpageImgUrl = "/images/nieuws/2021/corona_05_maart.webp"
 [menu.global]
     parent = "nieuws"
 +++
