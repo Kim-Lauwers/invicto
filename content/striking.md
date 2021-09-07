@@ -1,11 +1,11 @@
 +++
-title = "Invicto BJJ"
-description = "Onze BJJ-afdeling"
+title = "Invicto Striking"
+description = "Onze striking-afdeling"
 date = 2021-03-09T11:19:39+01:00
 draft = false
 layout = "generic"
 +++
-## Brazilian Ju-Jitsu (BJJ)
+## Striking
 
 TODO
 
