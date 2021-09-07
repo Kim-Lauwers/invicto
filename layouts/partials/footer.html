@@ -3,7 +3,7 @@
     <ul class="icons">
         {{ range sort .Site.Data.socials "weight" }}
         <li>
-            <a href="{{ .url }}" class="icon {{ .class }}" alt>
+            <a href="{{ .url }}" class="icon circle {{ .class }}" alt>
                     <span class="label">{{ .name }}</span>
             </a>
         </li>
