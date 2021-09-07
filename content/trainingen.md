@@ -13,9 +13,13 @@ layout = "generic"
 * Elke zaterdag: No-Gi van 09:00 tot 10:00.
 
 #### Voor de volwassenen(vanaf 12 jaar)
-* Elke dinsdag:  Ju-Jitsu van 19:00 tot 21:00.
-* Elke donderdag: Ju-Jitsu van 19:00 tot 21:00. Dit is een gezamelijke dynamische training (Jeugd en Volwassenen samen / Enkel het eerste uur)
-* Elke zaterdag: No-Gi van 10:00 tot 12:00.
+* Elke dinsdag:  Ju-Jitsu Fighting van 19:00 tot 20:30.
+* Elke dinsdag:  Brazilian Ju-Jitsu (BJJ) van 20:30 tot 22:00.
+* Elke donderdag:  Ju-Jitsu Fighting van 19:00 tot 20:30.
+* Elke donderdag:  Brazilian Ju-Jitsu (BJJ) van 20:30 tot 22:00.
+* Elke zaterdag: Tabata van 10:00 tot 10:30.
+* Elke zaterdag: Striking van 10:30 tot 11:30.
+* Elke zaterdag: No-Gi / Grappling van 11:30 tot 13:00.
 
 ### Locatie
 Gemeentelijke Sporthal Keerbergen \
@@ -37,7 +41,7 @@ Er wordt lesgegeven door [Sport vlaanderen erkende / gediplomeerde trainers](/tr
 Een seizoen loopt van september tot augustus. Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
 
 * Voor de jeugd (van 8 jaar tot en met 12 jaar): € 180
-* Voor de volwassenen(vanaf 12 jaar): € 230
+* Voor de volwassenen(vanaf 12 jaar): € 350
 
 Deze lidgelden omvatten het lesgeld + aansluiting bij federatie / verzekering.
 U kan het aansluitingsformulier [hier](https://www.jujitsukeerbergen.be/files/club/Lidmaatschappij-Ju-Jitsu_Keerbergen.pdf) terugvinden.
