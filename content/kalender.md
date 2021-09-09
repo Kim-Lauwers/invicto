@@ -8,30 +8,76 @@ layout = "generic"
 
 # Kalender
 
-| Datum                                     | Activiteit                                                                                       |
-| ------------------------------------------|:-------------------------------------------------------------------------------------------------|
-|Dinsdag 7 september 2021   |Jeugdtraining van 18u tot 19u|
-|Dinsdag 7 september 2021   |Hoofdtraining van 19u tot 21u|
-|Donderdag 9 september 2021 |Jeugdtraining van 19u tot 20u|
-|Donderdag 9 september 2021 |Hoofdtraining van 19u tot 21u|
-|Zaterdag 11 september 2021  |Jeugdtraining van 9u tot 10u|
-|Zaterdag 11 september 2021  |No-Gi van 10u tot 12u|
-|Dinsdag 14 september 2021   |Jeugdtraining van 18u tot 19u|
-|Dinsdag 14 september 2021   |Hoofdtraining van 19u tot 21u|
-|Donderdag 16 september 2021 |Jeugdtraining van 19u tot 20u|
-|Donderdag 16 september 2021 |Hoofdtraining van 19u tot 21u|
-|Zaterdag 18 september 2021  |Jeugdtraining van 9u tot 10u|
-|Zaterdag 18 september 2021  |No-Gi van 10u tot 12u|
-|Dinsdag 21 september 2021   |Jeugdtraining van 18u tot 19u|
-|Dinsdag 21 september 2021   |Hoofdtraining van 19u tot 21u|
-|Donderdag 23 september 2021 |Jeugdtraining van 19u tot 20u|
-|Donderdag 23 september 2021 |Hoofdtraining van 19u tot 21u|
-|Zaterdag 25 september 2021  | **GEEN TRAINING** - Sporthal gesloten vanwege WK-wielrennen|
-|Dinsdag 28 september 2021   |Jeugdtraining van 18u tot 19u|
-|Dinsdag 28 september 2021   |Hoofdtraining van 19u tot 21u|
-|Donderdag 30 september 2021 |Jeugdtraining van 19u tot 20u|
-|Donderdag 30 september 2021 |Hoofdtraining van 19u tot 21u|
-|?? Oktober 2021                                   | Belgisch Kampioenschap (nog te bevestigen door FFJJ)                                             |
-|Zaterdag 27 november 2021 |Open Vlaams Kampioenschap|
-|Zaterdag 19 februari 2022 |Belgisch Kampioenschap|
-|Zaterdag 12 maart 2022 |Antwerps Open Kampioenschap|
+Een weekoverzicht kan u [hier](/trainingen) vinden.
+    
+| Dag       |Datum                  |Tijd       | Activiteit                                                     |
+| ----------|-----------------------|:----------|:---------------------------------------------------------------|
+|Di         | 7 september 2021      |18u tot 19u| Jeugdtraining                                                  |
+|Di         | 7 september 2021      |19u tot 21u| Hoofdtraining                                                  |
+|Do         | 9 september 2021      |19u tot 20u| Jeugdtraining                                                  |
+|Do         | 9 september 2021      |19u tot 21u| Hoofdtraining                                                  |
+|Za         | 11 september 2021     |9u tot 10u | Jeugdtraining                                                  |
+|Za         | 11 september 2021     |10u tot 12u| No-Gi                                                          |
+|Di         | 14 september 2021     |18u tot 19u| Jeugdtraining                                                  |
+|Di         | 14 september 2021     |19u tot 21u| Hoofdtraining                                                  |
+|Do         | 16 september 2021     |19u tot 20u| Jeugdtraining                                                  |
+|Do         | 16 september 2021     |19u tot 21u| Hoofdtraining                                                  |
+|Za         | 18 september 2021     |9u tot 10u | Jeugdtraining                                                  |
+|Za         | 18 september 2021     |10u tot 12u| No-Gi                                                          |
+|Di         | 21 september 2021     |18u tot 19u| Jeugdtraining                                                  |
+|Di         | 21 september 2021     |19u tot 21u| Hoofdtraining                                                  |
+|Do         | 23 september 2021     |19u tot 20u| Jeugdtraining                                                  |
+|Do         | 23 september 2021     |19u tot 21u| Hoofdtraining                                                  |
+|Za         | 25 september 2021     |           |  **GEEN TRAINING** - Sporthal gesloten vanwege WK-wielrennen   |
+|Di         | 28 september 2021     |18u tot 19u| Jeugdtraining                                                  |
+|Di         | 28 september 2021     |19u tot 21u| Hoofdtraining                                                  |
+|Do         | 30 september 2021     |19u tot 20u| Jeugdtraining                                                  |
+|Do         | 30 september 2021     |19u tot 21u| Hoofdtraining                                                  |
+|Za-Zo      | ?? Oktober 2021       |           | Belgisch Kampioenschap (nog te bevestigen door FFJJ)           |
+|Za         |  2 oktober 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
+|Za         |  2 oktober 2021       |10:00 tot 10:30|[Tabata](/tabata)                                           |                           
+|Za         |  2 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
+|Za         |  2 oktober 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |                           
+|Di         |  5 oktober 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
+|Di         |  5 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Di         |  5 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
+|Do         |  7 oktober 2021       |19:00 tot 20:00|[Jeugd](/jeugd)                                             |
+|Do         |  7 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Do         |  7 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+|Za         |  9 oktober 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
+|Za         |  9 oktober 2021       |10:00 tot 10:30|[Tabata](/tabata)                                           |                           
+|Za         |  9 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
+|Za         |  9 oktober 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |                           
+|Di         | 12 oktober 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
+|Di         | 12 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Di         | 12 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
+|Do         | 14 oktober 2021       |19:00 tot 20:00|[Jeugd](/jeugd)                                             |
+|Do         | 14 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Do         | 14 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+|Za         | 16 oktober 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
+|Za         | 16 oktober 2021       |10:00 tot 10:30|[Tabata](/tabata)                                           |                           
+|Za         | 16 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
+|Za         | 16 oktober 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |                           
+|Di         | 19 oktober 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
+|Di         | 19 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Di         | 19 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
+|Do         | 21 oktober 2021       |19:00 tot 20:00|[Jeugd](/jeugd)                                             |
+|Do         | 21 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Do         | 21 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+|Za         | 23 oktober 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
+|Za         | 23 oktober 2021       |10:00 tot 10:30|[Tabata](/tabata)                                           |                           
+|Za         | 23 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
+|Za         | 23 oktober 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |                           
+|Di         | 26 oktober 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
+|Di         | 26 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Di         | 26 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
+|Do         | 28 oktober 2021       |19:00 tot 20:00|[Jeugd](/jeugd)                                             |
+|Do         | 28 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Do         | 28 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+|Za         | 30 oktober 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
+|Za         | 30 oktober 2021       |10:00 tot 10:30|[Tabata](/tabata)                                           |                           
+|Za         | 30 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
+|Za         | 30 oktober 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
+|Za-Zo      | 27 november 2021      |               | Open Vlaams Kampioenschap                                  |
+|Za-Zo      | 19 februari 2022      |               | Belgisch Kampioenschap                                     |
+|Za-Zo      | 12 maart 2022         |               | Antwerps Open Kampioenschap                                | 
