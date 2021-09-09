@@ -1,21 +1,26 @@
 firstname = "Robin"
 familyname = "De Bie"
 danGraden = [
-            "1ste DAN Ju-Jitsu"
-            ]
+    "1ste DAN Ju-Jitsu",
+    "Blue belt Brazillian Ju-Jitsu"
+]
 startJuJitsu = "2006"
 diplomas = [
-            ]
+]
 functionsclub = [
-            "Trainer bij de BJJ-afdeling",
-           ]
+    "Trainer bij de BJJ-afdeling",
+]
 palmares = [
-            "Belgisch kampioen Ju-Jitsu Ne-Waza",
-            "3 x Vice Belgisch kampioen Ju-Jitsu Fighting",
-            "2 x Vlaams kampioen Ju-itsu Ne-Waza",
-            "2 x Vlaams kampioen Ju-Jitsu Fighting",
-            "Antwerps kampioen Ju-Jitsu Fighting",
-            "Goud BJJ Dutch Open"
-            ]
+    "Belgisch kampioen Ju-Jitsu Ne-Waza",
+    "3 x Vice Belgisch kampioen Ju-Jitsu Fighting",
+    "2 x Vlaams kampioen Ju-itsu Ne-Waza",
+    "2 x Vlaams kampioen Ju-Jitsu Fighting",
+    "Antwerps kampioen Ju-Jitsu Fighting",
+    "Goud BJJ Dutch Open",
+    "Zilver Flanders BJJ cup",
+    "Zilver Belgium Nationals BJJ",
+    "Zilver The king of the boulevard (grappling)",
+    "Amateurwedstrijd MMA (Max pain gala)"
+]
 imageSrc = "/images/trainers/RobinDeBie.webp"
 weight = "5"
