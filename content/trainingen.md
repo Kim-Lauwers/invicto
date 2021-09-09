@@ -43,8 +43,8 @@ Een seizoen loopt van september tot augustus. Zomertrainingen tijdens juli en au
 * Voor de jeugd (van 8 jaar tot en met 12 jaar): € 180
 * Voor de volwassenen(vanaf 12 jaar): € 350
 
-Deze lidgelden omvatten het lesgeld + aansluiting bij federatie / verzekering.
-U kan het aansluitingsformulier [hier](https://www.jujitsukeerbergen.be/files/club/Lidmaatschappij-Ju-Jitsu_Keerbergen.pdf) terugvinden.
+Deze lidgelden zijn all inclusive (meer info in het aansluitingsformulier).
+U kan het aansluitingsformulier [hier](/documents/club/Lidmaatschappij-Invicto_Keerbergen.pdf) terugvinden.
 
 ### Mutualiteiten
 Indien u aangesloten bent bij een mutualiteit kan u daar steeds een stuk van het lidgeld terug vorderen.
@@ -68,4 +68,4 @@ Betaalde lidgelden zijn nooit terugvorderbaar.
 Momenteel is dit enkel verplicht voor leden die aan competitie deelnemen.
 
 ### Gedragscode
-Onze gedragscode kan u [hier](https://www.jujitsukeerbergen.be/files/club/Gedragscode.pdf) terugvinden.
+Onze gedragscode kan u [hier](/documents/club/Gedragscode.pdf) terugvinden.
