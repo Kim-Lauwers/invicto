@@ -7,8 +7,10 @@ layout = "generic"
 +++
 ## No-Gi / Grappling
 
-TODO
+No-Gi is een BJJ-stijl waarbij je geen Gi-uniform (kimono) hoeft te dragen. \
+We leren hier onze technieken toepassen op een partner die geen kimono draagt, op deze manier benaderen we een veel realistischere manier van werken.
 
+Kijk zeker ook even naar onze [BJJ-afdeling](/bjj).
 
 ### Trainingen
 Zie [trainingen](/trainingen) en [kalender](/kalender) voor het overzicht van de trainingen.

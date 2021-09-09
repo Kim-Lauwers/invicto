@@ -7,7 +7,13 @@ layout = "generic"
 +++
 ## Brazilian Ju-Jitsu (BJJ)
 
-TODO
+Braziliaans Jiu-jitsu is een vechtsport is gefocused is op grondgevecht (ne-waza) en submissions (houdgrepen / Osae Komi Waza). \
+
+Kennis van de juiste techniek staat voorop waarbij we met het behulp van veel oefenengevechten, drills en competitieve sparring steeds beter worden.
+
+Invicto BJJ is een afdeling onder leiding van zwarte band [Frank Engels](/trainers/#Frank_Engels), kijk zeker ook naar onze [No-Gi / Grappling](/grappling) afdeling.
+
+Invicto BJJ is aangesloten bij [BRASA Team](https://brasateam.be/) onder de Belgische BJJ-legende [Wim Deputter](https://www.wimdeputter.com/).
 
 
 ### Trainingen

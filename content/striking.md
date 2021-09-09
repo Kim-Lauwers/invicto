@@ -7,8 +7,10 @@ layout = "generic"
 +++
 ## Striking
 
-TODO
+Striking is een gerichte fysieke aanval met ofwel een deel van het menselijk lichaam of met een voorwerp (zoals een wapen) bedoeld om uw tegenstander af te stoppen. \
+In onze club zal de hoofdfocus van deze afdeling op het gebruik van het menselijk lichaam liggen. Dit wil zeggen dat we vooral met de handen en de benen zullen werken.
 
+We zullen technieken gebruiken uit verschillende vechtsporten zoals Karate, Boksen, Kickbox, ...
 
 ### Trainingen
 Zie [trainingen](/trainingen) en [kalender](/kalender) voor het overzicht van de trainingen.
