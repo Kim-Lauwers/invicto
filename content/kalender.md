@@ -12,14 +12,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag       |Datum                  |Tijd       | Activiteit                                                     |
 | ----------|-----------------------|:----------|:---------------------------------------------------------------|
-|Di         | 7 september 2021      |18u tot 19u| Jeugdtraining                                                  |
-|Di         | 7 september 2021      |19u tot 21u| Hoofdtraining                                                  |
-|Do         | 9 september 2021      |19u tot 20u| Jeugdtraining                                                  |
-|Do         | 9 september 2021      |19u tot 21u| Hoofdtraining                                                  |
-|Za         | 11 september 2021     |9u tot 10u | Jeugdtraining                                                  |
-|Za         | 11 september 2021     |10u tot 12u| No-Gi                                                          |
-|Di         | 14 september 2021     |18u tot 19u| Jeugdtraining                                                  |
-|Di         | 14 september 2021     |19u tot 21u| Hoofdtraining                                                  |
 |Do         | 16 september 2021     |19u tot 20u| Jeugdtraining                                                  |
 |Do         | 16 september 2021     |19u tot 21u| Hoofdtraining                                                  |
 |Za         | 18 september 2021     |9u tot 10u | Jeugdtraining                                                  |
