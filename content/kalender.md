@@ -33,7 +33,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 |Di         | 28 september 2021     |19u tot 21u| Hoofdtraining                                                  |
 |Do         | 30 september 2021     |19u tot 20u| Jeugdtraining                                                  |
 |Do         | 30 september 2021     |19u tot 21u| Hoofdtraining                                                  |
-|Za-Zo      | ?? Oktober 2021       |           | Belgisch Kampioenschap (nog te bevestigen door FFJJ)           |
 |Za         |  2 oktober 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
 |Za         |  2 oktober 2021       |10:00 tot 10:30|[Tabata](/tabata)                                           |                           
 |Za         |  2 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
@@ -44,6 +43,7 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 |Do         |  7 oktober 2021       |19:00 tot 20:00|[Jeugd](/jeugd)                                             |
 |Do         |  7 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
 |Do         |  7 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+|Za-Zo      | 09 en 10 Oktober 2021       |           | Belgisch Kampioenschap                                   |
 |Za         |  9 oktober 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
 |Za         |  9 oktober 2021       |10:00 tot 10:30|[Tabata](/tabata)                                           |                           
 |Za         |  9 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
