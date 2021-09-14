@@ -8,11 +8,12 @@ layout = "generic"
 ## Jeugd
 
 Onze jeugd-afdeling heeft alle voordelen, in deze groep komt het beste van al onze afdelingen naar boven. \
-We halen onze technieken uit Ju-Jitsu, Judo, BJJ, No-Gi (Grappling), Karate enzo ... \
+We halen onze technieken hoofdzakelijk uit het Ju-Jitsu vermits dit onze hoofdsport is. \
+Maar onze trainers zijn ook bedreven in andere vechtsporten zoals: Judo, BJJ, No-Gi (Grappling), Karate, ... en delen deze aspecten ook met onze jeugdgroep. \
 Op deze manier trainen we onze jeugd all-round in meerdere gevechtsporten.
 
 Onze hoofdtrainer [Kim Lauwers](/trainers/#Kim_Lauwers) is niet alleen ervaren in meerdere gevechtsporten (Ju-Jitsu en Judo), maar is tevens ook een gediplomeerd multimove begeleider. \
-Dit zorgt ervoor dat de jeugd een gevarieerd bewegingsprogramma krijgt, waarbij we naast de sportspecifieke ontwikkelijk ook veel belang hechten aan de algemene ontwikkeling van de bewegingsvaardigheden.
+Dit zorgt ervoor dat de jeugd een gevarieerd bewegingsprogramma krijgt, waarbij we naast de sportspecifieke ontwikkeling ook veel belang hechten aan de algemene ontwikkeling van de bewegingsvaardigheden.
 
 In onze sportclub staan plezier, zelfvertrouwen, discipline en vriendschap centraal. Zo hebben we als vechtsportclub een positief effect op de persoonlijkheid en het welzijn van het kind.\
 Zo zijn vechtsportende kinderen vaak bescheidener, optimistischer, enthousiaster en hebben ze meer zelfvertrouwen.

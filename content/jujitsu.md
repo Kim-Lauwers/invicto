@@ -7,7 +7,7 @@ layout = "generic"
 +++
 ## Ju-Jitsu Fighting
 
-Het aanleren van Ju-Jitsu heeft tot doel om je vaardig, weerbaar en wendbaar te maken en je technieken te leren om je te verdedigen. Ju-Jitsu een sport voor iedereen. De technieken zijn snel te leren en bijzonder effectief. Om de verschillende technieken goed uit te voeren speelt kracht geen belangrijke rol. Onderdelen zoals balans, controle en concentratie zijn wel heel belangrijk in deze sport.
+Het aanleren van Ju-Jitsu heeft tot doel om je vaardig, weerbaar en wendbaar te maken en je technieken te leren om je te verdedigen. Ju-Jitsu een sport voor iedereen. De technieken zijn snel te leren en bijzonder effectief. Om de verschillende technieken goed uit te voeren speelt kracht geen belangrijke rol. Onderdelen zoals balans, controle en concentratie zijn wel heel belangrijk in onze sport.
 
 Ju-Jitsu is niet alleen een zelfverdedigingssport maar ook een zeer complete budo sport (krijgskunst) voor iedereen. In onze club kan je zowel recreatief als competitief trainen.
 
