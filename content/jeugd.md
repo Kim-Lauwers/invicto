@@ -10,7 +10,7 @@ layout = "generic"
 Onze jeugd-afdeling heeft alle voordelen, in deze groep komt het beste van al onze afdelingen naar boven. \
 We halen onze technieken hoofdzakelijk uit het Ju-Jitsu vermits dit onze hoofdsport is. \
 Maar onze trainers zijn ook bedreven in andere vechtsporten zoals: Judo, BJJ, No-Gi (Grappling), Karate, ... en delen deze aspecten ook met onze jeugdgroep. \
-Op deze manier trainen we onze jeugd all-round in meerdere gevechtsporten.
+Op deze manier trainen we onze jeugd all-round in meerdere vechtsporten.
 
 Onze hoofdtrainer [Kim Lauwers](/trainers/#Kim_Lauwers) is niet alleen ervaren in meerdere gevechtsporten (Ju-Jitsu en Judo), maar is tevens ook een gediplomeerd multimove begeleider. \
 Dit zorgt ervoor dat de jeugd een gevarieerd bewegingsprogramma krijgt, waarbij we naast de sportspecifieke ontwikkeling ook veel belang hechten aan de algemene ontwikkeling van de bewegingsvaardigheden.
