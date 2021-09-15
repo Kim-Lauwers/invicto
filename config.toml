@@ -1,5 +1,4 @@
 baseURL = "https://www.invictokeerbergen.be"
-languageCode = "en-us"
 paginate = 9
 
 [params]
