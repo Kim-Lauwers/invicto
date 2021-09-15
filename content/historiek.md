@@ -1,6 +1,6 @@
 +++
-title = "Invicto VZW"
-description = "Een korte club historiek"
+title = "Historiek"
+description = "Een korte historiek van onze club"
 date = 2018-03-09T11:19:39+01:00
 draft = false
 layout = "generic"
