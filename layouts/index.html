@@ -92,6 +92,15 @@
         </div>
     </section>
 
+    <ul class="actions" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemprop="item" href="{{ .Site.BaseURL }}">
+                <span itemprop="name">{{ .Site.Params.Title }}</span>
+            </a>
+            <meta itemprop="position" content="1" />
+        </li>
+    </ul>
+
     {{ partial "footer.html" . }}
 
 </div>
