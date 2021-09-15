@@ -6,8 +6,8 @@ description = "We hebben een extra club-API"
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2021/2021_tais_api.jpeg"
-listpageImgUrl = "/images/nieuws/2021/2021_tais_api.jpeg"
-detailpageImgUrl = "/images/nieuws/2021/2021_tais_api.jpeg"
+listpageImgUrl = "images/nieuws/2021/2021_tais_api.jpeg"
+detailpageImgUrl = "images/nieuws/2021/2021_tais_api.jpeg"
 imageAlt = "Tais Verbond"
 [menu.global]
     parent = "nieuws"
