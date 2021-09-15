@@ -10,7 +10,8 @@ layout = "generic"
 Tabata is een vorm van HIIT-training (High-intensity interval training). \
 Bij deze vorm voer je een oefening 20 seconden uit met maximale intensiteit en vervolgens houd je 10 seconden rust. \
 Op deze manier kan **iedereen** op zijn/haar **eigen niveau en tempo** oefenen. \
-Deze oefeningen kunnen met of zonder gewichten / materiaal uitgevoerd worden. 
+Deze oefeningen kunnen met of zonder gewichten / materiaal uitgevoerd worden. \
+Tabata is zeer effectief om calorieën te verbranden en je conditie te verbeteren.
 
 De naam Tabata is te danken aan de Japanse wetenschapper Izumi Tabata, die onderzoek deed naar deze vorm van HIIT. De studie was de eerste studie die aantoonde dat deze vorm van High Intensity Interval Training verschil kon maken en een toename in zowel anaerobe capaciteit als maximale aerobe kracht kon aantonen.
 
