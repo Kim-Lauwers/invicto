@@ -3,32 +3,6 @@
 <html lang="nl">
 {{ partial "head.html" . }}
 
-<script type="application/ld+json">
-    {
-        "@context": "https://schema.org",
-        "@type": "Organization",
-        "headline": "{{ .Title }}",
-        "image": [
-            "{{ .Site.BaseURL }}{{ .Params.detailpageImgUrl }}"
-        ],
-        "datePublished": "{{ .Date }}",
-        "dateModified": "{{ .Date }}",
-        "author": {
-            "@type": "Person",
-            "name": "{{ .Params.author }}",
-            "url": "{{ .Site.BaseURL }}trainers#{{ replace .Params.author " " "_" }}"
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "{{ .Site.Params.Title }}",
-            "logo": {
-                "@type": "ImageObject",
-                "url": "{{ .Site.BaseURL }}images/site/invicto.jpg"
-            }
-        }
-    }
-</script>
-
 <body class="is-preload">
 
 <!-- Page Wrapper -->

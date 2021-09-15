@@ -16,5 +16,5 @@ command = "hugo -b $DEPLOY_PRIME_URL"
 
 [[redirects]]
 from = "/*"
-to = "/404.html"
+to = "/error"
 status = 404
