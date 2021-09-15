@@ -5,7 +5,7 @@
 <body class="is-preload">
 
 <!-- Page Wrapper -->
-<div id="page-wrapper" vocab="https://schema.org/" typeof="Organization" resource="#article">
+<div id="page-wrapper">
     {{ partial "header.html" . }}
 
     <!-- Main -->
@@ -17,9 +17,9 @@
         <section class="wrapper style5">
 
             <div class="inner">
-                <h2 property="headline">{{ .Title }}</h2>
+                <h2>{{ .Title }}</h2>
 
-                <article property="articleBody">
+                <article>
                     {{ if .Params.detailpageImgUrl }}
                     <span class="image left">
                         <img src="{{ .Site.BaseURL }}/{{ .Params.detailpageImgUrl }}" alt="{{ .Params.imageAlt }}" />
@@ -30,8 +30,8 @@
                 </article>
 
                 <ul class="meta">
-                    <p class="icon solid fa-user-clock" property="datePublished">{{ .Date }}</p>
-                    <p class="icon fa-user" property="author"><a href="/trainers#{{ replace .Params.author " " "_" }}">{{ .Params.author }}</a></p>
+                    <p class="icon solid fa-user-clock">{{ .Date }}</p>
+                    <p class="icon fa-user"><a href="/trainers#{{ replace .Params.author " " "_" }}">{{ .Params.author }}</a></p>
                 </ul>
             </div>
         </section>
