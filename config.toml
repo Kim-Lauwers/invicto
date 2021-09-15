@@ -5,7 +5,7 @@ paginate = 9
 [params]
     dateForm = "January 2, 2006"
     title = "Invicto Keerbergen VZW"
-    shortSiteName="Invicto"
+    shortSiteName="Invicto VZW"
 
 [permalinks]
     nieuws = "/:section/:year/:month/:day/:slug/"
