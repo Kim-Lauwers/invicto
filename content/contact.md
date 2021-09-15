@@ -37,6 +37,8 @@ E-mail: [api-vrouwelijk [AT] invictokeerbergen.be](mailto:api-vrouwelijk@invicto
 ![Organigram](/images/club/organigram.jpg "Organigram")
 
 ### Federaties
+De aangesloten federatie is afhankelijk van de afdeling binnen Invicto VZW.
+
 Aangesloten bij [Vlaamse Ju-Jitsu Federatie](http://vjjf.be) \
   ![VJJF](/images/federatie/vjjf-logo.webp "VJJF LOGO")
 
