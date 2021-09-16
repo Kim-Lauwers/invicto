@@ -30,9 +30,6 @@ contexts = [
     'deploy-preview'
 ]
 
-[[plugins]]
-package = "netlify-plugin-checklinks"
-
 [[redirects]]
 from = "/*"
 to = "/404/"
