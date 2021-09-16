@@ -7,6 +7,9 @@
     {{ if .Params.noindex }}
     <meta name="robots" content="noindex" />
     {{ end }}
+    {{ if .Params.nocache }}
+    <meta name="robots" content="nocache" />
+    {{ end }}
 
     <link rel="icon" type="image/png" href="/images/site/icon/favicon16x16.png" sizes="16x16">
     <link rel="icon" type="image/png" href="/images/site/icon/favicon32x32.png" sizes="32x32">
@@ -23,7 +26,14 @@
     {{ end }}
 
     <meta name="title" content="{{ .Site.Params.Title }} {{ .Title }}">
+
+
+    {{ if .Params.keywords }}
+    <meta name="keywords" content="{{ delimit .Params.keywords ", " }}, {{ .Site.Params.Title }}, {{ .Title }}">
+    {{ else }}
     <meta name="keywords" content="Ju-Jitsu, Keerbergen, Vechtsporten, Judo, BJJ, JJK, Invicto, Striking, No-Gi, Grappling, Jeugd, Kids, {{ .Site.Params.Title }}, {{ .Title }}">
+    {{ end }}
+
     <meta name="author" content="{{ .Site.Params.Title }}">
 
     <meta name="og:title" content="{{ .Site.Params.Title }} {{ .Title }}">

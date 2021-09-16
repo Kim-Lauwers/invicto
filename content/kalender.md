@@ -1,7 +1,9 @@
 +++
 title = "Kalender"
 description = "Overzicht van de geplande trainingen en activiteiten"
+keywords = ["agenda", "training", "trainingen", "kalender", "events", "evenementen"]
 date = 2020-09-28T10:13:39+01:00
+nocache = true
 draft = false
 layout = "generic"
 +++

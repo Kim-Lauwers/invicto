@@ -1,6 +1,7 @@
 +++
 title = "Disclaimer"
 description = "Statement of Invicto Keerbergen VZW"
+keywords = ["statement"]
 date = 2021-09-09T11:19:39+01:00
 draft = false
 layout = "generic"

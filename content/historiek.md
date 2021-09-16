@@ -1,6 +1,7 @@
 +++
 title = "Historiek"
 description = "Een korte historiek van onze club"
+keywords = ["Ju-Jitsu", "Keerbergen", "Ju-Jitsu Keerbergen VZW","Ju-Jitsu Keerbergen", "oprichting" , "geschiedenis", "verleden", "oorsprong"]
 date = 2018-03-09T11:19:39+01:00
 draft = false
 layout = "generic"

@@ -2,6 +2,7 @@
 title = "Contact"
 description = "Voor al uw vragen"
 date = 2021-03-09T11:19:39+01:00
+keywords = ["contact", "e-mail", "informatie", "gegevens", "locatie", "keerbergen", "sporthal", "administratie"]
 draft = false
 layout = "generic"
 +++

@@ -1,5 +1,6 @@
 +++
 title = "Trainingen"
+keywords = ["club", "trainingen", "trainers", "locatie", "betaling", "Ju-Jitsu", "Keerbergen", "BJJ", "Striking", "No-Gi", "Grappling", "Jeugd", "Kids"]
 date = 2018-03-09T11:19:39+01:00
 draft = false
 layout = "generic"

@@ -3,6 +3,7 @@ title = "Vrouwelijke API"
 date = 2021-09-02T08:14:21+02:00
 draft = false
 description = "We hebben een extra club-API"
+keywords = ["API", "Club-API", "Aanspreekpersoon Integriteit", "Vrouw", "Tais Verbond"]
 categories = []
 author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2021/2021_tais_api.jpeg"
