@@ -98,7 +98,7 @@ In het kader van de verwerking van Uw persoonsgegevens binnen de ledenadministra
 * Recht op vergeten te worden, waardoor Uw gegevens zullen verwijderd worden
 * Recht op gegevensoverdracht, zodat U kan vragen dat wij de van U verwerkte gegevens overdragen aan een derde
 * Recht om de toestemming ten allen tijde in te trekken voor de gegevens die wij van U verwerken op basis van Uw toestemming
-* Recht om klacht in te dienen bij de Gegevensbeschermingsautoriteit – Drukpersstraat 35 – 1000 Brussel – Tel: 02/274.48.00 – Fax: 02/274.48.35 -contact@apd-gba.be
+* Recht om klacht in te dienen bij de Gegevensbeschermingsautoriteit – Drukpersstraat 35 – 1000 Brussel – Tel: 02/274.48.00 – Fax: 02/274.48.35 - [contact [AT] apd-gba.be](mailto:contact@apd-gba.be)
 
 U kan deze rechten ten allen tijde uitvoeren door een schriftelijk verzoek te zenden aan hetzij de clubverantwoordelijke voor de verwerking door de club, hetzij aan de Data Protection Consultant van de bijhorende federatie zijnde de VJJF VZW of Fros VZW.
 
