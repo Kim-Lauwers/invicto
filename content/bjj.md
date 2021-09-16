@@ -8,9 +8,12 @@ layout = "generic"
 +++
 ## Brazilian Ju-Jitsu (BJJ)
 
-Braziliaans Jiu-jitsu is een vechtsport is gefocused is op grondgevecht (ne-waza) en submissions (houdgrepen / Osae Komi Waza). \
-
-Kennis van de juiste techniek staat voorop waarbij we met het behulp van veel oefenengevechten, drills en competitieve sparring steeds beter worden.
+Braziliaans Jiu-jitsu is een vechtsport die gefocused is op grondgevecht (ne-waza) en submissions (houdgrepen / Osae Komi Waza). \
+Het doel is een dominante positie te krijgen en ervoor te zorgen dat een aanvaller zo snel mogelijk “afklopt”.
+Het idee is dat zacht wint van hard. \
+Met andere woorden, een klein zwakker persoon kan met de juiste technieken en bewegingen zichzelf verdedigen tegen een sterker en grotere aanvaller. \
+Je kan de sport beoefenen als zelfverdediging of meedraaien met de wedstrijden. \
+Kennis van de juiste techniek staat voorop waarbij we met het behulp van veel oefengevechten, drills en competitieve sparring steeds beter worden.
 
 Invicto BJJ is een afdeling onder leiding van zwarte band [Frank Engels](/trainers/#Frank_Engels), kijk zeker ook naar onze [No-Gi / Grappling](/grappling) afdeling.
 
