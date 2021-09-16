@@ -15,7 +15,7 @@ Ju-Jitsu is niet alleen een zelfverdedigingssport maar ook een zeer complete bud
 In onze club kan je vrijblijvend aan competitie deelnemen, wij doen hoofdzakelijk mee aan de Fighting-competitie vorm.
 Bij deze vorm is er een 1 tegen 1 gevecht. 
 Elke actie kan punten op leveren. 
-Het gevecht bestaat uit drie fases wat wil zeggen dat je een allround vechter moet zijn..
+Het gevecht bestaat uit drie fases wat wil zeggen dat je een allround vechter moet zijn.
 
 ### Trainingen
 Zie [trainingen](/trainingen) en [kalender](/kalender) voor het overzicht van de trainingen.
