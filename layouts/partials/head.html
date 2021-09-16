@@ -21,8 +21,22 @@
 
     {{ if .Description }}
     <meta name="description" content="{{ .Site.Params.Title }} {{ .Description }}">
+    <meta name="og:description" content="{{ .Site.Params.Title }} {{ .Description }}">
+    <meta name="twitter:description" content="{{ .Site.Params.Title }} {{ .Description }}">
     {{ else }}
     <meta name="description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
+    <meta name="og:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen onder leiding van gediplomeerde en ervaren trainers.">
+    <meta name="twitter:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
+    {{ end }}
+
+    {{ if .Params.metaImage }}
+    <link rel="image_src" href="{{ .Site.BaseURL }}{{ .Params.metaImage }}" />
+    <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}">
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}">
+    {{ else }}
+    <link rel="image_src" href="{{ .Site.BaseURL }}images/site/invicto.jpg" />
+    <meta name="og:image" content="{{ .Site.BaseURL }}images/site/invicto.jpg">
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}images/site/invicto.jpg">
     {{ end }}
 
     <meta name="title" content="{{ .Site.Params.Title }} {{ .Title }}">
@@ -38,23 +52,9 @@
 
     <meta name="og:title" content="{{ .Site.Params.Title }} {{ .Title }}">
 
-    {{ if .Description }}
-    <meta name="og:description" content="{{ .Site.Params.Title }} {{ .Description }}">
-    {{ else }}
-    <meta name="og:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen onder leiding van gediplomeerde en ervaren trainers.">
-    {{ end }}
-
-    <link rel="image_src" href="{{ .Site.BaseURL }}images/site/invicto.jpg" />
-    <meta name="og:image" content="{{ .Site.BaseURL }}images/site/invicto.jpg">
     <meta name="og:url" content="{{ .Permalink }}">
 
     <meta name="twitter:title" content="{{ .Site.Params.Title }} {{ .Title }}">
-    {{ if .Description }}
-    <meta name="twitter:description" content="{{ .Site.Params.Title }} {{ .Description }}">
-    {{ else }}
-    <meta name="twitter:description" content="{{ .Site.Params.Title }} - Gepassioneerde gevechtsportclub te Keerbergen.">
-    {{ end }}
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}images/site/invicto.jpg">
     <meta name="twitter:card" content="summary_large_image">
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
