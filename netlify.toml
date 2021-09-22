@@ -14,9 +14,6 @@ command = "hugo -b $DEPLOY_URL"
 [context.branch-deploy]
 command = "hugo -b $DEPLOY_PRIME_URL"
 
-[[plugins]]
-package = "@netlify/plugin-sitemap"
-
 # Config for the Netlify Build Plugin: netlify-plugin-minify-html
 [[plugins]]
 package = "netlify-plugin-minify-html"
