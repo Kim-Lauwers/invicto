@@ -14,10 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag       |Datum                  |Tijd       | Activiteit                                                     |
 | ----------|-----------------------|:----------|:---------------------------------------------------------------|
-|Za         | 18 september 2021     |9u tot 10u | Jeugdtraining                                                  |
-|Za         | 18 september 2021     |10u tot 12u| No-Gi                                                          |
-|Di         | 21 september 2021     |18u tot 19u| Jeugdtraining                                                  |
-|Di         | 21 september 2021     |19u tot 21u| Hoofdtraining                                                  |
 |Do         | 23 september 2021     |19u tot 20u| Jeugdtraining                                                  |
 |Do         | 23 september 2021     |19u tot 21u| Hoofdtraining                                                  |
 |Za         | 25 september 2021     |           |  **GEEN TRAINING** - Sporthal gesloten vanwege WK-wielrennen   |
