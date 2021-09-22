@@ -16,12 +16,18 @@ Tel.: +32 15 51 80 71 \
 Zie ook: [trainingen](/trainingen).
 
 ### Algemene administratie
+#### Voorzitter
 Kim Lauwers  \
 Broekelei 9 \
 3140 Keerbergen \
 Tel : +32 476 98 38 35 \
 E-mail: [kim [AT] invictokeerbergen.be](mailto:kim@invictokeerbergen.be) \
 E-mail: [info [AT] invictokeerbergen.be](mailto:info@invictokeerbergen.be)
+
+#### Ondervoorzitter
+Frank Engels \
+Tel : +32 485 53 24 60 \
+E-mail: [frank [AT] invictokeerbergen.be](mailto:frank@invictokeerbergen.be) \
 
 ### Gediplomeerde Jeugdsportcoördinator
 Kim Lauwers \
