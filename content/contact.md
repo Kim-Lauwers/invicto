@@ -37,7 +37,7 @@ E-mail: [jeugdsport [AT] invictokeerbergen.be](mailto:jeugdsport@invictokeerberg
 Kim Lauwers (Mannelijk) \
 E-mail: [api-mannelijk [AT] invictokeerbergen.be](mailto:api-mannelijk@invictokeerbergen.be) \
 
-Tais Verbond (Vrouwelijk) (Nog in opleiding) \
+Tais Verbond (Vrouwelijk) \
 E-mail: [api-vrouwelijk [AT] invictokeerbergen.be](mailto:api-vrouwelijk@invictokeerbergen.be) \
 
 ### Organigram
