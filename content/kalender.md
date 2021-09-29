@@ -14,10 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag       |Datum                  |Tijd       | Activiteit                                                     |
 | ----------|-----------------------|:----------|:---------------------------------------------------------------|
-|Di         | 28 september 2021     |18u tot 19u| Jeugdtraining                                                  |
-|Di         | 28 september 2021     |19u tot 21u| Hoofdtraining                                                  |
-|Do         | 30 september 2021     |19u tot 20u| Jeugdtraining                                                  |
-|Do         | 30 september 2021     |19u tot 21u| Hoofdtraining                                                  |
 |Za         |  2 oktober 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
 |Za         |  2 oktober 2021       |10:00 tot 10:30|[Tabata](/tabata)                                           |                           
 |Za         |  2 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
