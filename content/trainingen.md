@@ -10,13 +10,13 @@ layout = "generic"
 
 #### Voor de kinderen (van 8 jaar tot en met 12 jaar)
 * Dinsdag van 18:00 tot 19:00. 
-* Donderdag van 19:00 tot 20:00. Dit is een dynamische training (Jeugd en Volwassenen samen, aparte trainers).
+* Donderdag van 18:30 tot 19:30.
 * Zaterdag: No-Gi van 09:00 tot 10:00.
 
 #### Voor de volwassenen(vanaf 12 jaar)
 * Dinsdag:  [Ju-Jitsu Fighting](/fighting) van 19:00 tot 20:30.
 * Dinsdag:  [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
-* Donderdag:  [Ju-Jitsu Fighting](/fighting) van 19:00 tot 20:30.
+* Donderdag:  [Ju-Jitsu Fighting](/fighting) van 19:30 tot 20:30.
 * Donderdag:  [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
 * Zaterdag: [Tabata](/tabata) van 10:00 tot 10:30.
 * Zaterdag: [Striking](/striking) van 10:30 tot 11:30.
@@ -32,10 +32,9 @@ Tel.: +32 15 51 80 71
 Er wordt lesgegeven door [Sport vlaanderen erkende / gediplomeerde trainers](/trainers)
 
 ## Trainingskledij 
-* De GI (broek en vest) is wit. Enkel trainers kunnen een andere kleur GI dragen 
 * De GI mag enkel van logo’s en reclame voorzien worden die door het Bestuur werden goedgekeurd
-* Aan representaties binnen de VJJF en BJJF of internationale wedstrijden gelinkt aan JJIF wordt steeds deelgenomen onder Ju-Jitsu Keerbergen en in outfit van Ju-Jitsu Keerbergen (wedstrijdgi en trainingsoutfit)
-* De wedstrijdgi bevat geen symbolen van andere clubs of verwijzing naar andere club, enkel Ju-Jitsu Keerbergen en hun sponsors zullen hier naar voor komen.
+* Aan representaties binnen de VJJF en BJJF of internationale wedstrijden gelinkt aan JJIF wordt steeds deelgenomen onder Invicto Keerbergen en in outfit van Invicto Keerbergen (wedstrijdgi en trainingsoutfit)
+* De wedstrijdgi bevat geen symbolen van andere clubs of verwijzing naar andere club, enkel Invicto Keerbergen en hun sponsors zullen hier naar voor komen.
 
 ## Lidmaatschap
 
