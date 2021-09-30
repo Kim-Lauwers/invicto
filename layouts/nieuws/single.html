@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+
+<html lang="nl-BE">
+{{ partial "head.html" . }}
+
+<body class="is-preload">
+
+<!-- Page Wrapper -->
+<div id="page-wrapper">
+    {{ partial "header.html" . }}
+
+    <!-- Main -->
+    <article id="main">
+        <header>
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Description }}</p>
+        </header>
+        <section class="wrapper style5">
+
+            <div class="inner">
+                <h2>{{ .Title }}</h2>
+
+                <article>
+                    {{ if .Params.detailpageImgUrl }}
+                    <span class="image left">
+                        <img src="{{ .Site.BaseURL }}{{ .Params.detailpageImgUrl }}" alt="{{ .Params.imageAlt }}" />
+                    </span>
+                    {{ end }}
+
+                    {{ .Content }}
+                </article>
+
+                <ul class="meta">
+                    <p class="icon solid fa-user-clock">{{ .Date }}</p>
+                    <p class="icon fa-user"><a href="/trainers#{{ replace .Params.author " " "_" }}">{{ .Params.author }}</a></p>
+                </ul>
+            </div>
+        </section>
+    </article>
+
+    <ul class="actions" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemprop="item" href="{{ .Site.BaseURL }}">
+                <span itemprop="name">{{ .Site.Params.Title }}</span>
+            </a>
+            <meta itemprop="position" content="1" />
+        </li>
+        ›
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="{{ .Site.BaseURL }}/nieuws" href="{{ .Site.BaseURL }}/nieuws">
+                <span itemprop="name">Nieuws</span>
+            </a>
+            <meta itemprop="position" content="2" />
+        </li>
+        ›
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemscope itemtype="https://schema.org/WebPage" itemprop="item" itemid="{{ .Permalink }}" href="{{ .Permalink }}">
+                <span itemprop="name">{{ .Title }}</span>
+            </a>
+            <meta itemprop="position" content="3" />
+        </li>
+    </ul>
+
+    {{ partial "footer.html" . }}
+
+</div>
+
+{{ partial "scripts.html" . }}
+
+</body>
+</html>

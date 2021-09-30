@@ -1,0 +1,29 @@
+firstname = "Wout"
+familyname = "Duez"
+danGraden = [
+            "1ste DAN Ju-Jitsu"
+            ]
+startJuJitsu = "2005"
+diplomas = [
+            ]
+functionsclub = [
+            "Secretaris",
+            "Trainer bij de hoofdgroep",
+            "Assistent coach van het competitie team",
+           ]
+functionsNextToClub = [
+           ]
+palmares = [
+                "7 x Belgisch kampioen",
+                "3 x Vlaams kampioen",
+                "4 x Open Oost Vlaams kampioen",
+                "4 x Open Antwerps kampioen",
+                "1ste plaats Western European Championship Grandslam",
+                "2 keer goud op toernooien in Nederland (12 Provinciën toernooi; Open Midden Nederlands)",
+                "2de plaats German Open 2013",
+                "9de plaats Wereldkampioenschap Ju-Jitsu 2013",
+                "7de plaats Wereldkampioenschap Ju-Jitsu 2018"
+            ]
+mail = "wout@invictokeerbergen.be"
+imageSrc = "/images/trainers/WoutDuez.webp"
+weight = "4"

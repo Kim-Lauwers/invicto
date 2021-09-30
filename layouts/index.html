@@ -1,0 +1,111 @@
+<!DOCTYPE HTML>
+<html lang="nl-BE">
+{{ partial "head.html" . }}
+
+<body class="landing">
+
+<!-- Page Wrapper -->
+<div id="page-wrapper">
+    {{ partial "header.html" . }}
+
+    <!-- Banner -->
+    <section id="banner">
+        <div class="inner">
+            <h2>{{ .Site.Params.shortSiteName }}</h2>
+            <p>Self Defense Academy Keerbergen</p>
+            <ul class="actions special">
+                <li><a href="/nieuws" class="button primary">Nieuws</a></li>
+            </ul>
+        </div>
+        <a href="#one" class="more scrolly">Meer informatie</a>
+    </section>
+
+    <!-- One -->
+
+    <section id="one" class="wrapper style1 special">
+        <div class="inner">
+            <header class="major">
+                <h2>WELKOM BESTE SPORTVRIENDEN</h2>
+                <p>
+                    Hier kan u alle informatie vinden over onze club Invicto Keerbergen en onze verschillende sportafdelingen. <br/>
+                    Mocht u nog vragen hebben, aarzel dan niet om ons te contacteren.
+                </p>
+                <ul class="actions stacked">
+                    <li><a href="/contact" class="button fit primary">Contact</a></li>
+                </ul>
+            </header>
+        </div>
+    </section>
+
+    <!-- Departments -->
+    <section id="two" class="wrapper alt style2">
+        {{ range sort .Site.Data.spotlight "weight" }}
+        <section class="spotlight">
+            <div class="content">
+                <a href="{{ .link }}">
+                    <h2>{{ .title }}</h2>
+                    <p>{{ .description }}</p>
+                </a>
+            </div>
+            <div class="image">
+                <a href="{{ .link }}">
+                    <img src="{{ .image }}" alt="{{ .imageAlt}}"/>
+                </a>
+            </div>
+        </section>
+        {{ end }}
+    </section>
+
+    <!-- Three -->
+    <section id="three" class="wrapper style3 special">
+        <div class="inner">
+            <header class="major">
+                <h2>Meest gezochte informatie</h2>
+                <p>Een link naar gezochte informatie op onze site. </p>
+            </header>
+            <ul class="features">
+                {{ range sort .Site.Data.features "weight" }}
+
+                <li class="icon solid {{ .icon }}">
+                    <a href="{{ .link }}">
+                        <h3>{{ .title }}</h3>
+                    <p>{{ .description }}</p>
+                    </a>
+                </li>
+                {{ end }}
+            </ul>
+        </div>
+    </section>
+
+    <!-- Contact -->
+    <section id="cta" class="wrapper style4">
+        <div class="inner">
+            <header>
+                <h2>Nieuw lid?</h2>
+                <p>U bent altijd welkom op één van onze trainingen.</p>
+                <p>Zijn nog niet alle vragen beantwoord via onze website, aarzel niet om ons even te contacteren.</p>
+            </header>
+            <ul class="actions stacked">
+                <li><a href="/trainingen" class="button fit primary">Trainingen</a></li>
+                <li><a href="/contact" class="button fit">Contact</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <ul class="actions" itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemprop="item" href="{{ .Site.BaseURL }}">
+                <span itemprop="name">{{ .Site.Params.Title }}</span>
+            </a>
+            <meta itemprop="position" content="1" />
+        </li>
+    </ul>
+
+    {{ partial "footer.html" . }}
+
+</div>
+
+{{ partial "scripts.html" . }}
+
+</body>
+</html>

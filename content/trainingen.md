@@ -1,0 +1,71 @@
++++
+title = "Trainingen"
+keywords = ["club", "trainingen", "trainers", "locatie", "betaling", "Ju-Jitsu", "Keerbergen", "BJJ", "Striking", "No-Gi", "Grappling", "Jeugd", "Kids"]
+date = 2018-03-09T11:19:39+01:00
+draft = false
+layout = "generic"
++++
+## Trainingen
+### Tijdstippen
+
+#### Voor de kinderen (van 8 jaar tot en met 12 jaar)
+* Dinsdag van 18:00 tot 19:00. 
+* Donderdag van 18:30 tot 19:30.
+* Zaterdag: No-Gi van 09:00 tot 10:00.
+
+#### Voor de volwassenen(vanaf 12 jaar)
+* Dinsdag:  [Ju-Jitsu Fighting](/fighting) van 19:00 tot 20:30.
+* Dinsdag:  [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
+* Donderdag:  [Ju-Jitsu Fighting](/fighting) van 19:30 tot 20:30.
+* Donderdag:  [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
+* Zaterdag: [Tabata](/tabata) van 10:00 tot 10:30.
+* Zaterdag: [Striking](/striking) van 10:30 tot 11:30.
+* Zaterdag: [No-Gi / Grappling](/grappling) van 11:30 tot 13:00.
+
+### Locatie
+Gemeentelijke Sporthal Keerbergen \
+Putsebaan 103 \
+3140 Keerbergen \
+Tel.: +32 15 51 80 71
+
+### Trainers
+Er wordt lesgegeven door [Sport vlaanderen erkende / gediplomeerde trainers](/trainers)
+
+## Trainingskledij 
+* De GI mag enkel van logo’s en reclame voorzien worden die door het Bestuur werden goedgekeurd
+* Aan representaties binnen de VJJF en BJJF of internationale wedstrijden gelinkt aan JJIF wordt steeds deelgenomen onder Invicto Keerbergen en in outfit van Invicto Keerbergen (wedstrijdgi en trainingsoutfit)
+* De wedstrijdgi bevat geen symbolen van andere clubs of verwijzing naar andere club, enkel Invicto Keerbergen en hun sponsors zullen hier naar voor komen.
+
+## Lidmaatschap
+
+Een seizoen loopt van september tot augustus. Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
+
+* Voor de jeugd (van 8 jaar tot en met 12 jaar): € 180
+* Voor de volwassenen(vanaf 12 jaar): € 350
+
+Deze lidgelden zijn all inclusive (meer info in het aansluitingsformulier).
+U kan het aansluitingsformulier [hier](/documents/club/Lidmaatschappij-Invicto_Keerbergen.pdf) terugvinden.
+
+### Mutualiteiten
+Indien u aangesloten bent bij een mutualiteit kan u daar steeds een stuk van het lidgeld terug vorderen.
+
+### Tussentijdse lidmaatschapsbijdrage
+Tijdens een lopende sportseizoen kan er ook nog aangesloten en dan wordt het lidgeld pro-rata berekend op de nog lopende termijn (De zomermaanden worden hier niet bijgerekend). De kosten van de aansluiting bij de federatie en de verzekering kunnen niet pro-rata berekend worden en dienen steeds volledig betaald te worden.
+
+### Kortingsregeling
+Vanaf een tweede lid van hetzelfde gezin met dezelfde domiciliëring (adres van inschrijving) krijgt men een korting van € 15 op het jaarlijkse lidgeld van de vereniging. 
+
+### Betalingsregeling op verzoek
+Op aanvraag van het lid of bij minderjarigen hun ouder(s) / wettelijke voogd kan er discreet een betalingsregeling overeengekomen worden met het bestuur van de club. \
+Deze afspraken dienen schriftelijk genoteerd te worden en zijn pas definitief na ondertekening door de aanvrager en een bestuurslid van de club. \
+De betalingsregeling is geen recht en wordt per aanvraag door het bestuur geëvalueerd en al dan niet toegekend. \
+Een goedgekeurde betalingsregeling is slechts geldig voor 1 sportseizoen.
+
+### Terugbetalingen
+Betaalde lidgelden zijn nooit terugvorderbaar.
+
+### Sportmedische geschiktheidsonderzoek
+Momenteel is dit enkel verplicht voor leden die aan competitie deelnemen.
+
+### Gedragscode
+Onze gedragscode kan u [hier](/documents/club/Gedragscode.pdf) terugvinden.

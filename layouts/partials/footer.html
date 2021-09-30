@@ -1,0 +1,19 @@
+<!-- Footer -->
+<footer id="footer">
+    <ul class="icons">
+        {{ range sort .Site.Data.socials "weight" }}
+        <li>
+            <a href="{{ .url }}" class="icon {{ .class }}" aria-hidden="true">
+                    <span class="label">{{ .name }}</span>
+            </a>
+        </li>
+        {{ end }}
+    </ul>
+
+    <ul class="copyright">
+        <li><a href="/disclaimer">Disclamer</a></li>
+        <li><a href="/privacy">Privacy verklaring</a></li>
+    </ul>
+
+    {{ partial "copyright.html" . }}
+</footer>

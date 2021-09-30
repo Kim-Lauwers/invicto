@@ -1,0 +1,55 @@
+<html lang="nl-BE">
+{{ partial "head.html" . }}
+<body class="is-preload">
+
+<!-- Page Wrapper -->
+<div id="page-wrapper">
+    {{ partial "header.html" . }}
+
+    <!-- Main -->
+    <article id="main">
+        <header>
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Description }}</p>
+        </header>
+        <section class="wrapper style5">
+            <div class="inner">
+                <p>
+                Ons ervaren, gediplomeerd, gepassioneerd en enthousiast trainers team staat klaar om je op een verantwoorde wijze te begeleiden.
+                Verder wordt {{ .Site.Params.shortSiteName }} geleid door een gedreven en geëngageerd bestuur.
+                </p>
+
+                <h2>Ons trainers team</h2>
+                Klik op de naam van één van onze trainers of assistenten om meer informatie te zien.
+                <ul>
+                    {{ range sort $.Site.Data.trainers "weight" }}
+                    <li><a href="#{{ .firstname }}_{{ .familyname }}">{{ .firstname }} {{ .familyname }}</a></li>
+                    {{ end }}
+
+                    {{ range sort $.Site.Data.assistent "weight" }}
+                    <li><a href="#{{ .firstname }}_{{ .familyname }}">{{ .firstname }} {{ .familyname }}</a></li>
+                    {{ end }}
+                </ul>
+
+                <h3>Trainers</h3>
+                {{ range sort $.Site.Data.trainers "weight" }}
+                    {{ partial "trainer.html" . }}
+                {{ end }}
+
+                <h3>Assistenten</h3>
+                {{ range sort $.Site.Data.assistent "weight" }}
+                    {{ partial "trainer.html" . }}
+                {{ end }}
+            </div>
+        </section>
+    </article>
+
+    {{ partial "breadcrumb.html" . }}
+    {{ partial "footer.html" . }}
+
+</div>
+
+{{ partial "scripts.html" . }}
+
+</body>
+</html>
