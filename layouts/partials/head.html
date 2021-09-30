@@ -10,48 +10,48 @@
     <meta name="robots" content="nocache" />
     {{ end }}
 
-    <link rel="icon" type="image/png" href="/images/site/icon/favicon16x16.png" sizes="16x16">
-    <link rel="icon" type="image/png" href="/images/site/icon/favicon32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="/images/site/icon/favicon96x96.png" sizes="96x96">
-    <link rel="shortcut icon" href="/images/site/icon/favicon-196.png" sizes="196x196" >
-    <link rel="apple-touch-icon" sizes="72x72" href="/images/site/icon/touch-ipad.png" >
-    <link rel="apple-touch-icon" sizes="114x114" href="/images/site/icon/touch-iphone.png" >
-    <link rel="apple-touch-icon" sizes="152x152" href="/images/site/icon/touch-ipad-ret.png" >
+    <link rel="icon" type="image/png" href="/images/site/icon/favicon16x16.png" sizes="16x16" />
+    <link rel="icon" type="image/png" href="/images/site/icon/favicon32x32.png" sizes="32x32" />
+    <link rel="icon" type="image/png" href="/images/site/icon/favicon96x96.png" sizes="96x96" />
+    <link rel="shortcut icon" href="/images/site/icon/favicon-196.png" sizes="196x196" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/images/site/icon/touch-ipad.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/images/site/icon/touch-iphone.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/images/site/icon/touch-ipad-ret.png" />
 
     {{ if .Description }}
-    <meta name="description" content="{{ .Site.Params.Title }} - {{ .Description }}">
-    <meta name="og:description" content="{{ .Site.Params.Title }} - {{ .Description }}">
-    <meta name="twitter:description" content="{{ .Site.Params.Title }} - {{ .Description }}">
+    <meta name="description" content="{{ .Site.Params.Title }} - {{ .Description }}" />
+    <meta name="og:description" content="{{ .Site.Params.Title }} - {{ .Description }}" />
+    <meta name="twitter:description" content="{{ .Site.Params.Title }} - {{ .Description }}" />
     {{ else }}
-    <meta name="description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers.">
-    <meta name="og:description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers.">
-    <meta name="twitter:description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers.">
+    <meta name="description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers." />
+    <meta name="og:description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers." />
+    <meta name="twitter:description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers." />
     {{ end }}
 
     {{ if .Params.metaImage }}
     <link rel="image_src" href="{{ .Site.BaseURL }}{{ .Params.metaImage }}" />
-    <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}">
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}">
+    <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}" />
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}" />
     {{ else }}
     <link rel="image_src" href="{{ .Site.BaseURL }}/images/site/invicto.jpg" />
-    <meta name="og:image" content="{{ .Site.BaseURL }}/images/site/invicto.jpg">
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}/images/site/invicto.jpg">
+    <meta name="og:image" content="{{ .Site.BaseURL }}/images/site/invicto.jpg" />
+    <meta name="twitter:image" content="{{ .Site.BaseURL }}/images/site/invicto.jpg" />
     {{ end }}
-    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:card" content="summary_large_image" />
 
-    <meta name="title" content="{{ .Site.Params.Title }} {{ .Title }}">
-    <meta name="og:title" content="{{ .Site.Params.Title }} {{ .Title }}">
-    <meta name="twitter:title" content="{{ .Site.Params.Title }} {{ .Title }}">
+    <meta name="title" content="{{ .Site.Params.Title }} {{ .Title }}" />
+    <meta name="og:title" content="{{ .Site.Params.Title }} {{ .Title }}" />
+    <meta name="twitter:title" content="{{ .Site.Params.Title }} {{ .Title }}" />
 
 
     {{ if .Params.keywords }}
-    <meta name="keywords" content="{{ delimit .Params.keywords ", " }}, {{ .Site.Params.Title }}, {{ .Title }}">
+    <meta name="keywords" content="{{ delimit .Params.keywords ", " }}, {{ .Site.Params.Title }}, {{ .Title }}" />
     {{ else }}
-    <meta name="keywords" content="Ju-Jitsu, Keerbergen, Vechtsporten, Judo, BJJ, JJK, Invicto, Striking, No-Gi, Grappling, Jeugd, Kids, {{ .Site.Params.Title }}, {{ .Title }}">
+    <meta name="keywords" content="Ju-Jitsu, Keerbergen, Vechtsporten, Judo, BJJ, JJK, Invicto, Striking, No-Gi, Grappling, Jeugd, Kids, {{ .Site.Params.Title }}, {{ .Title }}" />
     {{ end }}
 
-    <meta name="author" content="{{ .Site.Params.Title }}">
-    <meta name="og:url" content="{{ .Permalink }}">
+    <meta name="author" content="{{ .Site.Params.Title }}" />
+    <meta name="og:url" content="{{ .Permalink }}" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="/assets/css/main.css" />
