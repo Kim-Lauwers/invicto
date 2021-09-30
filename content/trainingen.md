@@ -1,6 +1,7 @@
 +++
 title = "Trainingen"
-keywords = ["club", "trainingen", "trainers", "locatie", "betaling", "Ju-Jitsu", "Keerbergen", "BJJ", "Striking", "No-Gi", "Grappling", "Jeugd", "Kids"]
+description = "Informatie over de trainingen en het lidmaatschap"
+keywords = ["club", "trainingen", "training", "lidmaatschap", "bijdrag", "trainers", "locatie", "betaling", "Ju-Jitsu", "Keerbergen", "BJJ", "Striking", "No-Gi", "Grappling", "Jeugd", "Kids"]
 date = 2018-03-09T11:19:39+01:00
 draft = false
 layout = "generic"
@@ -38,7 +39,8 @@ Er wordt lesgegeven door [Sport vlaanderen erkende / gediplomeerde trainers](/tr
 
 ## Lidmaatschap
 
-Een seizoen loopt van september tot augustus. Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
+Een seizoen loopt van september tot augustus. Indien u later inschrijft zie dan ook hieronder voor tussentijdse lidmaatschapsbijdrage.
+Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
 
 * Voor de jeugd (van 8 jaar tot en met 12 jaar): € 180
 * Voor de volwassenen(vanaf 12 jaar): € 350
@@ -46,11 +48,11 @@ Een seizoen loopt van september tot augustus. Zomertrainingen tijdens juli en au
 Deze lidgelden zijn all inclusive (meer info in het aansluitingsformulier).
 U kan het aansluitingsformulier [hier](/documents/club/Lidmaatschappij-Invicto_Keerbergen.pdf) terugvinden.
 
+#### Tussentijdse lidmaatschapsbijdrage
+Tijdens een lopende sportseizoen kan er ook nog aangesloten en dan wordt het lidgeld pro-rata berekend op de nog lopende termijn (De zomermaanden worden hier niet bijgerekend). De kosten van de aansluiting bij de federatie en de verzekering kunnen niet pro-rata berekend worden en dienen steeds volledig betaald te worden.
+
 ### Mutualiteiten
 Indien u aangesloten bent bij een mutualiteit kan u daar steeds een stuk van het lidgeld terug vorderen.
-
-### Tussentijdse lidmaatschapsbijdrage
-Tijdens een lopende sportseizoen kan er ook nog aangesloten en dan wordt het lidgeld pro-rata berekend op de nog lopende termijn (De zomermaanden worden hier niet bijgerekend). De kosten van de aansluiting bij de federatie en de verzekering kunnen niet pro-rata berekend worden en dienen steeds volledig betaald te worden.
 
 ### Kortingsregeling
 Vanaf een tweede lid van hetzelfde gezin met dezelfde domiciliëring (adres van inschrijving) krijgt men een korting van € 15 op het jaarlijkse lidgeld van de vereniging. 
