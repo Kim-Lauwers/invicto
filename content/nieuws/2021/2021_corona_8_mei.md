@@ -1,6 +1,6 @@
 +++
 title = "Aanpassing corona-regels 8 mei"
-date = 2021-05-10T8:04:21+02:00
+date = 2021-05-10T08:04:21+02:00
 draft = false
 description = "Impact vooral op +18"
 categories = []
