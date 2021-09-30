@@ -17,7 +17,7 @@ parent = "nieuws"
 Geacht(e) atleet, lid, (plus-)ouder, sporter…
 
 Zaterdag 2 oktober zal de eerste training van Invicto BJJ (Grappling) gegeven worden en dit onder leiding van niemand minder dan BJJ legende [Wim Deputter](https://www.wimdeputter.com/).
-Wim is een zwarte band die de laatste 20 jaar meer dan 600 wedstrijden heeft gevochten in BJJ, grappling en MMA. We zijn dan ook vereerd dat hij op onze eerste training een deel van kennis wil komen doorgeven.
+Wim is een zwarte band die de laatste 20 jaar meer dan 600 wedstrijden heeft gevochten in BJJ, grappling en MMA. We zijn dan ook vereerd dat hij op onze eerste training een deel van zijn kennis wil komen doorgeven.
 
 Onze eigen trainer [Frank](https://www.jujitsukeerbergen.be/trainers/#Frank_Engels) heeft ook zijn [zwarte band BJJ](/frank-haalt-zwarte-band-bjj/) onder Wim behaald.
 
