@@ -4,10 +4,10 @@
     <title>{{ .Site.Params.Title }} {{ .Title }}</title>
 
     {{ if .Params.noindex }}
-    <meta name="robots" content="noindex" />
+    <meta property="robots" name="robots" content="noindex" />
     {{ end }}
     {{ if .Params.nocache }}
-    <meta name="robots" content="nocache" />
+    <meta property="robots" name="robots" content="nocache" />
     {{ end }}
 
     <link rel="icon" type="image/png" href="/images/site/icon/favicon16x16.png" sizes="16x16" />
@@ -19,24 +19,31 @@
     <link rel="apple-touch-icon" sizes="152x152" href="/images/site/icon/touch-ipad-ret.png" />
 
     {{ if .Description }}
-    <meta name="description" content="{{ .Site.Params.Title }} - {{ .Description }}" />
-    <meta name="og:description" content="{{ .Site.Params.Title }} - {{ .Description }}" />
-    <meta name="twitter:description" content="{{ .Site.Params.Title }} - {{ .Description }}" />
+    <meta property="description" name="description" content="{{ .Site.Params.Title }} - {{ .Description }}" />
+    <meta property="og:description" name="og:description" content="{{ .Site.Params.Title }} - {{ .Description }}" />
+    <meta property="twitter:description" name="twitter:description" content="{{ .Site.Params.Title }} - {{ .Description }}" />
     {{ else }}
-    <meta name="description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers." />
-    <meta name="og:description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers." />
-    <meta name="twitter:description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers." />
+    <meta property="description" name="description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers." />
+    <meta property="og:description" name="og:description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers." />
+    <meta property="twitter:description" name="twitter:description" content="{{ .Site.Params.Title }} is een gepassioneerde gevechtsportclub die trainingen aanbiedt onder andere in Ju-Jitsu, BJJ (Brazillian Ju-Jitsu), Grappling, No-Gi en natuurlijk ook voor de jeugd. Dit allemaal onder leiding van gediplomeerde en ervaren trainers." />
     {{ end }}
 
     {{ if .Params.metaImage }}
     <link rel="image_src" href="{{ .Site.BaseURL }}{{ .Params.metaImage }}" />
-    <meta name="og:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}" />
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}" />
+    <meta property="og:image" name="og:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}" />
+    <meta property="twitter:image" name="twitter:image" content="{{ .Site.BaseURL }}{{ .Params.metaImage }}" />
     {{ else }}
     <link rel="image_src" href="{{ .Site.BaseURL }}/images/site/invicto.jpg" />
-    <meta name="og:image" content="{{ .Site.BaseURL }}/images/site/invicto.jpg" />
-    <meta name="twitter:image" content="{{ .Site.BaseURL }}/images/site/invicto.jpg" />
+    <meta property="og:image" name="og:image" content="{{ .Site.BaseURL }}/images/site/invicto.jpg" />
+    <meta property="twitter:image" name="twitter:image" content="{{ .Site.BaseURL }}/images/site/invicto.jpg" />
     {{ end }}
+
+    {{ if .Params.imageAlt }}
+    <meta property="og:image:alt" name="og:image:alt" content="{{ .Params.imageAlt }}" />
+    {{ else }}
+    <meta property="og:image:alt" name="og:image:alt" content="{{ .Site.Params.Title }} {{ .Title }}" />
+    {{ end }}
+
     <meta name="twitter:card" content="summary_large_image" />
 
     <meta name="title" content="{{ .Site.Params.Title }} {{ .Title }}" />
@@ -46,13 +53,13 @@
     <meta property="og:site_name" content="{{ .Site.Params.Title }}" />
 
     {{ if .Params.keywords }}
-    <meta name="keywords" content="{{ delimit .Params.keywords ", " }}, {{ .Site.Params.Title }}, {{ .Title }}" />
+    <meta property="keywords" name="keywords" content="{{ delimit .Params.keywords ", " }}, {{ .Site.Params.Title }}, {{ .Title }}" />
     {{ else }}
-    <meta name="keywords" content="Ju-Jitsu, Keerbergen, Vechtsporten, Judo, BJJ, JJK, Invicto, Striking, No-Gi, Grappling, Jeugd, Kids, {{ .Site.Params.Title }}, {{ .Title }}" />
+    <meta property="keywords" name="keywords" content="Ju-Jitsu, Keerbergen, Vechtsporten, Judo, BJJ, JJK, Invicto, Striking, No-Gi, Grappling, Jeugd, Kids, {{ .Site.Params.Title }}, {{ .Title }}" />
     {{ end }}
 
-    <meta name="author" content="{{ .Site.Params.Title }}" />
-    <meta name="og:url" content="{{ .Permalink }}" />
+    <meta property="author" name="author" content="{{ .Site.Params.Title }}" />
+    <meta property="og:url" name="og:url" content="{{ .Permalink }}" />
 
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
     <link rel="stylesheet" href="/assets/css/main.css" />
