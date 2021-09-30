@@ -21,7 +21,7 @@ De naam Tabata is te danken aan de Japanse wetenschapper Izumi Tabata, die onder
 Zie [trainingen](/trainingen) en [kalender](/kalender) voor het overzicht van de trainingen.
 
 ### Inschrijven
-Zin om deel te nemen? Kijk [hier](/trainingen) voor meer informatie.
+Zin om deel te nemen? Kijk [hier](/inschrijven) voor meer informatie.
 
 ### Trainers
 Meer informatie over de trainers kan je [hier](/trainers) vinden.

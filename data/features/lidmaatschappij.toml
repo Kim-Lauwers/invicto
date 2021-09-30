@@ -1,5 +1,5 @@
-title = "Lidmaatschap en training"
-description = "Meer informatie over onze trainingen en het lidmaatschap."
+title = "Lidmaatschap"
+description = "Meer informatie over ons lidmaatschap."
 icon = "fa-plus-circle"
-link = "/trainingen"
+link = "/inschrijven"
 weight = 7
