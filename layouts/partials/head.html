@@ -42,7 +42,7 @@
     <meta name="title" content="{{ .Site.Params.Title }} {{ .Title }}" />
     <meta name="og:title" content="{{ .Site.Params.Title }} {{ .Title }}" />
     <meta name="twitter:title" content="{{ .Site.Params.Title }} {{ .Title }}" />
-
+    <meta property="og:locale" content="nl_BE" />
 
     {{ if .Params.keywords }}
     <meta name="keywords" content="{{ delimit .Params.keywords ", " }}, {{ .Site.Params.Title }}, {{ .Title }}" />
