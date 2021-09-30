@@ -11,7 +11,7 @@ layout = "generic"
 Gemeentelijke Sporthal Keerbergen \
 Putsebaan 103 \
 3140 Keerbergen \
-Tel.: +32 15 51 80 71 \
+Tel.: +32 15 51 80 71
 
 Zie ook: [trainingen](/trainingen).
 
@@ -27,7 +27,7 @@ E-mail: [info [AT] invictokeerbergen.be](mailto:info@invictokeerbergen.be)
 #### Ondervoorzitter
 Frank Engels \
 Tel : +32 485 53 24 60 \
-E-mail: [frank [AT] invictokeerbergen.be](mailto:frank@invictokeerbergen.be) \
+E-mail: [frank [AT] invictokeerbergen.be](mailto:frank@invictokeerbergen.be)
 
 ### Gediplomeerde Jeugdsportcoördinator
 Kim Lauwers \
@@ -35,10 +35,10 @@ E-mail: [jeugdsport [AT] invictokeerbergen.be](mailto:jeugdsport@invictokeerberg
 
 ### Gediplomeerde Vertrouwenspersoon (Club - API)
 Kim Lauwers (Mannelijk) \
-E-mail: [api-mannelijk [AT] invictokeerbergen.be](mailto:api-mannelijk@invictokeerbergen.be) \
+E-mail: [api-mannelijk [AT] invictokeerbergen.be](mailto:api-mannelijk@invictokeerbergen.be)
 
 Tais Verbond (Vrouwelijk) \
-E-mail: [api-vrouwelijk [AT] invictokeerbergen.be](mailto:api-vrouwelijk@invictokeerbergen.be) \
+E-mail: [api-vrouwelijk [AT] invictokeerbergen.be](mailto:api-vrouwelijk@invictokeerbergen.be)
 
 ### Organigram
 ![Organigram](/images/club/organigram.webp "Organigram Invicto Keerbergen")
