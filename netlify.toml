@@ -23,7 +23,6 @@ package = "netlify-plugin-minify-html"
 # https://docs.netlify.com/site-deploys/overview/#deploy-contexts
 [plugins.inputs]
 contexts = [
-    'production',
     'branch-deploy',
     'deploy-preview'
 ]
