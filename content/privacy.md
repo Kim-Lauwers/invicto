@@ -51,8 +51,17 @@ Teneinde de bescherming van Uw privacy optimaal te organiseren heeft de Fros Mul
 Blue Horizon \
 e-mail: [privacy [AT] fros.be](mailto:privacy@fros.be) \
 
+### Co-verwerkingsverantwoordelijke - Grappling.Vlaanderen
+De co-verwerkingsverantwoordelijke voor de verwerking van Uw persoonsgegevens is ook:
+
+Grappling Vlaanderen \
+Putse 3A \
+B-9571 Lierde \
+e-mail: [info [AT] grappling.vlaanderen](mailto:info@grappling.vlaanderen) \
+Tel: +32475/66 95 17 \
+
 ### Verwerkingsdoeleinden en rechtsgrond
-Uw persoonsgegevens worden verwerkt in het kader van Uw aansluiting bij Invicto Keerbergen VZW en de automatisch daaruit voortvloeiende aansluiting bij de Vlaamse Ju Jitsu Federatie VZW of Fros Multisport Vlaanderen VZW. \
+Uw persoonsgegevens worden verwerkt in het kader van Uw aansluiting bij Invicto Keerbergen VZW en de automatisch daaruit voortvloeiende aansluiting bij de Vlaamse Ju Jitsu Federatie VZW, Fros Multisport Vlaanderen VZW Of Grappling Vlaanderen. \
 Afhankelijk van de gekozen afdeling worden uw gegevens naar de bijhorende federatie doorgestuurd.
 
 Zowel de verwerkingsverantwoordelijke als de co-verwerkingsverantwoordelijke mogen deze persoonsgegevens verwerken op basis van de uitvoering van het door U aangegane lidmaatschap (uitvoering van een overeenkomst), op ons rustende wettelijke verplichtingen en ons gerechtvaardigd belang een efficiënte ledenadministratie te voeren.
@@ -60,7 +69,7 @@ Zowel de verwerkingsverantwoordelijke als de co-verwerkingsverantwoordelijke mog
 Voor bepaalde gegevens, die hierna verder besproken worden, hebben wij Uw toestemming nodig om ze te mogen verwerken.
 
 ### Categorieën van persoonsgegevens
-In het kader van onze activiteiten en deze van de VJJF VZW of FROS VZW verwerken wij de volgende gegevens (indien van toepassing):
+In het kader van onze activiteiten en deze van de VJJF VZW, FROS VZW of Grappling.Vlaanderen verwerken wij de volgende gegevens (indien van toepassing):
 
 #### Naam en adresgegevens
 * Nationaliteit
@@ -71,7 +80,7 @@ In het kader van onze activiteiten en deze van de VJJF VZW of FROS VZW verwerken
 * Opleidingsniveau LO – bachelor/master (indien trainer)
 * Opleidingsniveau kinesitherapie – bachelor/master (indien trainer in G-sport)
 
-Deze gegevens moeten verstrekt worden teneinde de ledenadministratie conform de noden van de Club, de VJJF VZW en FROS VZW alsook conform van de vigerende regelgeving te kunnen voeren.
+Deze gegevens moeten verstrekt worden teneinde de ledenadministratie conform de noden van de Club, de VJJF VZW, FROS VZW en Grappling.Vlaanderen alsook conform van de vigerende regelgeving te kunnen voeren.
 
 * Telefoonnummer
 * GSM nummer
