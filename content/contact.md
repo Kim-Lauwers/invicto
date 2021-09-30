@@ -2,7 +2,7 @@
 title = "Contact"
 description = "Voor al uw vragen"
 date = 2021-03-09T11:19:39+01:00
-keywords = ["contact", "e-mail", "informatie", "gegevens", "locatie", "keerbergen", "sporthal", "administratie"]
+keywords = ["contact", "e-mail", "informatie", "gegevens", "locatie", "keerbergen", "sporthal", "administratie", "federatie"]
 draft = false
 layout = "generic"
 +++
@@ -41,7 +41,7 @@ Tais Verbond (Vrouwelijk) \
 E-mail: [api-vrouwelijk [AT] invictokeerbergen.be](mailto:api-vrouwelijk@invictokeerbergen.be) \
 
 ### Organigram
-![Organigram](/images/club/organigram.jpg "Organigram")
+![Organigram](/images/club/organigram.webp "Organigram Invicto Keerbergen")
 
 ### Federaties
 De aangesloten federatie is afhankelijk van de afdeling binnen Invicto VZW.
@@ -51,3 +51,6 @@ Aangesloten bij [Vlaamse Ju-Jitsu Federatie](http://vjjf.be) \
 
 Aangesloten bij [FROS (FJJS)](http://www.fros.be/sportfiche/martial-arts) \
   ![FROS](/images/federatie/fros-logo.webp "FROS LOGO")
+
+Aangesloten bij [Grappling Vlaanderen](https://grappling.vlaanderen/) \
+  ![Grappling Vlaanderen Logo](/images/federatie/grappling-vlaanderen-logo.webp "Grappling Vlaanderen Logo")

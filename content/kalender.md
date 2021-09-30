@@ -17,7 +17,7 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 |Za         |  2 oktober 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
 |Za         |  2 oktober 2021       |10:00 tot 10:30|[Tabata](/tabata)                                           |                           
 |Za         |  2 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
-|Za         |  2 oktober 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |                           
+|Za         |  2 oktober 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling) Onder leiding van Wim De Putter |                           
 |Di         |  5 oktober 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
 |Di         |  5 oktober 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
 |Di         |  5 oktober 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
