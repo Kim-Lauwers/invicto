@@ -3,10 +3,10 @@ title = "Frank haalt zwarte band BJJ"
 date = 2021-07-10T16:50:31+02:00
 draft = false
 description = "Trainer Frank haalt zijn zwarte band BJJ"
+keywords = ["Frank Engels", "Zwarte band", "BJJ", "Brazillian Ju-Jitsu", "Karate"]
 categories = []
 author = "Kim Lauwers"
-homepageImgUrl = "images/nieuws/2021/2021_bjj_frank_zwart.jpg"
-listpageImgUrl = "/images/nieuws/2021/2021_bjj_frank_zwart.jpg"
+listpageImgUrl = "/images/nieuws/2021/2021_bjj_frank_zwart_thumb.webp"
 detailpageImgUrl = "../images/nieuws/2021/2021_bjj_frank_zwart.jpg"
 [menu.global]
     parent = "nieuws"
