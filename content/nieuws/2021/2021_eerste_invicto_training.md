@@ -19,7 +19,8 @@ Geacht(e) atleet, lid, (plus-)ouder, sporter…
 Morgen (Zaterdag 2 oktober) is de eerste training van Invicto Keerbergen laten we even kort de dag overlopen zodat je kan zien wat er wijzigt voor u :-)
 
 ## Voor de jeugd
-Voor jullie wijzigt er heel weinig. \
+Voor jullie wijzigt er heel weinig.
+
 De training blijft van 9 uur tot 10 uur zoals jullie gewoon zijn. \
 
 **Wat is nieuw?** Jullie mogen om 10 uur meedoen met de [Tabata](/tabata) en dit tot 10u30, dus een half uurtje. \
