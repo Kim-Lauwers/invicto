@@ -31,7 +31,7 @@
                 </article>
 
                 <ul class="meta">
-                    <p class="icon solid fa-user-clock">{{ .Date }}</p>
+                    <p class="icon solid fa-user-clock">{{ .Date.Format "2006-01-02" }}</p>
                     <p class="icon fa-user"><a href="/trainers#{{ replace .Params.author " " "_" }}">{{ .Params.author }}</a></p>
                 </ul>
             </div>
