@@ -59,5 +59,9 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 |Za         | 30 oktober 2021       |10:30 tot 11:30|[Striking](/striking)                                       |             
 |Za         | 30 oktober 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
 |Za-Zo      | 27 november 2021      |               | Open Vlaams Kampioenschap                                  |
+|Za         | 26 februari 2022      |9:00 tot 13:00 | Aspirant Initiator te Keerbergen                           |
+|Di         | 01 maart 2022         |18:00 tot 22:00| Aspirant Initiator te Keerbergen                           |
+|Do         | 03 maart 2022         |18:00 tot 22:00| Aspirant Initiator te Keerbergen                           |
+|Za         | 05 maart 2022         |9:00 tot 13:00 | Aspirant Initiator te Keerbergen                           |
 |Za-Zo      | 19 februari 2022      |               | Belgisch Kampioenschap                                     |
-|Za-Zo      | 12 maart 2022         |               | Antwerps Open Kampioenschap                                | 
+|Za-Zo      | 12 maart 2022         |               | Antwerps Open Kampioenschap                                |
