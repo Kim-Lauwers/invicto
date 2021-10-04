@@ -1,0 +1,16 @@
+name = "Maximus"
+imageSrc = "/images/partners/kine_maximus_logo.webp"
+imageAlt = "Kinesitherapie Maximus Logo"
+description = "Bij Maximus kan je onder andere terecht voor sportkinesitherapie en helpen ze je met veel plezier verder. "
+services = [
+    "Kinesitherapie",
+    "Osteopathie",
+    "Loopanalyse en screening",
+    "Relaxatie massage",
+    "Sportmassage",
+    "Personal coaching"
+]
+mail = "info@kinemaximus.be"
+phone = "0456 10 93 90"
+adress = "Lattenpoel 9; 3140 Keerbergen"
+weight = "2"

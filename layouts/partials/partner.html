@@ -1,0 +1,40 @@
+<div id="{{ .name }}">
+    <h4>{{ .name }}</h4>
+
+    <img src="{{ .imageSrc }}" alt="{{ .imageAlt }}" width="300px">
+
+    <article id="{{ .name }}Article">
+        {{ .description }}
+    <article>
+
+    {{ if .mail }}
+    <h5>Aanbod:</h5>
+    <ul>
+        {{ range .services }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+    {{ end }}
+
+    {{ if .mail }}
+    <h5>Contact:</h5>
+    <ul class="actions stacked">
+        <li>
+            <a href="mailto:{{ .mail }}" class="icon solid fa-envelope" aria-hidden="true">
+                <span>{{ .mail }}</span>
+            </a>
+        </li>
+        <li>
+            <span class="icon solid fa-phone" aria-hidden="true">
+                <span>{{ .phone }}</span>
+            </span>
+        </li>
+        <li>
+            <span class="icon solid fa-location-arrow" aria-hidden="true">
+                <span>{{ .adress }}</span>
+            </span>
+        </li>
+    </ul>
+    {{ end }}
+
+</div>
