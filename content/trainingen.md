@@ -19,8 +19,8 @@ layout = "generic"
 * Dinsdag:  [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
 * Donderdag:  [Ju-Jitsu Fighting](/fighting) van 19:30 tot 20:30.
 * Donderdag:  [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
-* Zaterdag: [Tabata](/tabata) van 10:00 tot 10:30.
-* Zaterdag: [Striking](/striking) van 10:30 tot 11:30.
+* Zaterdag: [Striking](/striking) van 10:00 tot 11:00.
+* Zaterdag: [Tabata](/tabata) van 11:00 tot 11:30.
 * Zaterdag: [No-Gi / Grappling](/grappling) van 11:30 tot 13:00.
 
 ### Locatie
