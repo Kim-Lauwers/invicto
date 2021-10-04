@@ -1,6 +1,7 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify -b $URL"
+#command = "hugo --gc --minify -b $URL"
+command = "npm run noIndex"
 
 [build.environment]
 HUGO_VERSION = "0.88.1"
@@ -9,10 +10,10 @@ HUGO_VERSION = "0.88.1"
 command = "hugo -b $DEPLOY_PRIME_URL --buildDrafts --buildFuture"
 
 [context.deploy-preview]
-command = "hugo -b $DEPLOY_URL"
+command = "npm run noIndex"
 
 [context.branch-deploy]
-command = "hugo -b $DEPLOY_PRIME_URL"
+command = "npm run noIndex"
 
 # Config for the Netlify Build Plugin: netlify-plugin-minify-html
 [[plugins]]
