@@ -1,6 +1,0 @@
-{
-  "scripts": {
-    "build": "hugo --gc --minify -b $URL",
-    "noIndex": "npm run build && echo 'User-agent: *\nDisallow: /' > /static/robots.txt"
-  }
-}
