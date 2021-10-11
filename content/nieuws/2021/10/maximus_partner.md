@@ -1,7 +1,7 @@
 +++
 title = "Maximus kine en osteo"
 date = 2021-10-05T07:14:21+02:00
-draft = true
+draft = false
 description = "Een professionele samenwerking"
 keywords = ["samenwerking", "kine" , "osteo", "partner", "maximus", "invicto", "atleten"]
 categories = []
