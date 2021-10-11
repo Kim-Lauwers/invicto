@@ -1,0 +1,63 @@
+<div id="{{ .name }}">
+    <article id="{{ .name }}Article">
+        <h4>{{ .name }}</h4>
+
+        <img src="{{ .imageSrc }}" alt="{{ .imageAlt }}" width="300px" />
+
+        <div>
+            {{ .description }}
+        </div>
+
+        {{ if .services }}
+        <h5>Aanbod:</h5>
+        <ul>
+            {{ range .services }}
+            <li>{{ . }}</li>
+            {{ end }}
+        </ul>
+        {{ end }}
+
+        {{ if .documents }}
+        <h5>Documenten:</h5>
+        <div>
+            {{ .documentsDescription }}
+        </div>
+        <ul>
+            {{ range .documents }}
+            <li>
+                <a href="{{ . }}">
+                    {{ $path := split . "/" }}
+                    <span>{{ last 1 $path }}</span>
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+        {{ end }}
+
+        {{ if .mail }}
+        <h5>Contact:</h5>
+        <ul class="actions stacked">
+            <li>
+                <a href="{{ .website }}" class="icon solid fa-home" aria-hidden="true">
+                    <span>{{ .website }}</span>
+                </a>
+            </li>
+            <li>
+                <a href="mailto:{{ .mail }}" class="icon solid fa-envelope" aria-hidden="true">
+                    <span>{{ .mail }}</span>
+                </a>
+            </li>
+            <li>
+                    <span class="icon solid fa-phone" aria-hidden="true">
+                        <span>{{ .phone }}</span>
+                    </span>
+            </li>
+            <li>
+                    <span class="icon solid fa-location-arrow" aria-hidden="true">
+                        <span>{{ .adress }}</span>
+                    </span>
+            </li>
+        </ul>
+        {{ end }}
+    </article>
+</div>

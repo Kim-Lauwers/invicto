@@ -1,0 +1,21 @@
+name = "Maximus"
+imageSrc = "/images/partners/kine_maximus_logo.webp"
+imageAlt = "Kinesitherapie Maximus Logo"
+description = "Bij Roman en Margot van Maximus kan je onder andere terecht voor sportkinesitherapie en hebben wij als club het volste vertrouwen dat je hier optimaal begeleid zal worden. Bij Maximus zijn ze zelf sporters en begrijpen ze heel goed de noden en verwachtingen van een atleet. Dankzij de goede relatie tussen Invicto Keerbergen en Maximus is er ook veel contact en overleg. Op deze manier kunnen we perfect overleggen welke elementen in onze sport belangrijk zijn zodat de atleet zo snel mogelijk kan revalideren en de trainingen kan hervatten. Ook een sportmassage voor of na een zware training / competitie kan je bij onze partner bekomen. Ze zijn een geconventioneerde kine praktijk."
+services = [
+    "Kinesitherapie",
+    "Osteopathie",
+    "Loopanalyse en screening",
+    "Relaxatie massage",
+    "Sportmassage",
+    "Personal coaching"
+]
+documentsDescription = "U kan een volmacht aan Maximus geven zodat zij de vooruitgang van uw sportblessure met ons mogen delen en bespreken. Op deze manier kunnen we samenwerken om zo optimaal mogelijk de atleet te begeleiden."
+documents = [
+    "/documents/partner/volmacht-maximus-invicto.pdf"
+]
+mail = "info@kinemaximus.be"
+website = "https://kinemaximus.be/"
+phone = "0456 10 93 90"
+adress = "Lattenpoel 9; 3140 Keerbergen"
+weight = "2"

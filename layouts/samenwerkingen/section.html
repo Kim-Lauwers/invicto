@@ -1,0 +1,40 @@
+<html lang="nl-BE">
+{{ partial "head.html" . }}
+<body class="is-preload">
+
+<!-- Page Wrapper -->
+<div id="page-wrapper">
+    {{ partial "header.html" . }}
+
+    <!-- Main -->
+    <article id="main">
+        <header>
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Description }}</p>
+        </header>
+        <section class="wrapper style5">
+            <div class="inner">
+                <p>
+                Ons ervaren, gediplomeerd, gepassioneerd en enthousiast <a href="/trainers">trainers team</a> staat klaar om je op een verantwoorde wijze te begeleiden. <br />
+                Het team focussed zich erop om de beste begeleiding in onze sport aan te bieden, medisch verantwoord en blessure preventief te trainen. <br />
+                Spijtig genoeg kan het soms toch gebeuren dat een atleet een blessure oploopt en dan willen wij als club dat jullie ook hier de beste begeleiding krijgen. <br />
+                Daarom hebben wij volgende professionele samenwerkingen:
+                </p>
+
+                <h2>Onze partner:</h2>
+                {{ range sort $.Site.Data.samenwerkingen "weight" }}
+                    {{ partial "partner.html" . }}
+                {{ end }}
+            </div>
+        </section>
+    </article>
+
+    {{ partial "breadcrumb.html" . }}
+    {{ partial "footer.html" . }}
+
+</div>
+
+{{ partial "scripts.html" . }}
+
+</body>
+</html>
