@@ -24,7 +24,7 @@ Nu blijkt dat onze visies over sport en begeleiding gelijklopend zijn.
 Roman is trouwens net zoals ons een fanatieke sporter en voorzitter van [Maximus Cycling Team Keerbergen](https://www.facebook.com/Maximus-Cycling-Team-Keerbergen-110422151127313).
 
 We gaan als club een samenwerking aan met [kine maximus](https://kinemaximus.be/) om zo onze atleten, sporters, competiteurs beter te begeleiden. 
-Mocht je dus een kwetsure hebben kan je altijd bij onze partner terecht, je bent natuurlijk ook vrij om naar een andere kine te gaan.
+Mocht je dus een kwetsuur hebben kan je altijd bij onze partner terecht, je bent natuurlijk ook vrij om naar een andere kine te gaan.
 
 Maar wat zijn de voordelen om Maximus als kine te hebben:
 
