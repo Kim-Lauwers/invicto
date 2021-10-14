@@ -48,6 +48,7 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 |Za         | 30 oktober 2021       |10:00 tot 11:00|[Striking](/striking)                                       |             
 |Za         | 30 oktober 2021       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
 |Za         | 30 oktober 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
+|Za         | 27 november 2021      |               | Waasland open Ju-Jitu: [uitnodiging](https://l.facebook.com/l.php?u=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F119AWprNwlq-MTZ9Q_xrtA5d9KJT-uT72%2Fview%3Fusp%3Dsharing%26fbclid%3DIwAR1sdfW74ZhT_oOMZjL4ehU0_9MK_a7OEWWO-CItMj52o0QV_gYf4ZPtyNY&h=AT3j5JyQSi4ws6Xw_2YbSGJMYnq1YNReJ14aH71DpInCkRx6mjUVjTXVIykB4tHzFcyM5N_AGnrvvyLWy6sJdPgmjbGx0xFZgOJZBOi3LjgR-lnZcw3ZY2FBgk6Sf5cSdknFfElcsw&__tn__=-UK-R&c[0]=AT0K5p5E_AUzdBRzqEB6hhr9byiwm2Z79RANqkREBIZnyE2QsWsQal9fOiS0d2ssrJhv_HF9Zcyjparep9CO1prs2JcjP4lkJXWORci200WK9rYIoW56Y9c8zXIxibuXOEknvrbi0VomOat_ukg4vyZKOTY)                             |
 |Za-Zo      | 27 november 2021      |               | Open Vlaams Kampioenschap                                  |
 |Za         | 26 februari 2022      |9:00 tot 13:00 | Aspirant Initiator te Keerbergen                           |
 |Di         | 01 maart 2022         |18:00 tot 22:00| Aspirant Initiator te Keerbergen                           |
