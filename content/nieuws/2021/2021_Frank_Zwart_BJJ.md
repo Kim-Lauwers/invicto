@@ -19,11 +19,11 @@ En vandaag hebben we hier weeral een bewijs van, Frank heeft namelijk vandaag zi
 
 Na zijn talloze competitie titels zoals onder andere
 
-* - Wereldkampioen Wado-Ryu Karate 
-* - Europees Kampioen Wado-Ryu Karate 
-* - Europees kampioen Ju-Jitsu for Police and Fire arms Fighting 
-* - Vice-Europees kampioen Ju-Jitsu Ne-waza bij de Masters 
-* - meerdere Belgische titels
+* Wereldkampioen Wado-Ryu Karate 
+* Europees Kampioen Wado-Ryu Karate 
+* Europees kampioen Ju-Jitsu for Police and Fire arms Fighting 
+* Vice-Europees kampioen Ju-Jitsu Ne-waza bij de Masters 
+* meerdere Belgische titels
 
 is dit een nieuwe mijlpaal in zijn prachtige vechtsport carrière. En we weten ongetwijfeld dat dit niet zijn laatste mijlpaal gaat zijn.
 
