@@ -25,9 +25,7 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 |Di         | 09 november 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
 |Di         | 09 november 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
 |Di         | 09 november 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
-|Do         | 11 november 2021       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
-|Do         | 11 november 2021       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 11 november 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+|Do         | 11 november 2021       |               | FEESTDAG - Sporthal gesloten|
 |Za-Zo      | 13/14 november 2021      |               | Gymnova Cup te Keerbergen (internationaal turnevent): Er zal dus weinig parking zijn, kom met de fiets :-)                                  |
 |Za         | 13 november 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
 |Za         | 13 november 2021       |10:00 tot 11:00|[Striking](/striking)                                       |             
