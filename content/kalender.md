@@ -14,14 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag       |Datum                  |Tijd       | Activiteit                                                     |
 | ----------|-----------------------|:----------|:---------------------------------------------------------------|
-|Do         | 04 november 2021       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
-|Do         | 04 november 2021       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 04 november 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-|Za         | 06 november 2021      |               | Hoeilaart [meer info](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.sportenopleiding.be%2Finschrijving%3Ffbclid%3DIwAR0Vr08H5Ybu8vAWD2ECG3FlLnQ3B_IImCFVL6meNmq_vLbJxKW9zb8t-4U%23%2Fact%2F1084&h=AT0pfCilRxXAQjqMcsXIaFLm6cCQ_zFmODFXxorxhXf8NuRt3czFofC-aaD8QsvzXsiRVel6GOTVwEsyTaFHQ_GQe_RtWtpdta6aRm2c8RMpWBC0fJ3L-sopqmQw-_GXi3MzaLMifw&__tn__=-UK-R&c[0]=AT3LWsNBdlc23xqA0V8_YFdpUBzhHIhheOL9QjU1fP9QOW0f4I3tz3LeAOV6_E9MERgMt1xdSUr_vMr6fE-aOvJkLo2_RQvnCygNyAYu1IL-7GRfudkOn1B-ODRZK5D5WoRLmLdvbHQMu-lXvFrHvVbuRMatSPr-n8AxkQ3UPh-o3Z33WwzoD-Flj_l10ksn2H7U)                             |
-|Za         | 06 november 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
-|Za         | 06 november 2021       |10:00 tot 11:00|[Striking](/striking)                                       |             
-|Za         | 06 november 2021       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
-|Za         | 06 november 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
 |Di         | 09 november 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
 |Di         | 09 november 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
 |Di         | 09 november 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
