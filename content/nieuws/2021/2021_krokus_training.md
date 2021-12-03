@@ -26,4 +26,4 @@ Ook de online trainingen liggen dus 1 weekje stil vanwege de vakantie.
 
 Geniet van de vakantie en hou het vooral veilig!
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

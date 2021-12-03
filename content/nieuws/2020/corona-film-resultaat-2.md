@@ -18,7 +18,7 @@ Cronona zorgt dat we nog steeds in ons kot moeten blijven, maar we blijven nog s
 
 Benieuwd naar onze Kimono challenge? Het resultaat kan u [hier](https://youtu.be/rvOV5dI5eo4) vinden.
 
-Wil je fit blijven tijdens Corona? Je kan nog steeds meedoen in onze [WhatsApp trainingsgroep](https://www.jujitsukeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
+Wil je fit blijven tijdens Corona? Je kan nog steeds meedoen in onze [WhatsApp trainingsgroep](https://www.invictokeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
 
 
 Respecteer de regels, blijft gezond, blijf in uw kot en dan zien we elkaar snel terug.

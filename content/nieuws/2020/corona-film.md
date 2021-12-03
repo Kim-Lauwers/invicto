@@ -19,7 +19,7 @@ Benieuwd hoe dit beeld met een bal bij Ju-Jitsu hoort?
 Dit is allemaal deel van onze corona-training / challenge. Vandaag maakten de leden een kort filmpje.
 We zijn dit momenteel aan het editeren en aan het monteren, als je benieuwd bent naar het resultaat blijf dan zeker onze site en social media in het oog houden.
 
-Wil je fit blijven tijdens Corona? Je kan nog steeds meedoen in onze [WhatsApp trainingsgroep](https://www.jujitsukeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
+Wil je fit blijven tijdens Corona? Je kan nog steeds meedoen in onze [WhatsApp trainingsgroep](https://www.invictokeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
 
 
 Respecteer de regels, blijft gezond, blijf in uw kot en dan zien we elkaar snel terug.

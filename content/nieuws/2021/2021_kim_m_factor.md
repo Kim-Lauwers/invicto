@@ -16,7 +16,7 @@ parent = "nieuws"
 
 Geacht(e) atleet, lid, (plus-)ouder, sporter…
 
-In juni 2021 was trainer [Kim](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers) gestart met het volgen van de bijscholing [Coach met de M-Factor: Motiveren in de sport](https://mfactor.be/) en nu is deze opleiding afgerond. Als trainer en club vinden wij het regelmatig volgen van opleidingen en bijscholingen belangrijk omdat up-to-date kennis ons helpt bij het begeleiden van onze sporters.
+In juni 2021 was trainer [Kim](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers) gestart met het volgen van de bijscholing [Coach met de M-Factor: Motiveren in de sport](https://mfactor.be/) en nu is deze opleiding afgerond. Als trainer en club vinden wij het regelmatig volgen van opleidingen en bijscholingen belangrijk omdat up-to-date kennis ons helpt bij het begeleiden van onze sporters.
 
 In onze club vinden wij competitie, kwaliteit, medisch verantwoord sporten heel belangrijk maar dit gaat natuurlijk niet alleen over het lichamelijke aspect. Tijdens de afgelopen Olympische Spelen (Juli-Augustus 2021) is dit onderwerp dan ook meermaals in het nieuws geweest. Dit toont aan hoe belangrijk dit is in de sportwereld en dat we hier voldoende aandacht aan moeten geven.
 
@@ -26,4 +26,4 @@ Vanwege,
 
 De trainers en het bestuur
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

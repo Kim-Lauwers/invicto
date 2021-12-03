@@ -18,7 +18,7 @@ Dus vanaf nu dinsdag zullen onze trainingen voor de jeugdgroep terug in de zaal 
 Hopelijk heeft iedereen kunnen genieten van onze online trainingen, op deze manier hebben we getracht de impact zo minimaal mogelijk te houden.
 
 ## Trainings uren en dagen voor de jeugd
-Zie onze kalender: [https://www.jujitsukeerbergen.be/kalender/](https://www.jujitsukeerbergen.be/kalender/).
+Zie onze kalender: [https://www.invictokeerbergen.be/kalender/](https://www.invictokeerbergen.be/kalender/).
 
 * 1) Op dinsdag van 18 uur tot 19 uur
 * 2) Op donderdag van 18u30 tot 19u30 (Dit zijn nog steeds onze aangepaste uren)
@@ -52,4 +52,4 @@ Indien u graag hier lid van wil worden neem dan even contact op met ons.
 Volg zeker ook onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/groups/357231384348318/) want hier zullen we jullie up-to-date houden. Bekijk regelmatig onze website op [https://www.jujitsukeerbergen.be](https://www.jujitsukeerbergen.be) want al het laatste nieuws komt hier ook op.
 
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

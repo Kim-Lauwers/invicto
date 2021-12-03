@@ -22,7 +22,7 @@ Onze eerste training zal doorgaan op dinsdag 3 september 2019.
 * Voor de jeugd is dit om 18u
 * Voor de volwassenen is dit om 19u
 
-Een overzicht van onze trainingen kan je [hier](https://www.jujitsukeerbergen.be/trainingen) terugvinden.
+Een overzicht van onze trainingen kan je [hier](https://www.invictokeerbergen.be/trainingen) terugvinden.
 
 Voor de leden van vorig jaar, zorg zeker dat uw inschrijving in orde is. Anders kunnen wij uw verzekering niet in orde maken en kan je niet trainen. 
 
@@ -33,4 +33,4 @@ We vragen aan iedereen om hun gegevens bij te werken via [gegevens.jujitsukeerbe
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

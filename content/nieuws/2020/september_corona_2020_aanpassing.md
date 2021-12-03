@@ -30,7 +30,7 @@ Deze aanpassing telt voorlopig voor September, Oktober en November.
 
 ## Inschrijvingen
 Alleen de hoofdgroep moet zich nu nog inschrijven voor elke training. De jeugdgroep nooit meer.
-Op onze [kalender](https://www.jujitsukeerbergen.be/kalender/) kan u een link vinden naar de inschrijving per training in september. 
+Op onze [kalender](https://www.invictokeerbergen.be/kalender/) kan u een link vinden naar de inschrijving per training in september. 
 De inschrijvingen van oktober zijn nog niet opengesteld. Als er 20 inschrijvingen zijn zou het formulier normaal automatisch gesloten moeten worden.
 Er is ook geen generiek formulier meer omdat er teveel foute datums ingegeven werden (dagen waarop er geen training was), deze fout wordt hierdoor dus ook vermeden.
 
@@ -41,7 +41,7 @@ Bij het inschrijvingsformulier moet u nu verplicht een e-mail adres ingeven omda
 ## GDPR
 De gegevens die u achterlaat op dit formulier zullen MAXIMAAL 2 weken bijgehouden worden vanwege de contacttracing. De enigste personen die toegang hebben tot deze gegevens zijn leden van het bestuur.
 Door een formulier per training te maken is het voor ons ook gemakkelijker om de juiste gegevens na exact 2 weken te verwijderen.
-Mocht u nog vragen hebben kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Mocht u nog vragen hebben kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).
 
 ## Opvolging
 We volgen alles zo goed mogelijk op. Het kan dus zijn dat we de komende dagen nog wijzigingen doorvoeren zodat we zoveel mogelijk leden op de trainingen kunnen ontvangen.
@@ -76,4 +76,4 @@ Wij kunnen natuurlijk ook niet zien wie wat gekocht heeft en hoeveel uw totale b
 
 
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).       
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).       

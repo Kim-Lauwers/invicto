@@ -22,7 +22,7 @@ Als voorzitter van onze club wil ik graag eerst enkele dankwoordjes uitspreken. 
 Natuurlijk wil ik ook elk lid bedanken want het is dankzij jullie enthousiasme dat wij als trainer/bestuurder met plezier naar de club komen om samen met jullie deze prachtige sport te beoefenen en beter te worden.
 
 # Bijscholingen
-Kwaliteit dragen wij hoog in het vaandel in de club en we streven naar voortdurend bijleren. Onze [hoofdtrainers](https://www.jujitsukeerbergen.be/trainers) hebben het VTS A-trainer diploma (het hoogste trainersdiploma) maar onze trainers willen graag nog beter doen. Constant jezelf verbeteren is wat we onze leden aanleren en wat we zelf ook doen. Hierbij wil ik graag een kort overzicht geven van alle bijscholingen die er in dit bizar corona jaar gevolgd zijn:
+Kwaliteit dragen wij hoog in het vaandel in de club en we streven naar voortdurend bijleren. Onze [hoofdtrainers](https://www.invictokeerbergen.be/trainers) hebben het VTS A-trainer diploma (het hoogste trainersdiploma) maar onze trainers willen graag nog beter doen. Constant jezelf verbeteren is wat we onze leden aanleren en wat we zelf ook doen. Hierbij wil ik graag een kort overzicht geven van alle bijscholingen die er in dit bizar corona jaar gevolgd zijn:
 
 * - Krachttraining bij kinderen
 * - Core-stability bij jeugdatleten
@@ -61,7 +61,7 @@ We willen als club zorgen dat iedereen zonder zorgen zijn examens kan afronden e
 Zonder contact en in afgebakende zone per sporter: 1 sporter per 10m². Met contact zonder afgebakende zone: 1 sporter per 30m². Zie [bron](https://www.vechtsportplatform.be/sites/default/files/Toelichting%20richtlijnen%20voor%20vechtsportbeoefening%20vanaf%209%20juni.pdf )
 
 # Gedragsregels
-In de club hebben wij gedragsregels voor elke partij. Deze zijn normaal gezien gekend, maar we hebben nu tijd genomen om deze eens allemaal rustig uit te schrijven. We vragen dan ook aan iedereen bij het inschrijven om deze te lezen en ons formulier in te ondertekenen om te bevestigen dat je deze regels gelezen hebt en er mee akkoord gaat. Zoals altijd kan je deze terugvinden op onze [website](https://www.jujitsukeerbergen.be/trainingen/) (onderaan)
+In de club hebben wij gedragsregels voor elke partij. Deze zijn normaal gezien gekend, maar we hebben nu tijd genomen om deze eens allemaal rustig uit te schrijven. We vragen dan ook aan iedereen bij het inschrijven om deze te lezen en ons formulier in te ondertekenen om te bevestigen dat je deze regels gelezen hebt en er mee akkoord gaat. Zoals altijd kan je deze terugvinden op onze [website](https://www.invictokeerbergen.be/trainingen/) (onderaan)
 Bij vragen, aarzel niet om ons te contacteren
 
 # Inschrijven voor seizoen 2021-2022
@@ -113,4 +113,4 @@ Bekijk regelmatig onze vernieuwde website op [https://www.jujitsukeerbergen.be](
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

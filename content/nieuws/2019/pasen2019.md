@@ -22,7 +22,7 @@ Volgende zaterdagen is het dus geen training:
 
 Volwassenen let wel op! Dinsdag en Donderdag trainen we wel maar 1u30 ipv 2 uur. Voor de jeugd wijzigt er niets.
 
-Voor details kan je ook steeds op onze [kalender](https://www.jujitsukeerbergen.be/kalender) terecht.
+Voor details kan je ook steeds op onze [kalender](https://www.invictokeerbergen.be/kalender) terecht.
 
 Vanwege,
 De trainers, het bestuur

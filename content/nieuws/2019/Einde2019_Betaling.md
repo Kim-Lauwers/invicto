@@ -49,7 +49,7 @@ We vragen aan iedereen om hun gegevens bij te werken via [gegevens.jujitsukeerbe
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).
 
 
 

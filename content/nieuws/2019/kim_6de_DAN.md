@@ -12,7 +12,7 @@ detailpageImgUrl = "../images/nieuws/2019/KIM_6DAN.jpg"
     parent = "nieuws"
 +++
 
-Vandaag heeft trainer [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers) een hogere DAN-graad behaald.
+Vandaag heeft trainer [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers) een hogere DAN-graad behaald.
 Kim heeft zijn 6De DAN-graad behaald, dit wil zeggen dat hij vanaf nu met een wit-rode gordel mag rondlopen :-)
 
 

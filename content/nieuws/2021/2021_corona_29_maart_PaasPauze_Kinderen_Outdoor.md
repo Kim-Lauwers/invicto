@@ -37,4 +37,4 @@ Verder kunnen we nu nog moeilijk inschatten hoe donker het gaat zijn en met -12 
 
 **Hou zeker onze site en onze kalender in het oog.**
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

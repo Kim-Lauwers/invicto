@@ -26,4 +26,4 @@ Wij kunnen onze leden alleen maar aanraden om hier optimaal gebruik van te maken
 
 Vergeet trouwens niet dat er aan de sporthal een nog meer completere outdoor gym terug te vinden is.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

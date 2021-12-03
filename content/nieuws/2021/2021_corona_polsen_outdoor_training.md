@@ -17,7 +17,7 @@ detailpageImgUrl = ""
 Geacht(e) atleet, lid, (plus-)ouder, sporter…
 
 Volgens de laatste regels mogen de 12-18 jarigen buiten sporten. 
-Momenteel heeft onze club deze nog niet ingepland, zie hiervoor ons [nieuws](https://www.jujitsukeerbergen.be/nieuws/2021/02/02/02-februari-corona-2021/).
+Momenteel heeft onze club deze nog niet ingepland, zie hiervoor ons [nieuws](https://www.invictokeerbergen.be/nieuws/2021/02/02/02-februari-corona-2021/).
 
 We willen graag polsen wie van deze doelgroep graag naar de buitentraining zou komen en welke tijdstippen jullie willen.
 Je kan ook steeds een ander tijdstip voorstellen, als club gaan we trachten hier zoveel mogelijk rekening mee te houden.
@@ -38,4 +38,4 @@ Heb je nog voorstellen of opmerkingen laat ze ons zeker weten.
 
 Hou zeker onze site en onze kalender in het oog.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

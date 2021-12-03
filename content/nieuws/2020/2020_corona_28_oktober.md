@@ -32,7 +32,7 @@ Voor alle groepen zijn de trainingen dus afgelast tot en met zaterdag 14 novembe
 
 # Online trainingen:
 Als club vinden wij het heel belangrijk dat iedereen blijft sporten en zullen wij als club onze verantwoordelijkheid nemen en wij zullen op dinsdag en donderdag om 19u30 een online training voorzien.
-De link naar de online training zal u steeds op onze [kalender](https://www.jujitsukeerbergen.be/kalender) terugvinden.
+De link naar de online training zal u steeds op onze [kalender](https://www.invictokeerbergen.be/kalender) terugvinden.
 
 Deze training zal steeds gepast zijn voor de hoofd en jeugdgroep. Bij deze trainingen zal soms materiaal nodig zijn, maar we gebruiken alleen materiaal dat iedereen thuis heeft zodat iedereen kan deelnemen.
 
@@ -47,4 +47,4 @@ Volg zeker ook onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

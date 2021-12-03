@@ -14,7 +14,7 @@ detailpageImgUrl = "/images/nieuws/2021/2020_kampioenen_viering.jpg"
 
 In een moeilijk Corona jaar waar we niet optimaal konden trainen en waar onze fighters zware tegenstanders tegenkwamen op de beperkt georganiseerde wedstrijden slaagden we er toch in om weeral 2 kampioenen af te leveren.
 
-Dikke proficiat aan Brecht en Seppe Strijbol en coach [Frank Engels](https://www.jujitsukeerbergen.be/trainers/#Frank_Engels).
+Dikke proficiat aan Brecht en Seppe Strijbol en coach [Frank Engels](https://www.invictokeerbergen.be/trainers/#Frank_Engels).
 
 Hopelijk kunnen er in 2021 meer competities georganiseerd worden zodat we nog meer kwaliteit van onze fighters kunnen aanschouwen.
 

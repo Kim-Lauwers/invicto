@@ -19,7 +19,7 @@ We gebruiken YouTube live, dus onze deelnemers konden later meedoen of kunnen ze
 
 Zeker bij deze tropische temperaturen kan het handig zijn om de Tabata wat later te doen als het minder warm is. Bij deze temperaturen is het extreem belangrijk om goed te drinken (liefst water). Daarom geen foto van een oefening maar wel van drinken tussen de oefeningen door!
 
-Je kan je nog steeds inschrijven voor onze [WhatsApp trainingsgroep](https://www.jujitsukeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
+Je kan je nog steeds inschrijven voor onze [WhatsApp trainingsgroep](https://www.invictokeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
 
 
 Respecteer de regels, blijf gezond.

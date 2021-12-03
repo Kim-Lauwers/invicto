@@ -12,7 +12,7 @@ detailpageImgUrl = "/images/nieuws/2018/JUDO_IC_2018_HEADER.jpg"
     parent = "nieuws"
 +++
 
-Vandaag is trainer [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers) met zijn Judoploeg **Kampioen** geworden op de interclub.
+Vandaag is trainer [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers) met zijn Judoploeg **Kampioen** geworden op de interclub.
 Kim vecht normaal in de -60 kg en heeft zich ook in deze categorie gewogen maar heeft bijna al zijn wedstrijden in de hogere klasse ( - 66 kg) gevochten en heeft dit keigoed gedaan!
 Met amper 2 verloren wedstrijden van de 7 heeft hij een mooi parkoer afgelegd.
 

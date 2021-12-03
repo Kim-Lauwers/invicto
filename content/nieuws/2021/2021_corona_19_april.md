@@ -40,4 +40,4 @@ Ik hoop dat met de versoepelingen van 26 april dat jullie gewoon met de hoofdgro
 **In mei zijn er meerdere feestdagen waardoor er niet getraind kan worden**
 
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

@@ -14,7 +14,7 @@ detailpageImgUrl = "../images/nieuws/2021/2021_bjj_frank_zwart.jpg"
 
 Geachte,
 
-Dat we als club blij mogen zijn met een gepassioneerde trainer zoals [Frank Engels](https://www.jujitsukeerbergen.be/trainers/#Frank_Engels) weten we al langer.
+Dat we als club blij mogen zijn met een gepassioneerde trainer zoals [Frank Engels](https://www.invictokeerbergen.be/trainers/#Frank_Engels) weten we al langer.
 En vandaag hebben we hier weeral een bewijs van, Frank heeft namelijk vandaag zijn zwarte band in Brazillian Ju-Jitsu behaald.
 
 Na zijn talloze competitie titels zoals onder andere

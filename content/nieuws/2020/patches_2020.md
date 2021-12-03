@@ -22,4 +22,4 @@ Deze path kan op uw kimono gestreken of genaaid worden (of combo van beide).
 Mvg,
 Het Bestuur
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).       
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).       

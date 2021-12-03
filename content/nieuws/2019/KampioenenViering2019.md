@@ -14,7 +14,7 @@ detailpageImgUrl = "/images/nieuws/2020/kampioen2020_kb.jpg"
 Vandaag vierde Keerbergen zijn kampioenen van 2019.
 Zoals elk jaar was onze club weer sterk vertegenwoordigd. 
 
-[Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers), [Robin De Bie](https://www.jujitsukeerbergen.be/trainers/#Robin_De%20Bie) en Brecht werden gehuldigd omdat ze in 2019 een Belgische titel behaald hebben.
+[Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers), [Robin De Bie](https://www.invictokeerbergen.be/trainers/#Robin_De%20Bie) en Brecht werden gehuldigd omdat ze in 2019 een Belgische titel behaald hebben.
 
 Brecht mocht zelfs met de trofee: Sportbelofte van het jaar naar huis gaan. Dit is een trofee dat je maar 1 keer in uw leven kan winnen. Dikke proficiat !
 

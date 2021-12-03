@@ -17,4 +17,4 @@ Wisten jullie dat wij een WhatsApp groep hebben waar de meeste van onze leden in
 Op deze manier kan er gemakkelijk en snel gecommuniceerd worden.
 Indien u graag hier lid van wil worden neem dan even contact op met ons.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

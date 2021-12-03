@@ -33,7 +33,7 @@ Moest blijken dat we toch met meer dan 10 kinderen zijn zullen we wel met inschr
 # Wat is de impact op de hoofdgroep ?
 ## + 18 Jaar
 Spijtig genoeg kunnen we jullie alleen maar online trainingen aanbieden omdat er geen versoepelingen zijn voor deze groep. Je mag wel steeds met 4 personen buiten sporten, spreek met elkaar af en maak hier gebruik van.
-Keerbergen heeft een nieuwe [beweegbank](https://www.jujitsukeerbergen.be/nieuws/2021/01/17/beweegbank-te-keerbergen/) ideaal om buiten te sporten.
+Keerbergen heeft een nieuwe [beweegbank](https://www.invictokeerbergen.be/nieuws/2021/01/17/beweegbank-te-keerbergen/) ideaal om buiten te sporten.
 Aarzel ook niet om mij aan te spreken als je eens samen wilt gaan sporten, mensen die mijn [instagram](https://www.instagram.com/lauwers.kim/) volgen weten dat ik nog steeds zoveel mogelijk tracht te sporten.
 
 Wil je graag helpen voor de -18 jarigen groep, laat het mij weten.
@@ -58,4 +58,4 @@ Wij houden jullie zeker op de hoogte.
 
 Hou zeker onze site en onze kalender in het oog.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

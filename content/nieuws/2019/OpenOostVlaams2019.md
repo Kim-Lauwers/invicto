@@ -11,7 +11,7 @@ detailpageImgUrl = "/images/nieuws/2019/OpenOostVlaams2019.jpg"
 [menu.global]
     parent = "nieuws"
 +++
-Vandaag was het competitie dag, onze coach [Wout Duez](https://www.jujitsukeerbergen.be/trainers/#Wout%20Duez) ging met 3 fighters naar het Open Oost Vlaams kampioenschap.
+Vandaag was het competitie dag, onze coach [Wout Duez](https://www.invictokeerbergen.be/trainers/#Wout%20Duez) ging met 3 fighters naar het Open Oost Vlaams kampioenschap.
 
 - Victor nam voor de eerste keer deel aan een competitie en heeft laten zien dat hij veel in zijn mars heeft, maar kon vandaag nog geen medaille meebrengen naar huis en moest zich tevreden stellen met een 4de plaats.
 

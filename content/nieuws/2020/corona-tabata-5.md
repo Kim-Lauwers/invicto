@@ -23,7 +23,7 @@ We gebruiken YouTube live, dus onze deelnemers konden later meedoen of kunnen ze
 
 De oefening op de foto zijn Crab Toe Touches, we combineren dit met gewoon pompen waarbij er dus steeds een draaibeweging.
 
-Je kan je nog steeds inschrijven voor onze [WhatsApp trainingsgroep](https://www.jujitsukeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
+Je kan je nog steeds inschrijven voor onze [WhatsApp trainingsgroep](https://www.invictokeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
 
 
 Respecteer de regels, blijf gezond.

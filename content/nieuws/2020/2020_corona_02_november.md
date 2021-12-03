@@ -21,7 +21,7 @@ Concreet wil dit voor onze club zeggen dat wij zoals het er nu uitziet tot dan n
 Vanaf dat de regels het toelaten zullen wij de opties bekijken van hoe we verder kunnen sporten. Als sportclub hebben wij een maatschappelijke verantwoordelijkheid en vinden wij de gezondheid van onze leden het allerbelangrijkste. Wij hopen dat we op dinsdag 15 december de trainingen kunnen herstarten en liefst nog sneller.
 
 ## Trainingen:
-Zoals gezegd blijven wij momenteel lesgeven en we doen dit online. Elke dinsdag en elke donderdag zal er een training online komen om 19u30. De link naar deze training zal u steeds op de kalender van onze website terugvinden. Zie: [https://www.jujitsukeerbergen.be/kalender/](https://www.jujitsukeerbergen.be/kalender/)
+Zoals gezegd blijven wij momenteel lesgeven en we doen dit online. Elke dinsdag en elke donderdag zal er een training online komen om 19u30. De link naar deze training zal u steeds op de kalender van onze website terugvinden. Zie: [https://www.invictokeerbergen.be/kalender/](https://www.invictokeerbergen.be/kalender/)
 
 Voor deze trainingen hebben wij voor YouTube gekozen. Op deze manier kan de training meermaals uitgevoerd worden of kan je later inpikken en is het voor de deelnemers gemakkelijker om mee te doen, want iedereen kan met YouTube werken. In het verleden hebben wij geëxperimenteerd met live-trainings via Zoom en YouTube en de voordelen van YouTube hebben gewonnen.
 
@@ -31,8 +31,8 @@ Wel zouden wij willen vragen uw kinderen mee te motiveren om deel te nemen aan d
 Zoals reeds gezegd is en blijft onze website ons hoofdmiddel van communicatie (https://jujitsukeerbergen.be/), waarbij de belangrijkste pagina’s zeker zijn:
 
 
-* 1) Ons nieuws: [https://www.jujitsukeerbergen.be/nieuws/](https://www.jujitsukeerbergen.be/nieuws/)
-* 2) Onze kalender: [https://www.jujitsukeerbergen.be/kalender/](https://www.jujitsukeerbergen.be/kalender/) 
+* 1) Ons nieuws: [https://www.invictokeerbergen.be/nieuws/](https://www.invictokeerbergen.be/nieuws/)
+* 2) Onze kalender: [https://www.invictokeerbergen.be/kalender/](https://www.invictokeerbergen.be/kalender/) 
 
 We hebben met de club momenteel 2 WhatsApp groepjes.
 
@@ -54,4 +54,4 @@ Als bestuur beheren wij onze club niet als een zakelijke onderneming. Wij prober
 
 Hopelijk blijven jullie en jullie gezinnen veilig en gezond en ga je samen met ons deze lockdown actief tegemoet met onder andere onze online trainingen.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

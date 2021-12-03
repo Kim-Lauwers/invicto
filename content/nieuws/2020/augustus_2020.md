@@ -52,11 +52,11 @@ Wij vragen onze leden om het advies van de federatie te volgen om maar 1 club te
 Daarom vragen wij aan onze leden ga **tijdelijk** niet elders trainen en andere mensen die bij ons willen trainen vragen wij op voorhand even contact op te nemen zodat we de eigen club en de federatie op de hoogte kunnen brengen.
 
 
-Vergeet ook uw lidgeld voor het nieuwe seizoen niet ([meer info hier](https://www.jujitsukeerbergen.be/nieuws/2020/06/25/einde-seizoen-2020/))
+Vergeet ook uw lidgeld voor het nieuwe seizoen niet ([meer info hier](https://www.invictokeerbergen.be/nieuws/2020/06/25/einde-seizoen-2020/))
 
 Volg zeker onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/groups/357231384348318/) want hier zullen we jullie up-to-date houden. Bekijk regelmatig onze website op [https://www.jujitsukeerbergen.be](https://www.jujitsukeerbergen.be) want al het laatste nieuws komt hier ook op.
 We vragen aan iedereen om hun gegevens bij te werken via [gegevens.jujitsukeerbergen.be](gegevens.jujitsukeerbergen.beÈ).
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

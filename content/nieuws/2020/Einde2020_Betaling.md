@@ -17,7 +17,7 @@ We zijn spijtig genoeg weeral aan het einde van het sport seizoen gekomen.
 Dit jaar hebben we een raar jaar achter de rug met COVID-19.
 
 We hebben onze trainingen vroeger moeten afbreken dan voorzien. We hebben getracht dit te compenseren door online trainingen te geven.
-Je kan je nog steeds inschrijven voor onze [WhatsApp trainingsgroep](https://www.jujitsukeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
+Je kan je nog steeds inschrijven voor onze [WhatsApp trainingsgroep](https://www.invictokeerbergen.be/nieuws/2020/04/16/corona-april---geen-training/).
 We zullen in Juli ook nog steeds doorgaan met deze online trainingen.
 Je mag normaal al in beperkte groep training geven, maar wij hebben als club beslist om voor de veiligste optie te gaan en enkel online trainingen te geven.
 
@@ -63,7 +63,7 @@ We vragen aan iedereen om hun gegevens bij te werken via [gegevens.jujitsukeerbe
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).
 
 
 

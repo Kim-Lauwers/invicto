@@ -12,11 +12,11 @@ detailpageImgUrl = ""
     parent = "nieuws"
 +++
 
-Kijk zeker altijd onze [kalender](https://www.jujitsukeerbergen.be/kalender/) na, hier kan je nakijken of het training is of niet.
+Kijk zeker altijd onze [kalender](https://www.invictokeerbergen.be/kalender/) na, hier kan je nakijken of het training is of niet.
 
 ## Herfstvakantie
 Deze gaat door in de eerste week van november, de **training gaat door** op dinsdag en donderdag.
-Op zaterdag 31 oktober en 7 november is er **geen** training vanwege de [aspirant-initiator opleiding](https://www.jujitsukeerbergen.be/nieuws/2020/10/03/aspirant-initator-2020/).
+Op zaterdag 31 oktober en 7 november is er **geen** training vanwege de [aspirant-initiator opleiding](https://www.invictokeerbergen.be/nieuws/2020/10/03/aspirant-initator-2020/).
  
 
 ## Kerstvakantie:

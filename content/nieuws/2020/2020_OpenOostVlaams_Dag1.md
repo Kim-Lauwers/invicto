@@ -11,7 +11,7 @@ detailpageImgUrl = "/images/nieuws/2020/2020openoostvlaamsdag1.jpg"
 [menu.global]
     parent = "nieuws"
 +++
-Vandaag was het competitie dag, onze coach [Frank Engels](https://www.jujitsukeerbergen.be/trainers/#Frank%20Engels) ging met 3 fighters naar het Open Oost Vlaams kampioenschap.
+Vandaag was het competitie dag, onze coach [Frank Engels](https://www.invictokeerbergen.be/trainers/#Frank%20Engels) ging met 3 fighters naar het Open Oost Vlaams kampioenschap.
 Een spannende dag want voor onze 3 fighters was het hun allereerste competitie ooit.
 
 De coach zag mooie gevechten, mooie acties van onze fighters en dat resulteerde onmiddellijk in mooie resultaten. Onze club behaalde al direct 2 medailles. 

@@ -11,7 +11,7 @@ detailpageImgUrl = "/images/nieuws/2019/robinbjjdutchopen.jpg"
 [menu.global]
     parent = "nieuws"
 +++
-Zoals sommige weten doet [Robin De Bie](https://www.jujitsukeerbergen.be/trainers/#Robin_De%20Bie) ook BJJ bij [Brasa](https://brasateam.be) te Leuven.
+Zoals sommige weten doet [Robin De Bie](https://www.invictokeerbergen.be/trainers/#Robin_De%20Bie) ook BJJ bij [Brasa](https://brasateam.be) te Leuven.
 Daar heeft hij deelgenomen aan de competitie [Dutch Open](https://smoothcomp.com/en/event/2674/results).
 
 In de gi-reeks (dit wil zeggen dat ze vechten met kimono) heeft hij mooi GOUD gehaald.

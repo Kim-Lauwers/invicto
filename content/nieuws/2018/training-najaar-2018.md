@@ -31,4 +31,4 @@ Er is voldoende plaats voor uw fiets aan de sporthal.
 * Zaterdag 29 december 2018 - Is er **GEEN** training.
 * Dinsdag 1 januari 2019 - Is de sporthal gesloten en is er dus **GEEN** training.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

@@ -27,6 +27,6 @@ Op volgende tijdstippen kan je komen passen en bestellen:
 
 Indien je niet kan komen, mag je contact opnemen met Nicole Faes om een ander pasmoment af te spreken.
 
-Meer informatie kan je in deze [brief](https://www.jujitsukeerbergen.be/files/prijslijst_kledij.pdf) terugvinden. Je kan hier de maten vinden, de opties, de prijzen, ...
+Meer informatie kan je in deze [brief](https://www.invictokeerbergen.be/files/prijslijst_kledij.pdf) terugvinden. Je kan hier de maten vinden, de opties, de prijzen, ...
 
 Alvast bedankt aan Nicole Faes en Catherine Van Riet om dit te regelen voor onze club !

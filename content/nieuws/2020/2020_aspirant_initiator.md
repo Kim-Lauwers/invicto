@@ -14,7 +14,7 @@ detailpageImgUrl = ""
 Geachte leden, ouders
 
 Kwaliteit is belangrijk! Een van meerdere manieren om kwaliteit aan te bieden in onze club is het volgen van opleidingen.
-Zowel trainer [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers) als [Frank Engels](https://www.jujitsukeerbergen.be/trainers/#Frank_Engels) hebben het hoogste haalbare diploma, namelijk Trainer-A Competitie.
+Zowel trainer [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers) als [Frank Engels](https://www.invictokeerbergen.be/trainers/#Frank_Engels) hebben het hoogste haalbare diploma, namelijk Trainer-A Competitie.
 
 Dit is een traject van lange adem waar meerdere jaren over heen gaan. Voor mij persoonlijk heeft het 13 jaar geduurd om dit diploma te behalen en ik heb het geluk gehad om dit heel snel te halen.
 
@@ -38,7 +38,7 @@ Door het volgen van deze module leert de cursist:
 
 # Organisatie te Keerbergen
 Wij organiseren voor het eerst een VTS-cursus in onze club / dojo.
-Deze cursus zal tevens ook gegeven worden door [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers) die al meerdere VTS-cursussen gegeven heeft.
+Deze cursus zal tevens ook gegeven worden door [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers) die al meerdere VTS-cursussen gegeven heeft.
 
 Als club hopen wij op veel deelnemers zodat we in de toekomst nog VTS-cursussen kunnen organiseren. 
 
@@ -57,4 +57,4 @@ Deze cursus kost maar **50 EURO**.
 ## VTS
 Je kan deze cursus [hier](https://www.sport.vlaanderen/VTS-opleiding?activiteitId=90280&opleidingId=1279#) op de VTS-website terugvinden.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

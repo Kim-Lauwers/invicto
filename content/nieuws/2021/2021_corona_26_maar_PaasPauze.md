@@ -41,4 +41,4 @@ Wij houden jullie zeker op de hoogte.
 
 **Hou zeker onze site en onze kalender in het oog.**
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

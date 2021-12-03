@@ -23,7 +23,7 @@ Het is belangrijk om u in te schrijven. Als u zich inschrijft verwachten wij u o
 
 ## GDPR
 De gegevens die u achterlaat op dit formulier zullen MAXIMAAL 2 weken bijgehouden worden vanwege de contacttracing. De enigste personen die toegang hebben tot deze gegevens zijn leden van het bestuur.
-Mocht u nog vragen hebben kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Mocht u nog vragen hebben kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).
 
 ## Regels in de sporthal
 - Volg zeker het circulatieplan aan de sporthal, dit staat goed aangegeven.
@@ -52,4 +52,4 @@ Volg zeker onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/grou
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

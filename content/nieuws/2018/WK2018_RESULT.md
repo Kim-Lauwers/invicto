@@ -12,7 +12,7 @@ detailpageImgUrl = ""
     parent = "nieuws"
 +++
 
-[Wout](https://www.jujitsukeerbergen.be/trainers/#Wout_Duez) heeft vandaag deelgenomen aan het WK Ju-Jitsu in Zweden en heeft daar een mooi resultaat neergezet.
-[Wout](https://www.jujitsukeerbergen.be/trainers/#Wout_Duez) heeft een 7de plaats behaalt, een prachtig resultaat!
+[Wout](https://www.invictokeerbergen.be/trainers/#Wout_Duez) heeft vandaag deelgenomen aan het WK Ju-Jitsu in Zweden en heeft daar een mooi resultaat neergezet.
+[Wout](https://www.invictokeerbergen.be/trainers/#Wout_Duez) heeft een 7de plaats behaalt, een prachtig resultaat!
 
 Dikke proficiat vanwege heel de club !

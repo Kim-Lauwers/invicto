@@ -33,7 +33,7 @@ Voor deze groep is de impact het grootste
 * 1) Draag veiligheid en hygiëne hoog in het vaandel. Als club doen wij alles om het sporten zo veilig mogelijk te houden maar het is een gezamelijk opdracht. Ontsmet zoveel mogelijk uw handen, een mondmasker tijdens het sporten is momenteel nog niet verplicht maar het mag.
 * 2) De kleedkamers zijn vanaf heden gesloten en kunnen dus niet gebruikt worden. Jullie moeten dus tijdelijk in kimono naar de sporthal komen. Hou hier zeker rekening met het feit dat als het regent jullie toch iets van sport/regen kledij over de kimono moeten aandoen zodat jullie met een droge kimono op de mat kunnen. Breng zeker ook een sporttas mee zodat je geen materiaal na de training vergeet.
 * 3) De trainingen zijn momenteel **volledig contactloos**. Je komt steeds in kimono, maar breng steeds een extra T-shirt mee omdat de kimono-vest niet altijd nodig zal zijn.
-* 4) De trainingen worden ingekort naar 1 uur (zie ook [trainingen](https://www.jujitsukeerbergen.be/trainingen/)). Hou er rekening mee dat deze wel eens kunnen uitlopen :-)
+* 4) De trainingen worden ingekort naar 1 uur (zie ook [trainingen](https://www.invictokeerbergen.be/trainingen/)). Hou er rekening mee dat deze wel eens kunnen uitlopen :-)
     
     Concreet wil dit dus zeggen:
     
@@ -42,7 +42,7 @@ Voor deze groep is de impact het grootste
     * - Elke zaterdag van 10:00 tot 11:00.
     
 * 5) Het aantal leden die in de zaal mogen wordt verlaagd van 20 naar 11. Dit is een heel spijtige zaak. We gaan dus vanaf nu wel sommige mensen moeten teleurstellen.
-* 6) Inschrijven voor een training blijft verplicht en nog steeds telt de regel inschrijven = aanwezig zijn. De links om u in schrijven kan u steeds op de [kalender](https://www.jujitsukeerbergen.be/kalender/) terugvinden.
+* 6) Inschrijven voor een training blijft verplicht en nog steeds telt de regel inschrijven = aanwezig zijn. De links om u in schrijven kan u steeds op de [kalender](https://www.invictokeerbergen.be/kalender/) terugvinden.
 * 7) Het aantal ingeschreven personen per training kan u [hier](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) terugvinden.
 
 Hou zeker de website in het oog want we gaan constant evalueren en bijsturen waar kan / nodig is.
@@ -57,7 +57,7 @@ Verder vragen we natuurlijk dat u bij een corona-besmetting of bij een risico on
 Wij hebben ook het volste vertrouwen dat onze trainers samen met jullie dit op een veilige manier kunnen doen want we zitten samen in deze situatie.
 
 # Aspirant-Initiator
-Wij hebben ook net bericht ontvangen dat de [VTS-cursus: Aspirant-Initiator](https://www.jujitsukeerbergen.be/nieuws/2020/10/03/aspirant-initator-2020/) die we in onze club gingen organiseren van de federatie niet mag doorgaan vanwege code oranje. Hopelijk blijven jullie gemotiveerd om deze opleiding binnenkort toch te volgen als deze mag doorgaan.
+Wij hebben ook net bericht ontvangen dat de [VTS-cursus: Aspirant-Initiator](https://www.invictokeerbergen.be/nieuws/2020/10/03/aspirant-initator-2020/) die we in onze club gingen organiseren van de federatie niet mag doorgaan vanwege code oranje. Hopelijk blijven jullie gemotiveerd om deze opleiding binnenkort toch te volgen als deze mag doorgaan.
 Normaal zullen jullie allemaal een mail ontvangen om ofwel jullie geld terug te ontvangen of jullie inschrijving te verzetten naar een volgende opleiding. Hierdoor zullen de 4 zaterdagen dus terug vrijkomen voor onze clubtrainingen.
 Waarschijnlijk zal deze cursus pas in 2021 opnieuw georganiseerd worden maar dan kunnen er misschien nog andere mensen extra deelnemen van de club die nu nog net te jong zijn.
 
@@ -72,4 +72,4 @@ Volg zeker ook onze FB-groep [Ju-Jitsu Keerbergen VZW](https://www.facebook.com/
 
 Bij vragen of opmerkingen aarzel dan zeker niet om ons te contacteren.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

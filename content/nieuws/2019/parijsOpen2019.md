@@ -13,14 +13,14 @@ detailpageImgUrl = "/images/nieuws/2019/parisOpen2019.jpeg"
 +++
 
 Afgelopen weekend was het Parijs Open. 
-[Wout Duez](https://www.jujitsukeerbergen.be/trainers/#Wout_Duez) heeft spijtig genoeg niet kunnen deelnemen vanwege een blessure die hij een week geleden heeft opgelopen.
+[Wout Duez](https://www.invictokeerbergen.be/trainers/#Wout_Duez) heeft spijtig genoeg niet kunnen deelnemen vanwege een blessure die hij een week geleden heeft opgelopen.
 
-[Robin De Bie](https://www.jujitsukeerbergen.be/trainers/#Robin_De%20Bie) heeft zowel zaterdag als zondag gevochten. Op zaterdag heeft hij Ne-Waza gevochten en heeft hij mooi 2 van zijn 4 wedstrijden gewonnen.
+[Robin De Bie](https://www.invictokeerbergen.be/trainers/#Robin_De%20Bie) heeft zowel zaterdag als zondag gevochten. Op zaterdag heeft hij Ne-Waza gevochten en heeft hij mooi 2 van zijn 4 wedstrijden gewonnen.
 Op zondag had hij een iets mindere dag en heeft spijtig genoeg zijn 2 fighting wedstrijden verloren. Maar globaal gezien heeft hij toch maar weer mooi gevochten.
  
 Fran Vanderstukken heeft mooi **GOUD** 🥇 gehaald !!
 
-Bedankt aan trainer [Frank Engels](https://www.jujitsukeerbergen.be/trainers/#Frank_Engels) om deze sporters mee te begeleiden.
+Bedankt aan trainer [Frank Engels](https://www.invictokeerbergen.be/trainers/#Frank_Engels) om deze sporters mee te begeleiden.
 
 
 Volgende focus is de Dutch Open komend weekend.

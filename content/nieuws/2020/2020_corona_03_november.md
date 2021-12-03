@@ -21,8 +21,8 @@ Vandaag is er door de gemeente echter ook beslist om de georganiseerde sport –
 
 Het college evalueert de situatie op donderdag 12 november.
 
-Het besluit van de gemeente kan u [HIER](https://www.jujitsukeerbergen.be/files/BB_van_03-11-2020_1500_-_Uittreksel_in_pdf_Besluit_COVID_19__-_afgedrukt_op_03-11-2020_1619.PDF) nalezen.
+Het besluit van de gemeente kan u [HIER](https://www.invictokeerbergen.be/files/BB_van_03-11-2020_1500_-_Uittreksel_in_pdf_Besluit_COVID_19__-_afgedrukt_op_03-11-2020_1619.PDF) nalezen.
 
 Het kan dus zijn dat jeugdgroep binnenkort terug mag sporten in de sporthal. We houden jullie via onze site op de hoogte.
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

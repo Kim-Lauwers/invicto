@@ -23,8 +23,8 @@ Zoals vorige keer toen we nog binnen mochten trainen ligt het maximaal aantal de
 Dit wil dus zeggen dat we met inschrijvingen gaan werken en dat inschrijven dus ook deelnemen betekent vermits je anders de plaats van iemand anders inneemt.
 
 # Inschrijven
-Zoals altijd kan u een link vinden op de [kalender](https://www.jujitsukeerbergen.be/kalender/). Bij de link om in te schrijven worden er 2 maal achter uw gegevens gevraagd, de eerste mail is zodat je zelf een bevestiging ontvangt en de 2de maal is zodat wij u kunnen contacteren indien er iets wijzigt aan de training.
-Deze gegevens worden alleen gelezen door de COVID-verantwoordelijke [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers) en de trainer van de desbetreffende dag. Deze gegevens worden ook na 2 weken verwijdert.
+Zoals altijd kan u een link vinden op de [kalender](https://www.invictokeerbergen.be/kalender/). Bij de link om in te schrijven worden er 2 maal achter uw gegevens gevraagd, de eerste mail is zodat je zelf een bevestiging ontvangt en de 2de maal is zodat wij u kunnen contacteren indien er iets wijzigt aan de training.
+Deze gegevens worden alleen gelezen door de COVID-verantwoordelijke [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers) en de trainer van de desbetreffende dag. Deze gegevens worden ook na 2 weken verwijdert.
 
 Op de kalender zal ook steeds een link staan zodat u een zicht heeft op het [aantal ingeschreven personen](https://docs.google.com/spreadsheets/d/e/2PACX-1vTt0cXcVCAwGQIrvlfOP5QAPXq4vguWz3Jda8E-GeBimTC30aTMs6pmLBcLXje42J4j3yeFY0v4B646/pubhtml?gid=547506106&single=true) (anoniem) hier zit wel een vertraging van ongeveer 5 minuten op.
 
@@ -52,4 +52,4 @@ Onze trainers willen heel graag training geven. Als iedereen zich aan de regels 
 * - Respecteer de social distancing, ook als we tijdens de training op de finse piste lopen tracht je steeds deze afstand te bewaren en niet in groep te lopen
 * - Contact is toegelaten zolang dit in functie van de beoefende sport is, toch zullen wij als club trachten dit contact zo beperkt mogelijk te houden 
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

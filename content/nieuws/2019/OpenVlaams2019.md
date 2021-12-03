@@ -20,12 +20,12 @@ We hadden niet veel afgevaardigden van onze club, maar we hebben wel alweer fant
 **5 medailles** terwijl we met **4 fighters** vertrokken zijn.
 
 # Goud
-* [Robin De Bie](https://www.jujitsukeerbergen.be/trainers/#Robin_De%20Bie) bij Fighting
+* [Robin De Bie](https://www.invictokeerbergen.be/trainers/#Robin_De%20Bie) bij Fighting
 
 # Zilver
 * Arne Strijbol
 * Brecht Vandendriessche
-* [Robin De Bie](https://www.jujitsukeerbergen.be/trainers/#Robin_De%20Bie) bij Ne-Waza 
+* [Robin De Bie](https://www.invictokeerbergen.be/trainers/#Robin_De%20Bie) bij Ne-Waza 
 
 # Brons
 * Dylan Van Engeland

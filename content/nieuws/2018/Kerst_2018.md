@@ -26,4 +26,4 @@ Iedereen kan zich komen ontspannen of ontstressen op onze trainingen. We hebben 
 
 Alvast prettige feesten voor iedereen !
 
-Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.jujitsukeerbergen.be/trainers/#Kim_Lauwers).
+Voor meer info kan je steeds terecht bij [Kim Lauwers](https://www.invictokeerbergen.be/trainers/#Kim_Lauwers).

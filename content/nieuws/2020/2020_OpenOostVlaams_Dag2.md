@@ -12,7 +12,7 @@ detailpageImgUrl = "/images/nieuws/2020/2020openoostvlaamsdag2.jpg"
     parent = "nieuws"
 +++
 Na een succesvolle 1ste dag op het Open Oost Vlaams Kampioenschap was het vandaag tijd voor dag 2.
-Coach [Frank Engels](https://www.jujitsukeerbergen.be/trainers/#Frank%20Engels) had vandaag 2 fighters om te coachen. 
+Coach [Frank Engels](https://www.invictokeerbergen.be/trainers/#Frank%20Engels) had vandaag 2 fighters om te coachen. 
 Oorspronkelijk stonden er 3 op de planning maar wegens ziekte heeft 1 persoon moeten afzeggen.
 
 De Fighters waren gemotiveerd en gestimuleerd door de prachtige resultaten van gisteren.
