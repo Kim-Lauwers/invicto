@@ -14,51 +14,38 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag       |Datum                  |Tijd       | Activiteit                                                     |
 | ----------|-----------------------|:----------|:---------------------------------------------------------------|
-|Do         | 02 december 2021       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
-|Do         | 02 december 2021       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 02 december 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-|Za         | 04 december 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
-|Za         | 04 december 2021       |10:00 tot 11:00|[Striking](/striking)                                       |             
-|Za         | 04 december 2021       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
-|Za         | 04 december 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
-|Di         | 07 december 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
-|Di         | 07 december 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Di         | 07 december 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
-|Do         | 09 december 2021       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
-|Do         | 09 december 2021       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 09 december 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-|Za         | 11 december 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
-|Za         | 11 december 2021       |10:00 tot 11:00|[Striking](/striking)                                       |             
-|Za         | 11 december 2021       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
-|Za         | 11 december 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
-|Di         | 14 december 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
-|Di         | 14 december 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Di         | 14 december 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
-|Do         | 16 december 2021       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
-|Do         | 16 december 2021       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 16 december 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-|Za         | 18 december 2021       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
-|Za         | 18 december 2021       |10:00 tot 11:00|[Striking](/striking)                                       |             
-|Za         | 18 december 2021       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
-|Za         | 18 december 2021       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
-|Zo         | 19 december 2021       |10:00 tot 12:00|Federale Training te ZELEM (FROS)                           |
-|Di         | 21 december 2021       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
-|Di         | 21 december 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Di         | 21 december 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
-|Do         | 23 december 2021       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
-|Do         | 23 december 2021       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 23 december 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-|Za         | 25 december 2021       | | KERSTMIS ** GEEN TRAINING **                               |
-|Di         | 28 december 2021       |18:00 tot 19:00| **GEEN JEUGDTRAINING ** mogen wel met hoofdgroep meedoen                                             |                        
-|Di         | 28 december 2021       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Di         | 28 december 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
-|Do         | 30 december 2021       |18:30 tot 19:30|**GEEN JEUGDTRAINING ** mogen wel met hoofdgroep meedoen                                             |
-|Do         | 30 december 2021       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 30 december 2021       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-|Za         | 01 januari 2022       |               | ** GEEN TRAINING **                                        |
-|Di         | 04 januari 2022       |               | ** GEEN TRAINING **                                        |
 |Do         | 06 januari 2022       |               | ** GEEN TRAINING **                                        |
 |Za         | 08 januari 2022       |               | ** GEEN TRAINING **                                        |
+|Di         | 11 januari 2022       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
+|Di         | 11 januari 2022       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Di         | 11 januari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
+|Do         | 13 januari 2022       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
+|Do         | 13 januari 2022       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Do         | 13 januari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+|Za         | 15 januari 2022       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
+|Za         | 15 januari 2022       |10:00 tot 11:00|[Striking](/striking)                                       |             
+|Za         | 15 januari 2022       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
+|Za         | 15 januari 2022       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
+|Di         | 18 januari 2022       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
+|Di         | 18 januari 2022       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Di         | 18 januari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
+|Do         | 20 januari 2022       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
+|Do         | 20 januari 2022       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Do         | 20 januari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+|Za         | 22 januari 2022       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
+|Za         | 22 januari 2022       |10:00 tot 11:00|[Striking](/striking)                                       |             
+|Za         | 22 januari 2022       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
+|Za         | 22 januari 2022       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
+|Di         | 25 januari 2022       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
+|Di         | 25 januari 2022       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Di         | 25 januari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
+|Do         | 27 januari 2022       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
+|Do         | 27 januari 2022       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
+|Do         | 27 januari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+|Za         | 29 januari 2022       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
+|Za         | 29 januari 2022       |10:00 tot 11:00|[Striking](/striking)                                       |             
+|Za         | 29 januari 2022       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
+|Za         | 29 januari 2022       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
 |Za         | 26 februari 2022      |9:00 tot 13:00 | Aspirant Initiator te Keerbergen                           |
 |Di         | 01 maart 2022         |18:00 tot 22:00| Aspirant Initiator te Keerbergen                           |
 |Do         | 03 maart 2022         |18:00 tot 22:00| Aspirant Initiator te Keerbergen                           |
