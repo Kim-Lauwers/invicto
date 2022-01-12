@@ -14,11 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag       |Datum                  |Tijd       | Activiteit                                                     |
 | ----------|-----------------------|:----------|:---------------------------------------------------------------|
-|Do         | 06 januari 2022       |               | ** GEEN TRAINING **                                        |
-|Za         | 08 januari 2022       |               | ** GEEN TRAINING **                                        |
-|Di         | 11 januari 2022       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
-|Di         | 11 januari 2022       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Di         | 11 januari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
 |Do         | 13 januari 2022       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
 |Do         | 13 januari 2022       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
 |Do         | 13 januari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
