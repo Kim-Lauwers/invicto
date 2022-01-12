@@ -9,7 +9,7 @@ author = "Kim Lauwers"
 listpageImgUrl = "/images/nieuws/2021/10/Mondkapjes-verplicht-rond.webp"
 detailpageImgUrl = "/images/nieuws/2021/10/Mondkapjes-verplicht-rond.webp"
 metaImage = "/images/nieuws/2021/10/Mondkapjes-verplicht-rond.jpg"
-imageAlt = "Mondkapje verplicht"
+imageAlt = "Mondkapje verplicht logo"
 [menu.global]
 parent = "nieuws"
 +++
