@@ -25,7 +25,11 @@
                                 <div class="col-4">
                                             <a href="{{ .Permalink }}" class="image featured">
                                                 <span class="image fit">
+                                                     {{ if .Params.listpageImgAlt }}
+                                                    <img src="{{ .Site.BaseURL }}{{ .Params.listpageImgUrl}}" alt="{{ .Params.listpageImgAlt}}" />
+                                                    {{ else }}
                                                     <img src="{{ .Site.BaseURL }}{{ .Params.listpageImgUrl}}" alt="{{ .Params.title}}" />
+                                                    {{ end }}
                                                 </span>
                                                 <span>
                                                     {{ .Params.title}}
