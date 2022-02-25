@@ -14,9 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag       |Datum                  |Tijd       | Activiteit                                                     |
 | ----------|-----------------------|:----------|:---------------------------------------------------------------|
-|Di         | 22 februari 2022       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
-|Di         | 22 februari 2022       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Di         | 22 februari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
 |Do         | 24 februari 2022       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
 |Do         | 24 februari 2022       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
 |Do         | 24 februari 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
