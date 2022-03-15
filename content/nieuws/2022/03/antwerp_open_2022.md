@@ -10,7 +10,7 @@ listpageImgUrl = "/images/nieuws/2022/03/open_antwerp_2022_thumb.webp"
 listpageImgAlt = "Coach Kim Lauwers met alle deelnemende kampers van Invicto Keerbergen"
 detailpageImgUrl = "/images/nieuws/2022/03/open_antwerp_2022.webp"
 metaImage = "/images/nieuws/2022/03/open_antwerp_2022.jpg"
-imageAlt = "Compilatie van alle competiteurs die op het podium staan"
+imageAlt = "Coach Kim Lauwers met alle deelnemende kampers van Invicto Keerbergen"
 [menu.global]
 parent = "nieuws"
 +++
