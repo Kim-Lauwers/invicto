@@ -12,31 +12,38 @@ layout = "generic"
 
 Een weekoverzicht kan u [hier](/trainingen) vinden.
     
-| Dag       |Datum                  |Tijd       | Activiteit                                                     |
-| ----------|-----------------------|:----------|:---------------------------------------------------------------|
-|Di         | 15 maart 2022       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
-|Di         | 15 maart 2022       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Di         | 15 maart 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
-|Do         | 17 maart 2022       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
-|Do         | 17 maart 2022       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 17 maart 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-|Za         | 19 maart 2022       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
-|Za         | 19 maart 2022       |10:00 tot 11:00|[Striking](/striking)                                       |             
-|Za         | 19 maart 2022       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
-|Za         | 19 maart 2022       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
-|Di         | 22 maart 2022       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
-|Di         | 22 maart 2022       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Di         | 22 maart 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
-|Do         | 24 maart 2022       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
-|Do         | 24 maart 2022       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 24 maart 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-|Za         | 26 maart 2022       |9:00  tot 10:00|[Jeugd](/jeugd)                                             |                           
-|Za         | 26 maart 2022       |10:00 tot 11:00|[Striking](/striking)                                       |             
-|Za         | 26 maart 2022       |11:00 tot 11:30|[Tabata](/tabata)                                           |                           
-|Za         | 26 maart 2022       |11:30 tot 13:00|[No-Gi / Grappling](/grappling)                             |
-|Di         | 29 maart 2022       |18:00 tot 19:00|[Jeugd](/jeugd)                                             |                        
-|Di         | 29 maart 2022       |19:00 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Di         | 29 maart 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |                          
-|Do         | 31 maart 2022       |18:30 tot 19:30|[Jeugd](/jeugd)                                             |
-|Do         | 31 maart 2022       |19:30 tot 20:30|[Ju-Jitsu Fighting](/fighting)                              |                        
-|Do         | 31 maart 2022       |20:30 tot 22:00|[Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
+| Dag    | Datum                 | Tijd            | Activiteit                                                           |
+|--------|-----------------------|:----------------|:---------------------------------------------------------------------|
+| Di     | 15 maart 2022         | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                      |                        
+| Di     | 15 maart 2022         | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                       |                        
+| Di     | 15 maart 2022         | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                     |                          
+| Do     | 17 maart 2022         | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                      |
+| Do     | 17 maart 2022         | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                       |                        
+| Do     | 17 maart 2022         | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                     |
+| Za     | 19 maart 2022         | 9:00  tot 10:00 | [Jeugd](/jeugd)                                                      |                           
+| Za     | 19 maart 2022         | 10:00 tot 11:00 | [Striking](/striking)                                                |             
+| Za     | 19 maart 2022         | 11:00 tot 11:30 | [Tabata](/tabata)                                                    |                           
+| Za     | 19 maart 2022         | 11:30 tot 13:00 | [No-Gi / Grappling](/grappling)                                      |
+| Di     | 22 maart 2022         | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                      |                        
+| Di     | 22 maart 2022         | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                       |                        
+| Di     | 22 maart 2022         | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                     |                          
+| Do     | 24 maart 2022         | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                      |
+| Do     | 24 maart 2022         | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                       |                        
+| Do     | 24 maart 2022         | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                     |
+| Za     | 26 maart 2022         | 9:00  tot 10:00 | [Jeugd](/jeugd)                                                      |                           
+| Za     | 26 maart 2022         | 10:00 tot 11:00 | [Striking](/striking)                                                |             
+| Za     | 26 maart 2022         | 11:00 tot 11:30 | [Tabata](/tabata)                                                    |                           
+| Za     | 26 maart 2022         | 11:30 tot 13:00 | [No-Gi / Grappling](/grappling)                                      |
+| Di     | 29 maart 2022         | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                      |                        
+| Di     | 29 maart 2022         | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                       |                        
+| Di     | 29 maart 2022         | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                     |                          
+| Do     | 31 maart 2022         | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                      |
+| Do     | 31 maart 2022         | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                       |                        
+| Do     | 31 maart 2022         | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                     |
+| Do     | 21 juli 2022          |                 | Geen training - Sporthal gesloten - Nationale Feestdag               |
+| Di     | 01 november 2022      |                 | Geen training - Sporthal gesloten -	Allerheiligen                    |
+|        | 09 - 13 november 2022 |                 | GYMNOVA Cup - Druk aan de sporthal                                   |
+| Za     | 24 december 2022      |                 | Geen training - Sporthal gesloten - Kerstavond                       |
+| Za     | 31 december 2022      |                 | Geen training - Sporthal gesloten - Oudejaarsavond                   |
+| Do     | 18 mei 2023           |                 | Geen training - Sporthal gesloten - OH Hemelvaart                    |
+|        | Vanaf 22 mei 2023     |                 | Vernieuwing sportvloer sportcomplex Keerbergen - Geen impact voor ons |
