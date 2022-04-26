@@ -10,7 +10,7 @@ listpageImgUrl = "/images/nieuws/2022/04/sporthal_2022_thumb.webp"
 listpageImgAlt = "3D tekening van de Sporthal te Keerbergen"
 detailpageImgUrl = "/images/nieuws/2022/04/sporthal_2022.webp"
 metaImage = "/images/nieuws/2022/04/sporthal_2022.jpg"
-imageAlt = "Coach Kim Lauwers met alle deelnemende kampers van Invicto Keerbergen"
+imageAlt = "3D tekening van de Sporthal te Keerbergen"
 [menu.global]
 parent = "nieuws"
 +++
