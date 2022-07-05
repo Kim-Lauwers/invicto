@@ -12,12 +12,25 @@ layout = "generic"
 
 Een weekoverzicht kan u [hier](/trainingen) vinden.
     
-| Dag    | Datum                 | Tijd            | Activiteit                                                            |
-|--------|-----------------------|:----------------|:----------------------------------------------------------------------|
-| Do     | 30 juni 2022         | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                      |
-| Do     | 30 juni 2022         | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                       |                        
-| Do     | 30 juni 2022         | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                     |
+| Dag | Datum                 | Tijd            | Activiteit                                           |
+|-----|-----------------------|:----------------|:-----------------------------------------------------|
+| Di  | 05 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Do  | 07 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Di  | 12 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Do  | 14 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Di  | 19 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
 | Do     | 21 juli 2022          |                 | Geen training - Sporthal gesloten - Nationale Feestdag                |
+| Di  | 26 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Do  | 28 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Di  | 02 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Do  | 04 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Di  | 09 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Do  | 11 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Di  | 16 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Do  | 18 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Di  | 23 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Do  | 25 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
+| Di  | 30 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
 | Di     | 01 november 2022      |                 | Geen training - Sporthal gesloten -	Allerheiligen                     |
 |        | 09 - 13 november 2022 |                 | GYMNOVA Cup - Druk aan de sporthal                                    |
 | Za     | 24 december 2022      |                 | Geen training - Sporthal gesloten - Kerstavond                        |
