@@ -14,15 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag | Datum                 | Tijd            | Activiteit                                           |
 |-----|-----------------------|:----------------|:-----------------------------------------------------|
-| Di  | 05 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
-| Do  | 07 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
-| Di  | 12 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
-| Do  | 14 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
-| Di  | 19 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
-| Do     | 21 juli 2022          |                 | Geen training - Sporthal gesloten - Nationale Feestdag                |
-| Di  | 26 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
-| Do  | 28 juli 2022          | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
-| Di  | 02 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
 | Do  | 04 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
 | Di  | 09 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
 | Do  | 11 augustus 2022      | 19:30 tot 21:00 | Open mat - vrij rollen / randori - Trainers aanwezig |
