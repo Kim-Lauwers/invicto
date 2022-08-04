@@ -1,6 +1,6 @@
 +++
 title = "Seizoen 2022 - 2023"
-date = 2020-08-31T13:13:21+02:00
+date = 2022-08-04T14:35:21+02:00
 draft = false
 description = "In september start het nieuwe seizoen"
 categories = []
