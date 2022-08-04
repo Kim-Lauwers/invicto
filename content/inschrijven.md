@@ -11,7 +11,8 @@ Een seizoen loopt van september tot augustus. Indien u later inschrijft zie dan 
 Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
 
 * Voor de jeugd (van 8 jaar tot en met 12 jaar): € 180
-* Voor de volwassenen(vanaf 12 jaar): € 350
+* Voor de volwassenen(vanaf 12 jaar): € 250
+* Voor de volwassenen(vanaf 14 jaar): € 350
 
 Deze lidgelden zijn all inclusive (meer info in het aansluitingsformulier).
 U kan het aansluitingsformulier [hier](/documents/club/Lidmaatschappij-Invicto_Keerbergen.pdf) terugvinden.

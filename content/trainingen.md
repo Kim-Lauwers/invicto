@@ -12,16 +12,15 @@ layout = "generic"
 #### Voor de kinderen (van 8 jaar tot en met 12 jaar)
 * Dinsdag van 18:00 tot 19:00. 
 * Donderdag van 18:30 tot 19:30.
-* Zaterdag: No-Gi van 09:00 tot 10:00.
 
 #### Voor de volwassenen(vanaf 12 jaar)
 * Dinsdag:  [Ju-Jitsu Fighting](/fighting) van 19:00 tot 20:30.
 * Dinsdag:  [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
 * Donderdag:  [Ju-Jitsu Fighting](/fighting) van 19:30 tot 20:30.
 * Donderdag:  [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
-* Zaterdag: [Striking](/striking) van 10:00 tot 11:00.
-* Zaterdag: [Tabata](/tabata) van 11:00 tot 11:30.
-* Zaterdag: [No-Gi / Grappling](/grappling) van 11:30 tot 13:00.
+* Zaterdag: [Striking](/striking) van 09:00 tot 10:00.
+* Zaterdag: [Tabata](/tabata) van 10:00 tot 10:30.
+* Zaterdag: [No-Gi / Grappling](/grappling) van 10:30 tot 12:00.
 
 ### Locatie
 Gemeentelijke Sporthal Keerbergen \
