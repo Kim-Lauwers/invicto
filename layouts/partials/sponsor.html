@@ -1,0 +1,22 @@
+<div id="{{ .name }}">
+    <article id="{{ .name }}Article">
+        <h4>{{ .name }}</h4>
+
+        <img src="{{ .imageSrc }}" alt="{{ .imageAlt }}" width="300px"/>
+
+        <div>
+            {{ .description }}
+        </div>
+
+        {{ if .website }}
+        <h5>Contact:</h5>
+        <ul class="actions stacked">
+            <li>
+                <a href="{{ .website }}" class="icon solid fa-home" aria-hidden="true">
+                    <span>{{ .website }}</span>
+                </a>
+            </li>
+        </ul>
+        {{ end }}
+    </article>
+</div>

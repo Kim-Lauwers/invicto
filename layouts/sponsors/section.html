@@ -1,0 +1,37 @@
+<html lang="nl-BE">
+{{ partial "head.html" . }}
+<body class="is-preload">
+
+<!-- Page Wrapper -->
+<div id="page-wrapper">
+    {{ partial "header.html" . }}
+
+    <!-- Main -->
+    <article id="main">
+        <header>
+            <h2>{{ .Title }}</h2>
+            <p>{{ .Description }}</p>
+        </header>
+        <section class="wrapper style5">
+            <div class="inner">
+                <p>
+                Als club willen wij graag onze sponsors bedanken:
+                </p>
+
+                <h2>Onze sponsors:</h2>
+                {{ range sort $.Site.Data.sponsors "weight" }}
+                    {{ partial "sponsor.html" . }}
+                {{ end }}
+            </div>
+        </section>
+    </article>
+
+    {{ partial "breadcrumb.html" . }}
+    {{ partial "footer.html" . }}
+
+</div>
+
+{{ partial "scripts.html" . }}
+
+</body>
+</html>
