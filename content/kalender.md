@@ -2,7 +2,7 @@
 title = "Kalender"
 description = "Overzicht van de geplande trainingen en activiteiten"
 keywords = ["agenda", "training", "trainingen", "kalender", "events", "evenementen"]
-date = 2022-09-19T08:21:39+01:00
+date = 2022-09-20T08:21:39+01:00
 nocache = true
 draft = false
 layout = "generic"
