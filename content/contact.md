@@ -43,6 +43,8 @@ E-mail: [api-vrouwelijk [AT] invictokeerbergen.be](mailto:api-vrouwelijk@invicto
 ### Organigram
 ![Organigram](/images/club/organigram.webp "Organigram Invicto Keerbergen")
 
+Voor meer details over de taakomschrijvingen van de organen kan u [hier](/functieomschrijvingen) terecht.
+
 ### Federaties
 De aangesloten federatie is afhankelijk van de afdeling binnen Invicto VZW.
 
