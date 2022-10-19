@@ -17,6 +17,8 @@ Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn ge
 Deze lidgelden zijn all inclusive (meer info in het aansluitingsformulier).
 U kan het aansluitingsformulier [hier](/documents/club/Lidmaatschappij-Invicto_Keerbergen.pdf) terugvinden.
 
+Het lidgeld kan u steeds storten op *BE34 9794 2892 3190*. Vergeet zeker uw naam niet te vermelden.
+
 #### Tussentijdse lidmaatschapsbijdrage
 Tijdens een lopende sportseizoen kan er ook nog aangesloten en dan wordt het lidgeld pro-rata berekend op de nog lopende termijn (De zomermaanden worden hier niet bijgerekend). De kosten van de aansluiting bij de federatie en de verzekering kunnen niet pro-rata berekend worden en dienen steeds volledig betaald te worden.
 
