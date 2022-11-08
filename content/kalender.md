@@ -14,13 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag | Datum                 | Tijd            | Activiteit                                                            |
 |-----|-----------------------|:----------------|:----------------------------------------------------------------------|
-| Di  | 01 november 2022      |                 | Geen training - Sporthal gesloten -	Allerheiligen                     |
-| Do  | 03 november 2022      | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                       |
-| Do  | 03 november 2022      | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                        |                        
-| Do  | 03 november 2022      | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                      |
-| Za  | 05 november 2022      | 09:00 tot 10:00 | [Striking](/striking)                                                 |             
-| Za  | 05 november 2022      | 10:00 tot 10:30 | [Tabata](/tabata)                                                     |                           
-| Za  | 05 november 2022      | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                       |
 | Di  | 08 november 2022      | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                       |
 | Di  | 08 november 2022      | 19:00 tot 20:00 | [Ju-Jitsu Fighting](/fighting)                                        |
 | Di  | 08 november 2022      | 20:00 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj) met gastlesgever                     |
