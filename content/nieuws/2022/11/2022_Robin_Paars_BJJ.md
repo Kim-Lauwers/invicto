@@ -19,7 +19,7 @@ Geachte,
 
 Vandaag heeft trainer [Robin De Bie](https://www.invictokeerbergen.be/trainers/#Robin_De%20Bie) zijn paarse band in Brazillian Ju-Jitsu behaald.
 
-Robin heeft deze band onder leiding van [Wim Deputter](https://brasateam.be/wp/about-brasa/wim-deputter/) heeft behaald, Wim telt als één van de meest toonaangevende BJJ'er die er in België is. 
+Robin heeft deze band onder leiding van [Wim Deputter](https://brasateam.be/wp/about-brasa/wim-deputter/) behaald, Wim telt als één van de meest toonaangevende BJJ'er die er in België is. 
 
 Dikke proficiat aan Robin !!
 
