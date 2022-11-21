@@ -14,15 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag | Datum                 | Tijd            | Activiteit                                                                                                                                                    |
 |-----|-----------------------|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Di  | 15 november 2022      | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                               |
-| Di  | 15 november 2022      | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                                |
-| Di  | 15 november 2022      | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                              |
-| Do  | 17 november 2022      | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                               |
-| Do  | 17 november 2022      | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                                |
-| Do  | 17 november 2022      | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                              |
-| Za  | 19 november 2022      | 09:00 tot 10:00 | [Striking](/striking)                                                                                                                                         |
-| Za  | 19 november 2022      | 10:00 tot 10:30 | [Tabata](/tabata)                                                                                                                                             |
-| Za  | 19 november 2022      | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                                                                                                               |
 | Di  | 22 november 2022      | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                               |
 | Di  | 22 november 2022      | 19:00 tot 21:00 | [Ju-Jitsu Fighting](/fighting) met gastlesgever Louis Cloots                                                                                                  |
 | Di  | 22 november 2022      | 21:00 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                              |
