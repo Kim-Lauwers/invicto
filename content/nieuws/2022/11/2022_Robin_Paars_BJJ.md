@@ -6,8 +6,11 @@ description = "Trainer Robin haalt zijn paarse band BJJ"
 keywords = ["Robin De Bie", "Paarse band", "BJJ", "Brazillian Ju-Jitsu", "brasa", "wim de putter"]
 categories = []
 author = "Kim Lauwers"
-listpageImgUrl = "/images/nieuws/2021/2021_bjj_frank_zwart_thumb.webp"
-detailpageImgUrl = "../images/nieuws/2021/2021_bjj_frank_zwart.jpg"
+listpageImgUrl = "/images/nieuws/2022/11/robin_purple_belt_bjj_2022_thumb.webp"
+listpageImgAlt = "Robin die zijn paarse band in ontvangst neemt"
+detailpageImgUrl = "/images/nieuws/2022/11/robin_purple_belt_bjj_2022.webp"
+metaImage = "/images/nieuws/2022/11/robin_purple_belt_bjj_2022.jpg"
+imageAlt = "Robin die zijn paarse band in ontvangst neemt"
 [menu.global]
     parent = "nieuws"
 +++
