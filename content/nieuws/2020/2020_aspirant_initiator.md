@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/2020/vts.jpeg"
 listpageImgUrl = "/images/nieuws/2020/vts.jpeg"
 detailpageImgUrl = ""
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

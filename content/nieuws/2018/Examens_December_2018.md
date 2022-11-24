@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2018/tais-oranje.jpg"
 listpageImgUrl = "/images/nieuws/2018/tais-oranje.jpg"
 detailpageImgUrl = "../images/nieuws/2018/tais-oranje.jpg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

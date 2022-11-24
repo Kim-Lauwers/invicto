@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2019/sint-gordels.jpg"
 listpageImgUrl = "/images/nieuws/2019/sint-gordels.jpg"
 detailpageImgUrl = ""
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

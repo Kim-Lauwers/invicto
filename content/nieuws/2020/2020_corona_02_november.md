@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2020/corona.jpg"
 listpageImgUrl = "/images/nieuws/2020/corona.jpg"
 detailpageImgUrl = ""
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2019/trooper.png"
 listpageImgUrl = "/images/nieuws/2019/trooper.png"
 detailpageImgUrl = "/images/nieuws/2019/trooper.png"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

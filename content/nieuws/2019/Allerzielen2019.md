@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2019/allerzielen2019.jpeg"
 listpageImgUrl = "/images/nieuws/2019/allerzielen2019.jpeg"
 detailpageImgUrl = ""
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

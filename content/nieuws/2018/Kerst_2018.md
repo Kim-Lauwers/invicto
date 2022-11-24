@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2018/KERST_2018.jpeg"
 listpageImgUrl = "/images/nieuws/2018/KERST_2018.jpeg"
 detailpageImgUrl = "../images/nieuws/2018/KERST_2018.jpeg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

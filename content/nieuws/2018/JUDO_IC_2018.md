@@ -8,6 +8,7 @@ author = "Ju-Jitsu Keerbergen VZW"
 homepageImgUrl = "images/nieuws/2018/JUDO_IC_2018_HOMEPAGE.jpg"
 listpageImgUrl = "/images/nieuws/2018/JUDO_IC_2018_LIST.jpg"
 detailpageImgUrl = "/images/nieuws/2018/JUDO_IC_2018_HEADER.jpg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

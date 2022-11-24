@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2018/club_35jaar.jpg"
 listpageImgUrl = "/images/nieuws/2018/club_35jaar.jpg"
 detailpageImgUrl = "/images/nieuws/2018/club_35jaar.jpg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

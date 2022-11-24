@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2018/WK_2018_START.jpg"
 listpageImgUrl = "/images/nieuws/2018/WK_2018_START.jpg"
 detailpageImgUrl = ""
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

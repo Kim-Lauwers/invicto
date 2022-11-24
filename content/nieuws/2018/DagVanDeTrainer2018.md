@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2018/DagVanDeTrainer.jpg"
 listpageImgUrl = "/images/nieuws/2018/DagVanDeTrainer.jpg"
 detailpageImgUrl = "../images/nieuws/2018/DagVanDeTrainer.jpg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

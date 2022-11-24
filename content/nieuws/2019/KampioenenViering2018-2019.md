@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2018/kampioen_2018_collage.jpg"
 listpageImgUrl = "/images/nieuws/2018/kampioen_2018_collage.jpg"
 detailpageImgUrl = "/images/nieuws/2018/kampioen_2018_collage.jpg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2019/parisOpen2019.jpeg"
 listpageImgUrl = "/images/nieuws/2019/parisOpen2019.jpeg"
 detailpageImgUrl = "/images/nieuws/2019/parisOpen2019.jpeg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2019/robin_grappling_12_2019.jpg"
 listpageImgUrl = "/images/nieuws/2019/robin_grappling_12_2019.jpg"
 detailpageImgUrl = "/images/nieuws/2019/robin_grappling_12_2019.jpg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

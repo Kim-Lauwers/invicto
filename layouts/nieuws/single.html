@@ -22,7 +22,7 @@
 
                 <article>
                     {{ if .Params.detailpageImgUrl }}
-                    <span class="image left">
+                    <span class="image {{ default "left" (.Params.detailpageImgPosition) }}">
                         <img src="{{ .Site.BaseURL }}{{ .Params.detailpageImgUrl }}" alt="{{ .Params.imageAlt }}" />
                     </span>
                     {{ end }}

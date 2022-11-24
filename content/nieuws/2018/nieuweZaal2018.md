@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/2018/nieuweZaal2018.jpg"
 listpageImgUrl = "/images/nieuws/2018/nieuweZaal2018.jpg"
 detailpageImgUrl = "../images/nieuws/2018/nieuweZaal2018.jpg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "/images/nieuws/2019/DAN_KIM_6DAN.jpg"
 listpageImgUrl = "/images/nieuws/2019/DAN_KIM_6DAN.jpg"
 detailpageImgUrl = "../images/nieuws/2019/KIM_6DAN.jpg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++

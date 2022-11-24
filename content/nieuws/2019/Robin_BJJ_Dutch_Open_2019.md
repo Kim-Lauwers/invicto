@@ -8,6 +8,7 @@ author = "Kim Lauwers"
 homepageImgUrl = "images/nieuws/2019/robinbjjdutchopen_thumb.jpg"
 listpageImgUrl = "/images/nieuws/2019/robinbjjdutchopen_thumb.jpg"
 detailpageImgUrl = "/images/nieuws/2019/robinbjjdutchopen.jpg"
+detailpageImgPosition = "left"
 [menu.global]
     parent = "nieuws"
 +++
