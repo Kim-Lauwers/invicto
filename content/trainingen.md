@@ -33,5 +33,5 @@ Er wordt lesgegeven door [Sport vlaanderen erkende / gediplomeerde trainers](/tr
 
 ## Trainingskledij 
 * De GI mag enkel van logo’s en reclame voorzien worden die door het Bestuur werden goedgekeurd
-* Aan representaties binnen de VJJF en BJJF of internationale wedstrijden gelinkt aan JJIF wordt steeds deelgenomen onder Invicto Keerbergen en in outfit van Invicto Keerbergen (wedstrijdgi en trainingsoutfit)
-* De wedstrijdgi bevat geen symbolen van andere clubs of verwijzingen naar een andere club, enkel Invicto Keerbergen en hun sponsors zullen hier naar voor komen.
+* Aan representaties binnen de VJJF en BJJF of internationale wedstrijden gelinkt aan JJIF wordt steeds deelgenomen onder Invicto Belgium en in outfit van Invicto Belgium (wedstrijdgi en trainingsoutfit)
+* De wedstrijdgi bevat geen symbolen van andere clubs of verwijzingen naar een andere club, enkel Invicto Belgium en hun sponsors zullen hier naar voor komen.

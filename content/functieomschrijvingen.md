@@ -8,7 +8,7 @@ layout = "generic"
 +++
 ## Taak- en functieomschrijvingen
 ## Organigram
-![Organigram](/images/club/organigram.webp "Organigram Invicto Keerbergen")
+![Organigram](/images/club/organigram.webp "Organigram Invicto Belgium")
 
 ### Dagelijks bestuur
 De bevoegdheden van het dagelijks bestuurder zijn wettelijk vastgelegd. Concreet is dit orgaan verantwoordelijk voor:

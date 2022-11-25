@@ -3,7 +3,7 @@ paginate = 9
 
 [params]
     dateForm = "January 2, 2006"
-    title = "Invicto Keerbergen VZW"
+    title = "Invicto Belgium VZW"
     shortSiteName="Invicto VZW"
 
 [permalinks]

@@ -7,7 +7,7 @@ draft = false
 layout = "generic"
 +++
 ## Privacy verklaring
-Uw persoonsgegevens worden verwerkt door Invicto Keerbergen VZW, Broekelei 9, 3140 Keerbergen, [privacy [AT] invictokeerbergen.be](mailto:privacy@invictokeerbergen.be), voor ledenbeheer en organisatie van clubactiviteiten op basis van de contractuele relatie als gevolg van uw inschrijving en om u op de hoogte te houden van de activiteiten van onze club op basis van het gerechtvaardigd belang om aan haar leden en ex-leden sport aan te bieden.  Indien u hieromtrent vragen heeft kan u zich steeds wenden tot de verwerkingsverantwoordelijke.
+Uw persoonsgegevens worden verwerkt door Invicto Belgium VZW, Broekelei 9, 3140 Keerbergen, [privacy [AT] invictokeerbergen.be](mailto:privacy@invictokeerbergen.be), voor ledenbeheer en organisatie van clubactiviteiten op basis van de contractuele relatie als gevolg van uw inschrijving en om u op de hoogte te houden van de activiteiten van onze club op basis van het gerechtvaardigd belang om aan haar leden en ex-leden sport aan te bieden.  Indien u hieromtrent vragen heeft kan u zich steeds wenden tot de verwerkingsverantwoordelijke.
 
 Verwerkingsverantwoordelijke en Functionaris Gegevensbescherming
 De verwerkingsverantwoordelijke voor de verwerking van Uw persoonsgegevens is:
@@ -61,7 +61,7 @@ e-mail: [info [AT] grappling.vlaanderen](mailto:info@grappling.vlaanderen) \
 Tel: +32475/66 95 17 \
 
 ### Verwerkingsdoeleinden en rechtsgrond
-Uw persoonsgegevens worden verwerkt in het kader van Uw aansluiting bij Invicto Keerbergen VZW en de automatisch daaruit voortvloeiende aansluiting bij de Vlaamse Ju Jitsu Federatie VZW, Fros Multisport Vlaanderen VZW Of Grappling Vlaanderen. \
+Uw persoonsgegevens worden verwerkt in het kader van Uw aansluiting bij Invicto Belgium VZW en de automatisch daaruit voortvloeiende aansluiting bij de Vlaamse Ju Jitsu Federatie VZW, Fros Multisport Vlaanderen VZW Of Grappling Vlaanderen. \
 Afhankelijk van de gekozen afdeling worden uw gegevens naar de bijhorende federatie doorgestuurd.
 
 Zowel de verwerkingsverantwoordelijke als de co-verwerkingsverantwoordelijke mogen deze persoonsgegevens verwerken op basis van de uitvoering van het door U aangegane lidmaatschap (uitvoering van een overeenkomst), op ons rustende wettelijke verplichtingen en ons gerechtvaardigd belang een efficiënte ledenadministratie te voeren.
@@ -125,13 +125,13 @@ In het kader van de wettelijke verplichtingen alsook in het kader van de goede w
 Na deze termijn zullen al Uw persoonsgegevens verwerkt door de club en/of de federatie definitief uit de bestanden gewist worden.
 
 ### Technische en organisatorische beveiligingsmaatregelen
-Zowel de Invicto Keerbergen club als de federatie hebben de nodige technische en organisatorische beveiligingsmaatregelen genomen teneinde te vermijden dat dat de vertrouwelijkheid, integriteit en beschikbaarheid van Uw persoonsgegevens in het gedrang zou komen.
+Zowel de Invicto Belgium club als de federatie hebben de nodige technische en organisatorische beveiligingsmaatregelen genomen teneinde te vermijden dat dat de vertrouwelijkheid, integriteit en beschikbaarheid van Uw persoonsgegevens in het gedrang zou komen.
 
-Wat Invicto Keerbergen betreft zijn dit antivirussoftware op PC en laptop, back ups via google-Cloud, gebruik van wachtwoorden, intern gebruik van gegevens via het need to know principe.  
+Wat Invicto Belgium betreft zijn dit antivirussoftware op PC en laptop, back ups via google-Cloud, gebruik van wachtwoorden, intern gebruik van gegevens via het need to know principe.  
 Print-out van de relevante gegevens ter beschikking in de dojo in een afgesloten kast met sleutel enkel ter beschikking van de hoofdtrainers.  
 Bij het vertrek van een hoofdtrainer wordt de sleutel ingeleverd.
 
-Invicto Keerbergen en de federaties hebben ten allen tijde het recht om deze privacy policy aan te passen.
+Invicto Belgium en de federaties hebben ten allen tijde het recht om deze privacy policy aan te passen.
 
 Huidige versie is deze en is van toepassing vanaf 16 september 2021
 

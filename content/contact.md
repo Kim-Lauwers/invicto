@@ -41,7 +41,7 @@ Tais Verbond (Vrouwelijk) \
 E-mail: [api-vrouwelijk [AT] invictokeerbergen.be](mailto:api-vrouwelijk@invictokeerbergen.be)
 
 ### Organigram
-![Organigram](/images/club/organigram.webp "Organigram Invicto Keerbergen")
+![Organigram](/images/club/organigram.webp "Organigram Invicto Belgium")
 
 Voor meer details over de taakomschrijvingen van de organen kan u [hier](/functieomschrijvingen) terecht.
 
