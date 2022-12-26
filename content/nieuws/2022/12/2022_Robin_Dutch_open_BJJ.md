@@ -1,5 +1,5 @@
 +++
-title = "Dutch open BJJ"
+title = "Dutch open BJJ 2022"
 date = 2022-12-17T15:03:31+02:00
 draft = false
 description = "Trainer Robin zijn eerste wedstrijd als een paarse band BJJ"
