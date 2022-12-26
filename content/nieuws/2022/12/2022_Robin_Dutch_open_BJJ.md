@@ -6,10 +6,11 @@ description = "Trainer Robin zijn eerste wedstrijd als een paarse band BJJ"
 keywords = ["Robin De Bie", "Paarse band", "BJJ", "Brazillian Ju-Jitsu", "brasa", "Dutch open BJJ"]
 categories = []
 author = "Kim Lauwers"
-listpageImgUrl = "/images/nieuws/2022/11/robin_dutch_open_bjj_2022_silver_thumb.webp"
+listpageImgUrl = "/images/nieuws/2022/12/robin_dutch_open_bjj_2022_silver_thumb.webp"
 listpageImgAlt = "Robin op het podium (2de Plaats) van de Dutch Open"
-detailpageImgUrl = "/images/nieuws/2022/11/robin_dutch_open_bjj_2022_silver.webp"
-metaImage = "/images/nieuws/2022/11/robin_dutch_open_bjj_2022_silver.jpg"
+detailpageImgPosition = "fit"
+detailpageImgUrl = "/images/nieuws/2022/12/robin_dutch_open_bjj_2022_silver.webp"
+metaImage = "/images/nieuws/2022/12/robin_dutch_open_bjj_2022_silver.jpg"
 imageAlt = "Robin op het podium (2de Plaats) van de Dutch Open"
 [menu.global]
     parent = "nieuws"
