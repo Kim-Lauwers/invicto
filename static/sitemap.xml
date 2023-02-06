@@ -160,6 +160,12 @@
         <priority>0.1</priority>
     </url>
     <url>
+        <loc>https://www.invictokeerbergen.be/nieuws/page/14</loc>
+        <lastmod>2022-09-13T14:03:24Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/2</loc>
         <lastmod>2022-09-13T14:03:24Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -205,6 +211,12 @@
         <loc>https://www.invictokeerbergen.be/nieuws/page/9</loc>
         <lastmod>2022-09-13T14:03:24Z</lastmod>
         <changefreq>weekly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    <url>
+        <loc>https://www.invictokeerbergen.be/nieuws/2023/02/06/nieuwe-gasttraining-louis-cloots/</loc>
+        <lastmod>2023-02-06T09:10:21Z</lastmod>
+        <changefreq>never</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
