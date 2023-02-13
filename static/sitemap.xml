@@ -31,7 +31,7 @@
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/kalender</loc>
-        <lastmod>2022-11-21T13:12:40Z</lastmod>
+        <lastmod>2023-02-13T13:12:40Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -211,6 +211,12 @@
         <loc>https://www.invictokeerbergen.be/nieuws/page/9</loc>
         <lastmod>2022-09-13T14:03:24Z</lastmod>
         <changefreq>weekly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    <url>
+        <loc>https://www.invictokeerbergen.be/nieuws/2023/02/13/open-beveren-2023/</loc>
+        <lastmod>2023-02-13T09:10:21Z</lastmod>
+        <changefreq>never</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
