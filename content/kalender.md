@@ -12,29 +12,56 @@ layout = "generic"
 
 Een weekoverzicht kan u [hier](/trainingen) vinden.
     
-| Dag | Datum             | Tijd            | Activiteit                                                                                                                                                  |
-|-----|-------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Di  | 14 februari 2023  | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                             |
-| Di  | 14 februari 2023  | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
-| Di  | 14 februari 2023  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
-| Do  | 16 februari 2023  | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                             |
-| Do  | 16 februari 2023  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
-| Do  | 16 februari 2023  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
-| Za  | 18 februari 2023  | 09:00 tot 10:00 | [Striking](/striking)                                                                                                                                       |
-| Za  | 18 februari 2023  | 10:00 tot 10:30 | [Tabata](/tabata)                                                                                                                                           |
-| Za  | 18 februari 2023  | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                                                                                                             |
-| Di  | 21 februari 2023  | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                             |
-| Di  | 21 februari 2023  | 19:00 tot 21:00 | [Ju-Jitsu Fighting](/fighting) met Gasttrainer Louis Cloots                                                                                                 |
-| Di  | 21 februari 2023  | 21:00 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
-| Do  | 23 februari 2023  | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                             |
-| Do  | 23 februari 2023  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
-| Do  | 23 februari 2023  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
-| Za  | 25 februari 2023  | 09:00 tot 10:00 | [Striking](/striking)                                                                                                                                       |
-| Za  | 25 februari 2023  | 10:00 tot 10:30 | [Tabata](/tabata)                                                                                                                                           |
-| Za  | 25 februari 2023  | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                                                                                                             |
-| Di  | 28 februari 2023  | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                             |
-| Di  | 28 februari 2023  | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
-| Di  | 28 februari 2023  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
-| Za  | 04 maart 2023     | Hele dag        | [Antwerps Open Kampioenschap 2023](https://www.sportdata.org/ju-jitsu/set-online/veranstaltung_info_main.php?active_menu=calendar&vernr=373#a_eventheadend) |
+| Dag | Datum            | Tijd            | Activiteit                                                                                                                                                  |
+|-----|------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Do  | 23 februari 2023 | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                             |
+| Do  | 23 februari 2023 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Do  | 23 februari 2023 | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Za  | 25 februari 2023 | 09:00 tot 10:00 | [Striking](/striking)                                                                                                                                       |
+| Za  | 25 februari 2023 | 10:00 tot 10:30 | [Tabata](/tabata)                                                                                                                                           |
+| Za  | 25 februari 2023 | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                                                                                                             |
+| Di  | 28 februari 2023 | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                             |
+| Di  | 28 februari 2023 | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Di  | 28 februari 2023 | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Do  | 02 maart 2023    | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                             |
+| Do  | 02 maart 2023    | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Do  | 02 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Za  | 04 maart 2023    | 09:00 tot 10:00 | [Striking](/striking)                                                                                                                                       |
+| Za  | 04 maart 2023    | 10:00 tot 10:30 | [Tabata](/tabata)                                                                                                                                           |
+| Za  | 04 maart 2023    | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                                                                                                             |
+| Za  | 04 maart 2023    | Hele dag        | [Antwerps Open Kampioenschap 2023](https://www.sportdata.org/ju-jitsu/set-online/veranstaltung_info_main.php?active_menu=calendar&vernr=373#a_eventheadend) |
+| Di  | 07 maart 2023    | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                             |
+| Di  | 07 maart 2023    | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Di  | 07 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Do  | 09 maart 2023    | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                             |
+| Do  | 09 maart 2023    | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Do  | 09 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Za  | 11 maart 2023    | 09:00 tot 10:00 | [Striking](/striking)                                                                                                                                       |
+| Za  | 11 maart 2023    | 10:00 tot 10:30 | [Tabata](/tabata)                                                                                                                                           |
+| Za  | 11 maart 2023    | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                                                                                                             |
+| Di  | 14 maart 2023    | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                             |
+| Di  | 14 maart 2023    | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Di  | 14 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Do  | 16 maart 2023    | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                             |
+| Do  | 16 maart 2023    | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Do  | 16 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Za  | 18 maart 2023    | 09:00 tot 10:00 | [Striking](/striking)                                                                                                                                       |
+| Za  | 18 maart 2023    | 10:00 tot 10:30 | [Tabata](/tabata)                                                                                                                                           |
+| Za  | 18 maart 2023    | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                                                                                                             |
+| Di  | 21 maart 2023    | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                             |
+| Di  | 21 maart 2023    | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Di  | 21 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Do  | 23 maart 2023    | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                             |
+| Do  | 23 maart 2023    | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Do  | 23 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Za  | 25 maart 2023    | 09:00 tot 10:00 | [Striking](/striking)                                                                                                                                       |
+| Za  | 25 maart 2023    | 10:00 tot 10:30 | [Tabata](/tabata)                                                                                                                                           |
+| Za  | 25 maart 2023    | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                                                                                                             |
+| Di  | 28 maart 2023    | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                             |
+| Di  | 28 maart 2023    | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Di  | 28 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
+| Do  | 30 maart 2023    | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                             |
+| Do  | 30 maart 2023    | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
+| Do  | 30 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
 | Do  | 18 mei 2023       |                 | Geen training - Sporthal gesloten - OH Hemelvaart                                                                                                           |
 |     | Vanaf 22 mei 2023 |                 | Vernieuwing sportvloer sportcomplex Keerbergen - Geen impact voor ons                                                                                       |
