@@ -14,8 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
     
 | Dag | Datum            | Tijd            | Activiteit                                                                                                                                                  |
 |-----|------------------|:----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Za  | 04 maart 2023    |  | GEEN TRAINING                                                                                                                                               |
-| Za  | 04 maart 2023    | Hele dag        | [Antwerps Open Kampioenschap 2023](https://www.sportdata.org/ju-jitsu/set-online/veranstaltung_info_main.php?active_menu=calendar&vernr=373#a_eventheadend) |
 | Di  | 07 maart 2023    | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                             |
 | Di  | 07 maart 2023    | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                              |
 | Di  | 07 maart 2023    | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                            |
