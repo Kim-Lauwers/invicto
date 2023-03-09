@@ -2,7 +2,7 @@
 title = "Taak- en functieomschrijvingen"
 description = "Bij welk orgaan kan u terecht voor uw vragen"
 date = 2021-03-09T11:19:39+01:00
-keywords = ["organigram", "taakomschrijving", "functieomschrijvingen", "omschrijving", "functie", "organen", "orgaan"]
+keywords = ["organigram", "taakomschrijving", "functieomschrijvingen", "omschrijving", "functie", "organen", "orgaan", "jeugdcoördinator"]
 draft = false
 layout = "generic"
 +++
@@ -65,3 +65,18 @@ De taken van de API zijn:
 * aanspreekpersoon en eerste opvang;
 * hulp bij coördinatie van de interne procedure en doorverwijzing;
 * preventieactiviteiten en ondersteuning.
+
+### Jeugdcoördinator
+De jeugdcoördinator heeft een belangrijke functie binnen onze club. 
+Deze persoon is verantwoordelijk voor een goede jeugdwerking binnen de club. 
+Het is heel belangrijk dat er steeds overleg is met de juiste personen binnen de club.
+
+Taakomschrijving van onze jeugdcoördinator:
+
+* het opstellen en opvolgen van het jeugdsportbeleidsplan over een termijn van 4 jaar in overleg met het clubbestuur
+* het jaarlijks opstellen van sporttechnisch programma voor atleten tot 18 jaar in samenwerking met de verantwoordelijke groepstrainer en in overleg met de hoofdtrainer
+* het jaarlijks aan het clubbestuur voorstellen van een begroting voor de jeugdwerking
+* Het jaarlijks, in overleg met de hoofdtrainer, samenstellen van de trainersteams voor de jeugdtrainingen en wedstrijden
+* het aansturen van het trainersteam dat het jaarprogramma dient op te volgen
+* het onderhouden van contact met ouders
+* het trainersteam bijstaan in conflictsituaties, dit samen met de API van de club
