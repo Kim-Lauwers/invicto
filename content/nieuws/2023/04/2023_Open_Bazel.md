@@ -18,7 +18,7 @@ imageAlt = "Deelnemende atleten en coach op de Open Bazel 2023"
 
 Geachte,
 
-Vandaag was het nu tijd voor het Open Bazel.
+Vandaag was het tijd voor het Open Bazel.
 Als begeleider was [Kendra De Gussemé](/trainers/#Kendra_De%20Gussem%c3%a9) mee naar de competitie.
 
 Onze club had 4 deelnemers en we zijn met 4 medailles naar huis gekomen.
