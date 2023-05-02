@@ -12,17 +12,44 @@ layout = "generic"
 
 Een weekoverzicht kan u [hier](/trainingen) vinden.
     
-| Dag | Datum             | Tijd            | Activiteit                                                                                                                                                                                              |
-|-----|-------------------|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Di  | 25 april 2023     | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                                                                                                                                                         |
-| Di  | 25 april 2023     | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                                                                          |
-| Di  | 25 april 2023     | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                                                                        |
-| Do  | 27 april 2023     | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                                                                                                                                                         |
-| Do  | 27 april 2023     | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                                                                                          |
-| Do  | 27 april 2023     | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                                                                                                        |
-| Za  | 29 april 2023     | 09:00 tot 10:00 | [Striking](/striking)                                                                                                                                                                                   |
-| Za  | 29 april 2023     | 10:00 tot 10:30 | [Tabata](/tabata)                                                                                                                                                                                       |
-| Za  | 29 april 2023     | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                                                                                                                                                         |
-| Ma  | 01 mei 2023       |                 | Stage Stijl Minne met competitie stuk (lesgevers o.a. Louis Cloots) info [hier](https://www.facebook.com/jujitsuokinawa/posts/pfbid022fzXP2HXsjCGvueUT8i3DjKcgTmFgW5FLiUiFtwqGN5wo8Z7SKjipYeK8dxZdC67l) |
-| Do  | 18 mei 2023       |                 | Geen training - Sporthal gesloten - OH Hemelvaart                                                                                                                                                       |
-|     | Vanaf 22 mei 2023 |                 | Vernieuwing sportvloer sportcomplex Keerbergen - Geen impact voor ons                                                                                                                                   |
+| Dag | Datum             | Tijd            | Activiteit                                                            |
+|-----|-------------------|:----------------|:----------------------------------------------------------------------|
+| Di  | 02 mei 2023       | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                       |
+| Di  | 02 mei 2023       | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                        |
+| Di  | 02 mei 2023       | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                      |
+| Do  | 04 mei 2023       | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                       |
+| Do  | 04 mei 2023       | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                        |
+| Do  | 04 mei 2023       | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                      |
+| Za  | 06 mei 2023       | 09:00 tot 10:00 | [Striking](/striking)                                                 |
+| Za  | 06 mei 2023       | 10:00 tot 10:30 | [Tabata](/tabata)                                                     |
+| Za  | 06 mei 2023       | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                       |
+| Di  | 09 mei 2023       | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                       |
+| Di  | 09 mei 2023       | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                        |
+| Di  | 09 mei 2023       | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                      |
+| Do  | 11 mei 2023       | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                       |
+| Do  | 11 mei 2023       | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                        |
+| Do  | 11 mei 2023       | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                      |
+| Za  | 13 mei 2023       | 09:00 tot 10:00 | [Striking](/striking)                                                 |
+| Za  | 13 mei 2023       | 10:00 tot 10:30 | [Tabata](/tabata)                                                     |
+| Za  | 13 mei 2023       | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                       |
+| Zo  | 14 mei 2023       | 10:00 tot 12:00 | Federale training te Zelem met als Lesgever: Kim Lauwers              |
+| Di  | 16 mei 2023       | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                       |
+| Di  | 16 mei 2023       | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                        |
+| Di  | 16 mei 2023       | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                      |
+| Do  | 18 mei 2023       |                 | Geen training - Sporthal gesloten - OH Hemelvaart                     |
+| Za  | 20 mei 2023       | 09:00 tot 10:00 | [Striking](/striking)                                                 |
+| Za  | 20 mei 2023       | 10:00 tot 10:30 | [Tabata](/tabata)                                                     |
+| Za  | 20 mei 2023       | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                       |
+| Di  | 23 mei 2023       | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                       |
+| Di  | 23 mei 2023       | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                        |
+| Di  | 23 mei 2023       | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                      |
+| Do  | 25 mei 2023       | 18:30 tot 19:30 | [Jeugd](/jeugd)                                                       |
+| Do  | 25 mei 2023       | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                        |
+| Do  | 25 mei 2023       | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                      |
+| Za  | 27 mei 2023       | 09:00 tot 10:00 | [Striking](/striking)                                                 |
+| Za  | 27 mei 2023       | 10:00 tot 10:30 | [Tabata](/tabata)                                                     |
+| Za  | 27 mei 2023       | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                                       |
+| Di  | 30 mei 2023       | 18:00 tot 19:00 | [Jeugd](/jeugd)                                                       |
+| Di  | 30 mei 2023       | 19:00 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                        |
+| Di  | 30 mei 2023       | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                      |
+|     | Vanaf 22 mei 2023 |                 | Vernieuwing sportvloer sportcomplex Keerbergen - Geen impact voor ons |
