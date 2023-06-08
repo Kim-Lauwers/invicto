@@ -17,7 +17,7 @@ imageAlt = "Onze lege dojo"
 +++
 Geachte leden,
 
-Op zaterdag 2 september 2022 starten we met ons nieuwe seizoen. Vergeet niet dat we heel de zomer door op dinsdag en donderdag blijven doortrainen.
+Op zaterdag 2 september 2023 starten we met ons nieuwe seizoen. Vergeet niet dat we heel de zomer door op dinsdag en donderdag blijven doortrainen.
 
 Dit wil zeggen dat we ook over het lidgeld moeten praten :-)
 
