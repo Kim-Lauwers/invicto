@@ -50,7 +50,7 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 | Di  | 25 juli 2023     | 19:30 tot 21:00 | Vrije training                        |
 | Do  | 27 juli 2023     | 19:30 tot 21:00 | Vrije training                        |
 | Di  | 01 augustus 2023 | 19:30 tot 21:00 | Vrije training                        |
-| Do  | 03 augustus 2023 | 19:30 tot 21:00 | Vrije training                        |
+| Do  | 03 augustus 2023 | 19:30 tot 21:00 | **GEEN** training - sporthal gesloten |
 | Di  | 08 augustus 2023 | 19:30 tot 21:00 | Vrije training                        |
 | Do  | 10 augustus 2023 | 19:30 tot 21:00 | Vrije training                        |
 | Di  | 15 augustus 2023 | 19:30 tot 21:00 | **GEEN** training - sporthal gesloten |
