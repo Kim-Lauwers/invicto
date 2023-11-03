@@ -31,7 +31,7 @@
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/kalender</loc>
-        <lastmod>2023-09-01T10:52:40Z</lastmod>
+        <lastmod>2023-11-03T10:52:40Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -217,6 +217,18 @@
         <loc>https://www.invictokeerbergen.be/nieuws/page/9</loc>
         <lastmod>2023-05-02T08:40:24Z</lastmod>
         <changefreq>weekly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    <url>
+        <loc>https://www.invictokeerbergen.be/nieuws/2023/11/02/belangrijke-wijzigingen-in-trainingsuren-we-horen-jouw-mening/</loc>
+        <lastmod>2023-11-02T21:43:24Z</lastmod>
+        <changefreq>never</changefreq>
+        <priority>0.1</priority>
+    </url>
+    <url>
+        <loc>https://www.invictokeerbergen.be/nieuws/2023/09/08/invicto-40-jaar-onoverwinnelijke-toewijding-en-prestaties/</loc>
+        <lastmod>2023-11-02T21:43:24Z</lastmod>
+        <changefreq>never</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
