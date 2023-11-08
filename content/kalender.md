@@ -76,3 +76,4 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 | Di  | 02 Januari 2024  |                 | SPORTHAL GESLOTEN - GEEN TRAINING |
 | Do  | 04 Januari 2024  | 19:30 tot 21:00 | VRIJE TRAINING                    |
 | Za  | 06 Januari 2024  |                 | GEEN TRAINING                     |
+| Do  | 09 Mei 2024      |                 | SPORTHAL GESLOTEN - GEEN TRAINING |
