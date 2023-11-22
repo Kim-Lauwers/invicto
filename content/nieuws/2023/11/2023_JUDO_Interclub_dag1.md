@@ -29,3 +29,7 @@ Met de tweede interclub wedstrijddag in Gent in het vooruitzicht, beseffen we da
 De judoka's zijn vastbesloten om het beste van zichzelf te geven en de successen van het verleden te overtreffen. Kim, als de oudste in de ploeg en 1 van de oudste deelnemer van de Interclub blijft vastberaden om terug te komen na een eerdere blessure.
 
 Met de collectieve inzet van het team kijken we vol verwachting uit naar de komende uitdagingen. Elke wedstrijddag biedt een nieuwe kans om te laten zien waar we als judoploeg toe in staat zijn. Zaterdag in Gent zal een cruciale dag worden, en we zijn vastbesloten om als team te schitteren en onze club trots te maken.
+
+
+
+📷 Alle foto's door [Rik Vander Sanden](https://www.flickr.com/photos/rikvandersanden/)
