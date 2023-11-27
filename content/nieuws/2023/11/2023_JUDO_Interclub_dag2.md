@@ -1,13 +1,13 @@
 +++
 title = "Interclub 2023 dag 2"
-date = 2023-11-28T13:10:31+02:00
+date = 2023-11-28T08:10:31+02:00
 draft = false
 description = "Resultaat Interclub"
-keywords = ["competitie", "wedstrijd", "judo", "interclub", "judoploeg", "interclub wedstrijden", "Kim Lauwers", "judoka"]
+keywords = ["competitie", "wedstrijd", "judo", "interclub", "judoteam", "interclub wedstrijden", "Kim Lauwers", "judoka"]
 categories = []
 author = "Kim Lauwers"
-listpageImgUrl = "/images/nieuws/2023/11/2023_interclub_judo_thumb.webp"
-listpageImgAlt = "Trainer Kim die een mooie Tomoe-Nage uitvoert op de Interclub wedstrijd"
+listpageImgUrl = "/images/nieuws/2023/11/2023_interclub_dag2_judo_thumb.webp"
+listpageImgAlt = "Groepsfoto van judoteam Duffel op de laaste interclub dag"
 detailpageImgPosition = "fit"
 detailpageImgUrl = "/images/nieuws/2023/11/2023_interclub_judo.webp"
 metaImage = "/images/nieuws/2023/11/2023_interclub_judo.jpg"
