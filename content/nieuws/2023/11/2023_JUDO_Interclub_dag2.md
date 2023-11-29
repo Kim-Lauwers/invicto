@@ -9,9 +9,9 @@ author = "Kim Lauwers"
 listpageImgUrl = "/images/nieuws/2023/11/2023_interclub_dag2_judo_thumb.webp"
 listpageImgAlt = "Groepsfoto van judoteam Duffel op de laaste interclub dag"
 detailpageImgPosition = "fit"
-detailpageImgUrl = "/images/nieuws/2023/11/2023_interclub_judo.webp"
-metaImage = "/images/nieuws/2023/11/2023_interclub_judo.jpg"
-imageAlt = "Collage van de wedstrijden van Trainer Kim op de Interclub wedstrijd"
+detailpageImgUrl = "/images/nieuws/2023/11/2023_interclub_dag2_judo.webp"
+metaImage = "/images/nieuws/2023/11/2023_interclub_dag2_judo.jpg"
+imageAlt = "Groepsfoto van judoteam Duffel op de laaste interclub dag"
 [menu.global]
 parent = "nieuws"
 +++
