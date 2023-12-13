@@ -6,8 +6,8 @@ description = "VTS plus marathon"
 keywords = ["ju-jitsu", "Sportvoeding bijscholing", "Kim Lauwers", "Multi-event wedstrijddagen", "Sportdiëtiste Kelly Cauwenbergh", "Toernooi voedingsstrategieën"]
 categories = []
 author = "Kim Lauwers"
-listpageImgUrl = "/images/nieuws/2021/newBegin_thumb.webp"
-listpageImgAlt = "Ons logo"
+listpageImgUrl = "/images/nieuws/2023/11/meerdaagse_voeding_thumb.webp"
+listpageImgAlt = "Klaslokaal met leerlingen die over voeding willen leren"
 metaImage = "/images/nieuws/2021/newBegin.jpg"
 imageAlt = "Ons logo"
 [menu.global]
