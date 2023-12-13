@@ -6,8 +6,8 @@ description = "VTS plus marathon"
 keywords = ["Invicto Keerbergen", "Sporttraining", "Krachttraining", "Opgroeiende atleten", "Mythes krachttraining", "Kim Lauwers", "Jeugdcoördinator", "Atletische ontwikkeling", "Blessurepreventie", "Sportkennis delen"]
 categories = []
 author = "Kim Lauwers"
-listpageImgUrl = "/images/nieuws/2021/newBegin_thumb.webp"
-listpageImgAlt = "Ons logo"
+listpageImgUrl = "/images/nieuws/2023/11/mythes_krachttraining_thumb.webp"
+listpageImgAlt = "Judoka's die aan krachttraining doen"
 metaImage = "/images/nieuws/2021/newBegin.jpg"
 imageAlt = "Ons logo"
 [menu.global]
