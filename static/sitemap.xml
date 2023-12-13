@@ -39,6 +39,7 @@
         <loc>https://www.invictokeerbergen.be/trainers</loc>
         <lastmod>2022-11-21T11:04:42Z</lastmod>
         <changefreq>yearly</changefreq>
+        <changefreq>yearly</changefreq>
         <priority>0.6</priority>
     </url>
     <url>
@@ -125,104 +126,110 @@
     <!-- Nieuws -->
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws</loc>
-        <lastmod>2023-03-06T08:40:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/1</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/10</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/11</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/12</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/13</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/14</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/15</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/16</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/2</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/3</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/4</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/5</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/6</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/7</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/8</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
         <loc>https://www.invictokeerbergen.be/nieuws/page/9</loc>
-        <lastmod>2023-12-12T23:28:24Z</lastmod>
+        <lastmod>2023-12-13T20:15:24Z</lastmod>
         <changefreq>weekly</changefreq>
+        <priority>0.1</priority>
+    </url>
+    <url>
+        <loc>https://www.invictokeerbergen.be/nieuws/2023/12/13/wijzigingen-in-trainingsuren/</loc>
+        <lastmod>2023-12-13T20:13:24Z</lastmod>
+        <changefreq>never</changefreq>
         <priority>0.1</priority>
     </url>
     <url>
