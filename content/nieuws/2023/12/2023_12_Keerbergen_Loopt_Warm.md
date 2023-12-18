@@ -11,7 +11,13 @@ listpageImgAlt = "Logo van de warmste week."
 detailpageImgPosition = "left"
 detailpageImgUrl = "/images/nieuws/2023/12/2023_12_keerbergen_loopt_warm.webp"
 metaImage = "/images/nieuws/2023/12/2023_12_keerbergen_loopt_warm.webp"
-imageAlt = "AI-gegenereerde afbeelding van een schilderachtig winterlandschap met een historische molen uit de 1700's en een levendige schaatsbaan, omringd door sneeuwbedekte bomen en gebouwen, weerspiegelt de charme en vreugde van winteractiviteiten in een klein stadje."
+imageAlt = "AI-gegenereerd winterlandschap met een historische molen uit de 1700s, een schaatsbaan met mensen in judokleding, omringd door sneeuwbedekte bomen en gebouwen, inclusief de logo's van 'De Warmste Week' en 'INVICTO'."
+
+
+
+
+
+
 [menu.global]
     parent = "nieuws"
 +++
