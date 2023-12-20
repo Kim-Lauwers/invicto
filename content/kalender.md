@@ -36,6 +36,32 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 | Za    | 13 Januari 2024     | 09:30 tot 10:30 | [Striking](/striking)                                                                                                          |
 | Za    | 13 Januari 2024     | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                                                                                                |
 | Za-Zo | 13-14 Januari 2024  |                 | [Flanders Open 2024](https://www.sportdata.org/ju-jitsu/set-online/veranstaltung_info_main.php?active_menu=calendar&vernr=522) |
+| Di    | 16 Januari 2024     | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
+| Di    | 16 Januari 2024     | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
+| Di    | 16 Januari 2024     | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
+| Di    | 16 Januari 2024     | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
+| Do    | 18 Januari 2024     | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
+| Do    | 18 Januari 2024     | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
+| Do    | 18 Januari 2024     | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
+| Do    | 18 Januari 2024     | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
+| Za    | 20 Januari 2024     | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                                                         |
+| Za    | 20 Januari 2024     | 09:30 tot 10:30 | [Striking](/striking)                                                                                                          |
+| Za    | 20 Januari 2024     | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                                                                                                |
+| Di    | 23 Januari 2024     | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
+| Di    | 23 Januari 2024     | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
+| Di    | 23 Januari 2024     | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
+| Di    | 23 Januari 2024     | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
+| Do    | 25 Januari 2024     | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
+| Do    | 25 Januari 2024     | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
+| Do    | 25 Januari 2024     | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
+| Do    | 25 Januari 2024     | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
+| Za    | 27 Januari 2024     | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                                                         |
+| Za    | 27 Januari 2024     | 09:30 tot 10:30 | [Striking](/striking)                                                                                                          |
+| Za    | 27 Januari 2024     | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                                                                                                |
+| Di    | 30 Januari 2024     | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
+| Di    | 30 Januari 2024     | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
+| Di    | 30 Januari 2024     | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
+| Di    | 30 Januari 2024     | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
 | Za    | 3 Februari 2024     |                 | [Antwerps Open 2024](https://smoothcomp.com/en/event/14407)                                                                    |
 | Za-Zo | 24-25 Februari 2024 |                 | [Vlaams Brabant Open 2024](https://smoothcomp.com/en/event/13291)                                                              |
 | Zo    | 31 Maart 2024       |                 | [Grappling Industries BRUSSELS 2024](https://grapplingindustries.smoothcomp.com/en/event/13227)                                |
