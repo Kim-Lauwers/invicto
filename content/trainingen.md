@@ -12,7 +12,7 @@ layout = "generic"
 #### Voor de kinderen (van 6 jaar tot en met 10 jaar)
 * Dinsdag van 18:00 tot 18:45. 
 * Donderdag van 18:00 tot 18:45.
-* 
+
 #### Voor de jeugd (van 10 jaar tot en met 14 jaar)
 * Dinsdag van 18:45 tot 19:30. 
 * Donderdag van 18:45 tot 19:30.
