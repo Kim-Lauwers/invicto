@@ -6,11 +6,11 @@ description = "Feesten op de tatami"
 keywords = ["kerstvakantie sport", "feestelijke training", "sportclub feestdagen", "martial arts kerst", "vechtsport vakantie", "kerstgroet atleten", "sportieve feestdagen", "wintertraining martial arts", "kerstvakantie activiteiten", "nieuwjaar sportclub"]
 categories = []
 author = "Kim Lauwers"
-listpageImgUrl = "/images/nieuws/2023/12/2023_12_holidays_thumb.webp"
+listpageImgUrl = "/images/nieuws/2023/12/2023_holidays_thumb.webp"
 listpageImgAlt = "AI-gegenereerde cartoon van vrolijke judokas met zwarte banden, waaronder mannen, vrouwen en kinderen, die een kerstboom versieren in een dojo, met een van hen die een gouden helm draagt, met het opschrift 'Happy Christmas' op de achtergrond."
 detailpageImgPosition = "left"
-detailpageImgUrl = "/images/nieuws/2023/12/2023_12_holidays.png"
-metaImage = "/images/nieuws/2023/12/2023_12_holidays.png"
+detailpageImgUrl = "/images/nieuws/2023/12/2023_holidays.png"
+metaImage = "/images/nieuws/2023/12/2023_holidays.png"
 imageAlt = "AI-gegenereerde cartoon van vrolijke judokas met zwarte banden, waaronder mannen, vrouwen en kinderen, die een kerstboom versieren in een dojo, met een van hen die een gouden helm draagt, met het opschrift 'Happy Christmas' op de achtergrond."
 [menu.global]
     parent = "nieuws"
