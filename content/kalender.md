@@ -14,28 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag   | Datum               | Tijd             | Activiteit                                                                                                                     |
 |-------|---------------------|:-----------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| Do    | 21 December 2023    | 18:30 tot 19:30  | [Jeugd](/jeugd)                                                                                                                |
-| Do    | 21 December 2023    | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
-| Do    | 21 December 2023    | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
-| Za    | 23 December 2023    | 14:00 tot 16:00  | Training in HAACHT                                                                                                             |
-| Di    | 26 December 2023    | 20:30 tot 22:00  | Training in HAACHT - SPORTHAL KEERBERGEN GESLOTEN - GEEN TRAINING                                                              |
-| Do    | 28 December 2023    | 20:30 tot 22:00  | Training in HAACHT - SPORTHAL KEERBERGEN GESLOTEN - GEEN TRAINING                                                                                   |
-| Za    | 30 December 2023    |                  | SPORTHAL KEERBERGEN GESLOTEN - GEEN TRAINING                                                                                   |
-| Di    | 02 Januari 2024     |                  | SPORTHAL KEERBERGEN GESLOTEN - GEEN TRAINING                                                                                   |
-| Do    | 04 Januari 2024     | 19:30 tot 21:00  | VRIJE TRAINING                                                                                                                 |
-| Za    | 06 Januari 2024     |                  | GEEN TRAINING                                                                                                                  |
-| Di    | 09 Januari 2024     | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
-| Di    | 09 Januari 2024     | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
-| Di    | 09 Januari 2024     | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
-| Di    | 09 Januari 2024     | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
-| Do    | 11 Januari 2024     | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
-| Do    | 11 Januari 2024     | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
-| Do    | 11 Januari 2024     | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
-| Do    | 11 Januari 2024     | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
-| Za    | 13 Januari 2024     | 09:30 tot 10:30  | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                                                         |
-| Za    | 13 Januari 2024     | 09:30 tot 10:30  | [Striking](/striking)                                                                                                          |
-| Za    | 13 Januari 2024     | 10:30 tot 12:30  | [No-Gi / Grappling](/grappling)                                                                                                |
-| Za-Zo | 13-14 Januari 2024  |                  | [Flanders Open 2024](https://www.sportdata.org/ju-jitsu/set-online/veranstaltung_info_main.php?active_menu=calendar&vernr=522) |
 | Di    | 16 Januari 2024     | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
 | Di    | 16 Januari 2024     | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
 | Di    | 16 Januari 2024     | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
