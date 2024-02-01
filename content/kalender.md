@@ -14,32 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag   | Datum               | Tijd             | Activiteit                                                                                                                     |
 |-------|---------------------|:-----------------|:-------------------------------------------------------------------------------------------------------------------------------|
-| Di    | 16 Januari 2024     | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
-| Di    | 16 Januari 2024     | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
-| Di    | 16 Januari 2024     | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
-| Di    | 16 Januari 2024     | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
-| Do    | 18 Januari 2024     | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
-| Do    | 18 Januari 2024     | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
-| Do    | 18 Januari 2024     | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
-| Do    | 18 Januari 2024     | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
-| Za    | 20 Januari 2024     | 09:30 tot 10:30  | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                                                         |
-| Za    | 20 Januari 2024     | 09:30 tot 10:30  | [Striking](/striking)                                                                                                          |
-| Za    | 20 Januari 2024     | 10:30 tot 12:30  | [No-Gi / Grappling](/grappling)                                                                                                |
-| Di    | 23 Januari 2024     | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
-| Di    | 23 Januari 2024     | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
-| Di    | 23 Januari 2024     | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
-| Di    | 23 Januari 2024     | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
-| Do    | 25 Januari 2024     | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
-| Do    | 25 Januari 2024     | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
-| Do    | 25 Januari 2024     | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
-| Do    | 25 Januari 2024     | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
-| Za    | 27 Januari 2024     | 09:30 tot 10:30  | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                                                         |
-| Za    | 27 Januari 2024     | 09:30 tot 10:30  | [Striking](/striking)                                                                                                          |
-| Za    | 27 Januari 2024     | 10:30 tot 12:30  | [No-Gi / Grappling](/grappling)                                                                                                |
-| Di    | 30 Januari 2024     | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
-| Di    | 30 Januari 2024     | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
-| Di    | 30 Januari 2024     | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
-| Di    | 30 Januari 2024     | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                                               |
 | Do    | 01 Februari 2024    | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                                                      |
 | Do    | 01 Februari 2024    | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                                                     |
 | Do    | 01 Februari 2024    | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                                                 |
