@@ -14,14 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag   | Datum               | Tijd             | Activiteit                                                                                      |
 |-------|---------------------|:-----------------|:------------------------------------------------------------------------------------------------|
-| Do    | 01 Februari 2024    | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                       |
-| Do    | 01 Februari 2024    | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                      |
-| Do    | 01 Februari 2024    | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                  |
-| Do    | 01 Februari 2024    | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                |
-| Za    | 03 Februari 2024    | 09:30 tot 10:30  | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                          |
-| Za    | 03 Februari 2024    | 09:30 tot 10:30  | [Striking](/striking)                                                                           |
-| Za    | 03 Februari 2024    | 10:30 tot 12:30  | [No-Gi / Grappling](/grappling)                                                                 |
-| Za    | 3 Februari 2024     |                  | [Antwerps Open 2024](https://smoothcomp.com/en/event/14407)                                     |
 | Di    | 06 Februari 2024    | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                       |
 | Di    | 06 Februari 2024    | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                      |
 | Di    | 06 Februari 2024    | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                  |
