@@ -14,21 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag   | Datum               | Tijd             | Activiteit                                                                                      |
 |-------|---------------------|:-----------------|:------------------------------------------------------------------------------------------------|
-| Di    | 06 Februari 2024    | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                       |
-| Di    | 06 Februari 2024    | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                      |
-| Di    | 06 Februari 2024    | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                  |
-| Di    | 06 Februari 2024    | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                |
-| Do    | 08 Februari 2024    | 18:00 tot 18:45  | [Jeugd 6-10 jaar](/jeugd)                                                                       |
-| Do    | 08 Februari 2024    | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                      |
-| Do    | 08 Februari 2024    | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                  |
-| Do    | 08 Februari 2024    | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                |
-| Za    | 10 Februari 2024    | 09:30 tot 10:30  | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                          |
-| Za    | 10 Februari 2024    | 09:30 tot 10:30  | [Striking](/striking)                                                                           |
-| Za    | 10 Februari 2024    | 10:30 tot 12:30  | [No-Gi / Grappling](/grappling)                                                                 |
-| Di    | 13 Februari 2024    |   | [Jeugd 6-10 jaar](/jeugd) GEEN TRAINING wegens vakantie - die mogen meedoen om 18u45            |
-| Di    | 13 Februari 2024    | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                      |
-| Di    | 13 Februari 2024    | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                  |
-| Di    | 13 Februari 2024    | 20:30 tot 22:00  | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                                |
 | Do    | 15 Februari 2024    |  | [Jeugd 6-10 jaar](/jeugd) GEEN TRAINING wegens vakantie - die mogen meedoen om 18u45            |
 | Do    | 15 Februari 2024    | 18:45 tot 19:30  | [Jeugd 10-14 jaar](/jeugd)                                                                      |
 | Do    | 15 Februari 2024    | 19:30 tot 20:30  | [Ju-Jitsu Fighting](/fighting)                                                                  |
