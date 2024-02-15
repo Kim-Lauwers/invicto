@@ -17,7 +17,7 @@ imageAlt = "Het bestuur en trainers dat in de bloemetjes gezet worden"
 +++
 In **2023** vierde **Invicto**, een bastion van vechtsport en zelfverdediging, haar **40-jarig bestaan**. Deze mijlpaal werd gemarkeerd met een speciale ceremonie waarbij de club haar waardering uitsprak voor de onmisbare bijdrage van de trainers en het bestuur doorheen de jaren.
 
-Marc Vertongen, vader van een voormalige leden en ex-trainers, en pluspapa van een huidig lid, nam het initiatief om deze sleutelfiguren in de bloemetjes te zetten. Zijn actie was niet alleen een blijk van dankbaarheid maar diende ook als een moment van herinnering aan **Jana Vertongen**. Jana, Marc's dochter en een veelbelovende atlete binnen de club, liet het leven te vroeg door hartfalen op 18-jarige leeftijd. Haar nalatenschap en herinnering blijven een inspirerende kracht binnen de Invicto-gemeenschap.
+Marc Vertongen, vader van 2 voormalige leden en ex-trainers, en pluspapa van een huidig lid, nam het initiatief om deze sleutelfiguren in de bloemetjes te zetten. Zijn actie was niet alleen een blijk van dankbaarheid maar diende ook als een moment van herinnering aan **Jana Vertongen**. Jana, Marc's dochter en een veelbelovende atlete binnen de club, liet het leven te vroeg door hartfalen op 18-jarige leeftijd. Haar nalatenschap en herinnering blijven een inspirerende kracht binnen de Invicto-gemeenschap.
 
 ## Een Korte Historiek van de Club
 
