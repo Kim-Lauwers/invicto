@@ -1,8 +1,8 @@
 +++
-title = "SUCCESSEN VOOR INVICTO KEERBERGEN"
+title = "Successen voor Invicto Keerbergen"
 date = 2024-03-01T10:45:31+02:00
 draft = false
-description = "Wedstrijd te steenokkerzeel"
+description = "Wedstrijd te Steenokkerzeel"
 keywords = ["steenokkerzeel", "competitie", "wedstrijd", "ju-jitsu", "fighting", "invicto", "goud", "brons"]
 categories = []
 author = "Kim Lauwers"
