@@ -16,7 +16,7 @@ imageAlt = "Duplicaat van Kim Lauwers zijn Instructeur B Judo Diploma"
     parent = "nieuws"
 +++
 
-### Blogpost: Kim Lauwers Behaalt Instructeur Judo Diploma
+### Kim Lauwers Behaalt Instructeur Judo Diploma
 
 We zijn verheugd om te delen dat Kim Lauwers, onze veelzijdige trainer en voorzitter, onlangs zijn diploma als Instructeur Judo heeft behaald. Met deze prestatie voegt hij nog een indrukwekkende kwalificatie toe aan zijn al uitgebreide portfolio van behaalde graden en certificaten in zowel Ju-Jitsu als Judo.
 
