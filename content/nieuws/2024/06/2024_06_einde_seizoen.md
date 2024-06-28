@@ -6,10 +6,10 @@ description = "In september start het nieuwe seizoen"
 keywords = ["ju-jitsu", "seizoen", "start", "zomer"]
 categories = []
 author = "Kim Lauwers"
-listpageImgUrl = "/images/nieuws/2022/08/nieuw_seizoen_2022_2024_thumb.webp"
+listpageImgUrl = "/images/nieuws/2022/08/nieuw_seizoen_2022_2023_thumb.webp"
 listpageImgAlt = "Onze lege dojo"
 detailpageImgPosition = "left"
-detailpageImgUrl = "/images/nieuws/2022/08/nieuw_seizoen_2022_2024.webp"
+detailpageImgUrl = "/images/nieuws/2022/08/nieuw_seizoen_2022_2023.webp"
 metaImage = "/images/nieuws/2022/08/nieuw_seizoen_2022_2024.jpg"
 imageAlt = "Onze lege dojo"
 [menu.global]
