@@ -10,8 +10,8 @@ layout = "generic"
 Een seizoen loopt van september tot augustus. Indien u later inschrijft zie dan ook hieronder voor tussentijdse lidmaatschapsbijdrage.
 Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
 
-* Voor de jeugd (van 8 jaar tot en met 12 jaar): € 180
-* Voor de volwassenen(vanaf 12 jaar): € 250
+* Voor de jeugd (van 8 jaar tot en met 12 jaar): € 200
+* Voor de volwassenen(vanaf 12 jaar): € 300
 * Voor de volwassenen(vanaf 14 jaar): € 350
 
 Deze lidgelden zijn all inclusive (meer info in het aansluitingsformulier).
@@ -26,7 +26,7 @@ Tijdens een lopende sportseizoen kan er ook nog aangesloten en dan wordt het lid
 Indien u aangesloten bent bij een mutualiteit kan u daar steeds een stuk van het lidgeld terug vorderen.
 
 ### Kortingsregeling
-Vanaf een tweede lid van hetzelfde gezin met dezelfde domiciliëring (adres van inschrijving) krijgt men een korting van € 15 op het jaarlijkse lidgeld van de vereniging. 
+Vanaf een tweede lid van hetzelfde gezin met dezelfde domiciliëring (adres van inschrijving) krijgt men een korting op het jaarlijkse lidgeld van de vereniging. 
 
 ### Betalingsregeling op verzoek
 Op aanvraag van het lid of bij minderjarigen hun ouder(s) / wettelijke voogd kan er discreet een betalingsregeling overeengekomen worden met het bestuur van de club. \
