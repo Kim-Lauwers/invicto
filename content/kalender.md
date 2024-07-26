@@ -14,12 +14,7 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                        |
 |-----|------------------|:----------------|:----------------------------------|
-| Do  | 11 juli 2024     | 20:00 tot 21:30 | HAACHT - Vrije training (No-Gi)   |
-| Za  | 13 juli 2024     | 10:30 tot 12:00 | Vrije training (Gi)               |
-| Di  | 16 Juli 2024     | 20:00 tot 21:30 | Vrije training (Gi)               |
-| Do  | 18 Juli 2024     | 20:00 tot 21:30 | Vrije training (No-Gi)            |
-| Di  | 23 Juli 2024     | 20:00 tot 21:30 | Vrije training (Gi)               |
-| Do  | 25 Juli 2024     | 20:00 tot 21:30 | Vrije training (No-Gi)            |
+| Za  | 27 juli 2024     | 10:30 tot 12:00 | Vrije training (Gi)               |
 | Di  | 30 Juli 2024     | 20:00 tot 21:30 | Vrije training (Gi)               |
 | Do  | 01 Augustus 2024 | 19:00 tot 20:00 | Alle jeugdgroepen samen           |
 | Do  | 01 Augustus 2024 | 20:00 tot 21:30 | Vrije training (No-Gi)            |
