@@ -14,13 +14,7 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                        |
 |-----|------------------|:----------------|:----------------------------------|
-| Za  | 27 juli 2024     | 10:30 tot 12:00 | Vrije training (Gi)               |
-| Di  | 30 Juli 2024     | 20:00 tot 21:30 | Vrije training (Gi)               |
-| Do  | 01 Augustus 2024 | 19:00 tot 20:00 | Alle jeugdgroepen samen           |
-| Do  | 01 Augustus 2024 | 20:00 tot 21:30 | Vrije training (No-Gi)            |
-| Di  | 06 Augustus 2024 | 20:00 tot 21:30 | Vrije training (Gi)               |
-| Do  | 08 Augustus 2024 | 19:00 tot 20:00 | Alle jeugdgroepen samen           |
-| Do  | 08 Augustus 2024 | 20:00 tot 21:30 | Vrije training (No-Gi)            |
+| Za  | 10 Augustus 2024 | 10:30 tot 12:00 | Vrije training (Gi)               |
 | Di  | 13 Augustus 2024 | 20:00 tot 21:30 | Vrije training (Gi)               |
 | Do  | 15 augustus 2024 |                 | SPORTHAL GESLOTEN - GEEN TRAINING |
 | Di  | 20 Augustus 2024 | 20:00 tot 21:30 | Vrije training (Gi)               |
