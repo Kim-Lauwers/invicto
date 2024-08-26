@@ -2,7 +2,7 @@
 title = "Kalender"
 description = "Overzicht van de geplande trainingen en activiteiten"
 keywords = ["agenda", "training", "trainingen", "kalender", "events", "evenementen"]
-date = 2024-08-26T13:05:39+01:00
+date = 2024-08-03T13:05:39+01:00
 nocache = true
 draft = false
 layout = "generic"
@@ -12,8 +12,8 @@ layout = "generic"
 
 Een weekoverzicht kan u [hier](/trainingen) vinden.
 
-| Dag | Datum             | Tijd            | Activiteit                             |
-|-----|-------------------|:----------------|:---------------------------------------|
+| Dag | Datum            | Tijd            | Activiteit                                                                        |
+|-----|------------------|:----------------|:----------------------------------------------------------------------------------|
 | Di  | 27 Augustus 2024  | 20:00 tot 21:30 | Vrije training (Gi)                    |
 | Do  | 29 Augustus 2024  | 19:00 tot 20:00 | Alle jeugdgroepen samen                |
 | Do  | 29 Augustus 2024  | 20:00 tot 21:30 | Vrije training (No-Gi)                 |
