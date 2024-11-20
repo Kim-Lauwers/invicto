@@ -14,21 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag  | Datum              | Tijd            | Activiteit                                                  |
 |:-----|:-------------------|:----------------|:------------------------------------------------------------|
-| Di   | 12 November 2024   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                   |
-| Di   | 12 November 2024   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                  |
-| Di   | 12 November 2024   | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                              |
-| Di   | 12 November 2024   | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-| Do   | 14 November 2024   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                   |
-| Do   | 14 November 2024   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                  |
-| Do   | 14 November 2024   | 19:30 tot 21:00 | [Ju-Jitsu Fighting](/fighting) **GASTTRAINER LOUIS CLOOTS** |
-| Do   | 14 November 2024   | 21:00 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
-| Za   | 16 November 2024   | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)                      |
-| Za   | 16 November 2024   | 09:30 tot 10:30 | [Striking](/striking)                                       |
-| Za   | 16 November 2024   | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                             |
-| Di   | 19 November 2024   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                   |
-| Di   | 19 November 2024   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                  |
-| Di   | 19 November 2024   | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                              |
-| Di   | 19 November 2024   | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                            |
 | Do   | 21 November 2024   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                   |
 | Do   | 21 November 2024   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                  |
 | Do   | 21 November 2024   | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                              |

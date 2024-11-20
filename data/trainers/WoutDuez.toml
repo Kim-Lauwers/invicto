@@ -1,7 +1,8 @@
 firstname = "Wout"
 familyname = "Duez"
 danGraden = [
-            "1ste DAN Ju-Jitsu"
+            "1ste DAN Ju-Jitsu",
+            "Blue belt Brazillian Ju-Jitsu"
             ]
 startJuJitsu = "2005"
 diplomas = [
