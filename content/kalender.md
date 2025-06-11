@@ -14,17 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                                  |
 |:----|:-----------------|:----------------|:--------------------------------------------|
-| Do  | 05 Juni 2025     | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd) - GRAADVERHOGING  |
-| Do  | 05 Juni 2025     | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd) - GRAADVERHOGING |
-| Do  | 05 Juni 2025     | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)              |
-| Do  | 05 Juni 2025     | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)            |
-| Za  | 07 Juni 2025     | 10:00 tot 11:00 | [Jeugd 10-14 jaar / Grappling](/jeugd)      |
-| Za  | 07 Juni 2025     | 10:00 tot 11:00 | [Striking](/striking)                       |
-| Za  | 07 Juni 2025     | 11:00 tot 12:30 | [No-Gi / Grappling](/grappling)             |
-| Di  | 10 Juni 2025     | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                   |
-| Di  | 10 Juni 2025     | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                  |
-| Di  | 10 Juni 2025     | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)              |
-| Di  | 10 Juni 2025     | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)            |
 | Do  | 12 Juni 2025     | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                   |
 | Do  | 12 Juni 2025     | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                  |
 | Do  | 12 Juni 2025     | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)              |
