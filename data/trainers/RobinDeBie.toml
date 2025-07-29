@@ -9,6 +9,8 @@ diplomas = [
 ]
 functionsclub = [
     "Trainer bij de BJJ-afdeling",
+    "Trainer bij de Grappling-afdeling",
+    "Trainer bij de Striking-afdeling"
 ]
 palmares = [
     "Belgisch kampioen Ju-Jitsu Ne-Waza",
@@ -24,4 +26,4 @@ palmares = [
     "Amateurwedstrijd MMA (Max pain gala)"
 ]
 imageSrc = "/images/trainers/RobinDeBie.webp"
-weight = "5"
+weight = "3"

@@ -1,0 +1,17 @@
+firstname = "Jeroen"
+familyname = "Hendrickx"
+danGraden = [
+    "1ste DAN Ju-Jitsu",
+    "Blue belt Brazillian Ju-Jitsu"
+]
+startJuJitsu = ""
+diplomas = [
+]
+functionsclub = [
+    "Trainer bij de BJJ-afdeling",
+    "Trainer bij de Grappling-afdeling"
+]
+palmares = [
+]
+imageSrc = ""
+weight = "4"
