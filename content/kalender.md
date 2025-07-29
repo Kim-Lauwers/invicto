@@ -14,11 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                                    |
 |:----|:-----------------|:----------------|:----------------------------------------------|
-| Za  | 12 Juli 2025     | 10:30 tot 12:00 | Open training vanaf 14 jaar                   |
-| Di  | 15 Juli 2025     | 19:30 tot 21:00 | Open training vanaf 14 jaar                   |
-| Do  | 17 Juli 2025     | 19:30 tot 21:00 | Open training vanaf 14 jaar                   |
-| Di  | 22 Juli 2025     | 19:30 tot 21:00 | Open training vanaf 14 jaar                   |
-| Do  | 24 Juli 2025     | 19:30 tot 21:00 | Open training vanaf 14 jaar                   |
 | Di  | 29 Juli 2025     | 19:30 tot 21:00 | Open training vanaf 14 jaar                   |
 | Do  | 31 Juli 2025     | 19:30 tot 21:00 | Open training vanaf 14 jaar                   |
 | Di  | 05 Augustus 2025 | 19:30 tot 21:00 | Open training vanaf 14 jaar                   |
