@@ -22,7 +22,7 @@ layout = "generic"
 * Dinsdag: [Ju-Jitsu Fighting](/fighting) van 19:30 tot 20:30.
 * Dinsdag: [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
 * Donderdag: [Ju-Jitsu Fighting](/fighting) van 19:30 tot 20:30.
-* Donderdag: [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
+* Donderdag: [No-Gi / Grappling](/grappling) van 20:30 tot 22:00.
 * Zaterdag: [Striking](/striking) van 09:30 tot 10:30.
 * Zaterdag: [No-Gi / Grappling](/grappling) van 10:30 tot 12:30.
 
