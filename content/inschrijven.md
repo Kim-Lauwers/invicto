@@ -14,7 +14,7 @@ Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn ge
 * Voor de volwassenen(vanaf 14 jaar): € 330
 * Voor de volwassenen(vanaf 14 jaar): € 380
 
-Deze lidgelden zijn all inclusive (meer info in het aansluitingsformulier).
+Deze lidgelden zijn inclusief verzekering en aansluiting bij de federatie (meer info in het aansluitingsformulier, exclusief materiaal).
 U kan het aansluitingsformulier [hier](/documents/club/Lidmaatschappij-Invicto_Keerbergen.pdf) terugvinden.
 
 Het lidgeld kan u steeds storten op *BE34 9794 2892 3190*. Vergeet zeker uw naam niet te vermelden.
