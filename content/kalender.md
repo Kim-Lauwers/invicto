@@ -14,49 +14,18 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                                                                                   |
 |:----|:-----------------|:----------------|:---------------------------------------------------------------------------------------------|
-| Di  | 07 Oktober 2025  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                    |
-| Di  | 07 Oktober 2025  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                   |
-| Di  | 07 Oktober 2025  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                               |
-| Di  | 07 Oktober 2025  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                             |
-| Do  | 09 Oktober 2025  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                    |
-| Do  | 09 Oktober 2025  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                   |
-| Do  | 09 Oktober 2025  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                               |
-| Do  | 09 Oktober 2025  | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)                                                              |
-| Za  | 11 Oktober 2025  | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                       |
-| Za  | 11 Oktober 2025  | 09:30 tot 10:30 | [Striking](/striking)                                                                        |
-| Za  | 11 Oktober 2025  | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                                                              |
-| Di  | 14 Oktober 2025  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                    |
-| Di  | 14 Oktober 2025  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                   |
-| Di  | 14 Oktober 2025  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                               |
-| Di  | 14 Oktober 2025  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                             |
-| Do  | 16 Oktober 2025  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                    |
-| Do  | 16 Oktober 2025  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                   |
-| Do  | 16 Oktober 2025  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                               |
-| Do  | 16 Oktober 2025  | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)                                                              |
-| Za  | 18 Oktober 2025  | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                       |
-| Za  | 18 Oktober 2025  | 09:30 tot 10:30 | [Striking](/striking)                                                                        |
-| Za  | 18 Oktober 2025  | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                                                              |
-| Di  | 21 Oktober 2025  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                    |
-| Di  | 21 Oktober 2025  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                   |
-| Di  | 21 Oktober 2025  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                               |
-| Di  | 21 Oktober 2025  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                             |
-| Do  | 23 Oktober 2025  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                    |
-| Do  | 23 Oktober 2025  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                   |
-| Do  | 23 Oktober 2025  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                               |
-| Do  | 23 Oktober 2025  | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)                                                              |
-| Za  | 25 Oktober 2025  | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)                                                       |
-| Za  | 25 Oktober 2025  | 09:30 tot 10:30 | [Striking](/striking)                                                                        |
-| Za  | 25 Oktober 2025  | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                                                              |  
 | Di  | 28 Oktober 2025  | 18:45 tot 19:30 | [Alle jeugdgroepen samen](/jeugd)                                                            |
 | Di  | 28 Oktober 2025  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                               |
 | Di  | 28 Oktober 2025  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                             |
 | Do  | 30 Oktober 2025  | 18:45 tot 19:30 | [Alle jeugdgroepen samen](/jeugd)                                                            |
 | Do  | 30 Oktober 2025  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                               |
 | Do  | 30 Oktober 2025  | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)                                                              |
+| Za  | 01 November 2025 | -               | **SPORTHAL GESLOTEN - GEEN TRAINING**                                                        |
+| Zo  | 02 November 2025 | 12:00 tot 14:00 | Voor de hoofdgroep: mini open mat in den box te Haacht                                       |
 | Di  | 04 November 2025 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                    |
 | Di  | 04 November 2025 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                                                                   |
 | Di  | 04 November 2025 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                                                               |
-| Di  | 04 November 2025 | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)                                                             |
+| Di  | 04 November 2025 | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)       Kom verkleed rollen - Halloweentraining               |
 | Do  | 06 November 2025 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                                                                    |
 | Do  | 06 November 2025 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)             We verwachten weinig parkeerplaats door de GymNovaCup |
 | Do  | 06 November 2025 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)         We verwachten weinig parkeerplaats door de GymNovaCup |
