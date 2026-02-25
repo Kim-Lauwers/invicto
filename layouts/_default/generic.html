@@ -18,7 +18,9 @@
             <div class="inner">
                 {{ .Content }}
 
-                {{ partial "faq.html" . }}
+                {{ if .Params.showFaq }}
+                    {{ partial "faq.html" . }}
+                {{ end }}
             </div>
         </section>
     </article>
