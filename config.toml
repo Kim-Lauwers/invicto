@@ -1,5 +1,7 @@
 baseURL = "https://www.invictokeerbergen.be"
-paginate = 9
+
+[pagination]
+    pagerSize = 10
 
 [params]
     dateForm = "January 2, 2006"
@@ -8,3 +10,6 @@ paginate = 9
 
 [permalinks]
     nieuws = "/:section/:year/:month/:day/:slug/"
+
+[markup.goldmark.renderer]
+    hardWraps = true

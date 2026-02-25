@@ -1,0 +1,35 @@
+{{ $faq := .Site.Data.faq.algemeen.faq }}
+
+{{ with $faq }}
+<section class="faq">
+    <h2>Veelgestelde vragen</h2>
+
+    {{ range . }}
+    <details class="faq-item">
+        <summary>{{ .question }}</summary>
+        <div class="faq-answer">
+            <p>{{ .answer }}</p>
+        </div>
+    </details>
+    {{ end }}
+</section>
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {{- range $i, $item := . -}}
+            {
+                "@type": "Question",
+                "name": {{ $item.question | jsonify }},
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": {{ $item.answer | jsonify }}
+            }
+            }{{ if lt (add $i 1) (len .) }},{{ end }}
+            {{- end -}}
+        ]
+    }
+</script>
+{{ end }}
