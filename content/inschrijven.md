@@ -11,7 +11,6 @@ Een seizoen loopt van september tot augustus. Indien u later inschrijft zie dan 
 Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
 
 * Voor de jeugd (van 8 jaar tot en met 13 jaar): € 230
-* Voor de volwassenen(vanaf 14 jaar): € 330
 * Voor de volwassenen(vanaf 14 jaar): € 380
 
 Deze lidgelden zijn inclusief verzekering en aansluiting bij de federatie (meer info in het aansluitingsformulier, exclusief materiaal).
