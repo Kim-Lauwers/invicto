@@ -14,36 +14,47 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                             |
 |:----|:-----------------|:----------------|:---------------------------------------|
-| Di  | 07 April 2026  | 18:45 tot 19:30 | [Jeugd - alle groepen](/jeugd)         |
-| Di  | 07 April 2026  | 19:30 tot 21:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)       |
-| Do  | 09 April 2026  | 18:45 tot 19:30 | [Jeugd - alle groepen](/jeugd)         |
-| Do  | 09 April 2026  | 19:30 tot 21:00 | [No-Gi / Grappling](/grappling)        |
-| Za  | 11 April 2026  | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd) |
-| Za  | 11 April 2026  | 09:30 tot 10:30 | [Striking](/striking)                  |
-| Za  | 11 April 2026  | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)        |
-| Di  | 14 April 2026  | 18:45 tot 19:30 | [Jeugd - alle groepen](/jeugd)         |
-| Di  | 14 April 2026  | 19:30 tot 21:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)       |
-| Do  | 16 April 2026  | 18:45 tot 19:30 | [Jeugd - alle groepen](/jeugd)         |
-| Do  | 16 April 2026  | 19:30 tot 21:00 | [No-Gi / Grappling](/grappling)        |
-| Za  | 18 April 2026  | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd) |
-| Za  | 18 April 2026  | 09:30 tot 10:30 | [Striking](/striking)                  |
-| Za  | 18 April 2026  | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)        |
-| Di  | 21 April 2026  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)              |
-| Di  | 21 April 2026  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)             |
-| Di  | 21 April 2026  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)         |
-| Di  | 21 April 2026  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)       |
-| Do  | 23 April 2026  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)              |
-| Do  | 23 April 2026  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)             |
-| Do  | 23 April 2026  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)         |
-| Do  | 23 April 2026  | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)        |
-| Za  | 25 April 2026  | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd) |
-| Za  | 25 April 2026  | 09:30 tot 10:30 | [Striking](/striking)                  |
-| Za  | 25 April 2026  | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)        |
-| Di  | 28 April 2026  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)              |
-| Di  | 28 April 2026  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)             |
-| Di  | 28 April 2026  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)         |
-| Di  | 28 April 2026  | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)       |
-| Do  | 30 April 2026  | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)              |
-| Do  | 30 April 2026  | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)             |
-| Do  | 30 April 2026  | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)         |
-| Do  | 30 April 2026  | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)        |
+| Za  | 02 Mei 2026 | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 02 Mei 2026 | 09:30 tot 10:30 | [Striking](/striking)                          |
+| Za  | 02 Mei 2026 | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                |
+| Di  | 05 Mei 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Di  | 05 Mei 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Di  | 05 Mei 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
+| Di  | 05 Mei 2026 | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
+| Do  | 07 Mei 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Do  | 07 Mei 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Do  | 07 Mei 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
+| Do  | 07 Mei 2026 | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)                |
+| Za  | 09 Mei 2026 | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 09 Mei 2026 | 09:30 tot 10:30 | [Striking](/striking)                          |
+| Za  | 09 Mei 2026 | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                |
+| Di  | 12 Mei 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Di  | 12 Mei 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Di  | 12 Mei 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
+| Di  | 12 Mei 2026 | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
+| Do  | 14 Mei 2026 |                 | SPORTHAL GESLOTEN - GEEN TRAINING              |
+| Za  | 16 Mei 2026 | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 16 Mei 2026 | 09:30 tot 10:30 | [Striking](/striking)                          |
+| Za  | 16 Mei 2026 | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                |
+| Di  | 19 Mei 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Di  | 19 Mei 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Di  | 19 Mei 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
+| Di  | 19 Mei 2026 | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
+| Do  | 21 Mei 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Do  | 21 Mei 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Do  | 21 Mei 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
+| Do  | 21 Mei 2026 | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)                |
+| Za  | 23 Mei 2026 | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 23 Mei 2026 | 09:30 tot 10:30 | [Striking](/striking)                          |
+| Za  | 23 Mei 2026 | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                |
+| Di  | 26 Mei 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Di  | 26 Mei 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Di  | 26 Mei 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
+| Di  | 26 Mei 2026 | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
+| Do  | 28 Mei 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Do  | 28 Mei 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Do  | 28 Mei 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
+| Do  | 28 Mei 2026 | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)                |
+| Za  | 30 Mei 2026 | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 30 Mei 2026 | 09:30 tot 10:30 | [Striking](/striking)                          |
+| Za  | 30 Mei 2026 | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                |
