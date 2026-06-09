@@ -59,6 +59,7 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 | Za  | 27 Juni 2026     | 09:30 tot 10:30 | [Striking](/striking)                                             |
 | Za  | 27 Juni 2026     | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                                   |
 | Za  | 11 Juli 2026     |                 | Sporthal gesloten wegens Vlaamse feestdag                         |
+| Za  | 18 Juli 2026     |                 | Sporthal gesloten                                                 |
 | Di  | 21 Juli 2026     |                 | Sporthal gesloten wegens Belgische feestdag                       |
 | Za  | 01 Augustus 2026 |                 | Sporthal gesloten wegens Molenfeesten                             |
 | Za  | 15 Augustus 2026 |                 | Sporthal gesloten wegens OLV Hemelvaart                           |
