@@ -29,7 +29,7 @@ Tijd dus om alles even op een rijtje te zetten over het lidgeld, de inschrijving
 
 ### 💶 Lidgeld 2026–2027
 
-Het lidgeld is afhankelijk van de groep waarin je traint. Soms mogen atleten in een hogere groep meedoen dan hun leeftijd toelaat — in dat geval geldt het tarief van die hogere groep.
+Het lidgeld is afhankelijk van de groep waarin je traint. Soms mogen atleten in een hogere groep meedoen dan hun leeftijd toelaat, in dat geval geldt het tarief van die hogere groep.
 
 #### 👧 Jeugdgroep (6–10 jaar)
 - **Lidgeld:** 230 euro  
