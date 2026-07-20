@@ -2,7 +2,7 @@
 title = "Lidmaatschap"
 description = "Alle informatie om u in te schrijven"
 keywords = ["club", "lidmaatschap", "bijdrage", "betaling", "korting", "lid"]
-date = 2018-03-09T11:19:39+01:00
+date = 2026-07-20T11:09:39+01:00
 draft = false
 layout = "generic"
 +++
@@ -10,7 +10,8 @@ layout = "generic"
 Een seizoen loopt van september tot augustus. Indien u later inschrijft zie dan ook hieronder voor tussentijdse lidmaatschapsbijdrage.
 Zomertrainingen tijdens juli en augustus worden jaar per jaar beslist en zijn geen garantie dat deze altijd doorgaan.
 
-* Voor de jeugd (van 8 jaar tot en met 13 jaar): € 230
+* Voor de jeugd (van 6 jaar tot en met 10 jaar): € 230
+* Voor de jeugd (van 10 jaar tot en met 14 jaar): € 250
 * Voor de volwassenen(vanaf 14 jaar): € 380
 
 Deze lidgelden zijn inclusief verzekering en aansluiting bij de federatie (meer info in het aansluitingsformulier, exclusief materiaal).
