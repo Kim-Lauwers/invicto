@@ -22,22 +22,22 @@
                 <h2>Ons trainers team</h2>
                 Klik op de naam van één van onze trainers of assistenten om meer informatie te zien.
                 <ul>
-                    {{ range sort $.Site.Data.trainers "weight" }}
+                    {{ range sort hugo.Data.trainers "weight" }}
                     <li><a href="#{{ .firstname }}_{{ .familyname }}">{{ .firstname }} {{ .familyname }}</a></li>
                     {{ end }}
 
-                    {{ range sort $.Site.Data.assistent "weight" }}
+                    {{ range sort hugo.Data.assistent "weight" }}
                     <li><a href="#{{ .firstname }}_{{ .familyname }}">{{ .firstname }} {{ .familyname }}</a></li>
                     {{ end }}
                 </ul>
 
                 <h3>Trainers</h3>
-                {{ range sort $.Site.Data.trainers "weight" }}
+                {{ range sort hugo.Data.trainers "weight" }}
                     {{ partial "trainer.html" . }}
                 {{ end }}
 
                 <h3>Assistenten</h3>
-                {{ range sort $.Site.Data.assistent "weight" }}
+                {{ range sort hugo.Data.assistent "weight" }}
                     {{ partial "trainer.html" . }}
                 {{ end }}
             </div>

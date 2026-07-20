@@ -1,6 +1,6 @@
 +++
 title = "Seizoen 2026 - 2027"
-date = 2026-07-20T10:19:21+02:00
+date = 2026-07-20T10:06:21+02:00
 draft = false
 description = "In september start het nieuwe seizoen"
 keywords = ["ju-jitsu", "seizoen", "start", "zomer"]

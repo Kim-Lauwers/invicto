@@ -22,7 +22,7 @@
                 </p>
 
                 <h2>Onze partner:</h2>
-                {{ range sort $.Site.Data.samenwerkingen "weight" }}
+                {{ range sort hugo.Data.samenwerkingen "weight" }}
                     {{ partial "partner.html" . }}
                 {{ end }}
             </div>

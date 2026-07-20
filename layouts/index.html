@@ -42,7 +42,7 @@
 
     <!-- Departments -->
     <section id="two" class="wrapper alt style2">
-        {{ range sort .Site.Data.spotlight "weight" }}
+        {{ range sort hugo.Data.spotlight "weight" }}
             {{ partial "spotlight.html" . }}
         {{ end }}
     </section>
@@ -55,7 +55,7 @@
                 <p>Een link naar gezochte informatie op onze site. </p>
             </header>
             <ul class="features">
-                {{ range sort .Site.Data.features "weight" }}
+                {{ range sort hugo.Data.features "weight" }}
 
                 <li class="icon solid {{ .icon }}">
                     <a href="{{ .link }}">

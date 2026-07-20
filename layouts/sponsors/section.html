@@ -19,7 +19,7 @@
                 </p>
 
                 <h2>Onze sponsors:</h2>
-                {{ range sort $.Site.Data.sponsors "weight" }}
+                {{ range sort hugo.Data.sponsors "weight" }}
                     {{ partial "sponsor.html" . }}
                 {{ end }}
             </div>
