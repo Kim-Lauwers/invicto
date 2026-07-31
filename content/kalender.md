@@ -14,12 +14,7 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                                                                                               |
 |:----|:-----------------|:----------------|:---------------------------------------------------------------------------------------------------------|
-| Di  | 21 Juli 2026     |                 | Sporthal Keerbergen en Haacht gesloten wegens Belgische feestdag                                         |
-| Do  | 23 Juli 2026     | 19:30 tot 21:00 | Vrije training 14+                                                                                       |
-| Za  | 25 Juli 2026     |                 | Training via poll en afspraken via WhatsApp (Keerbergen of Haacht)                                       |
-| Di  | 28 Juli 2026     | 19:30 tot 21:00 | Vrije training 14+                                                                                       |
-| Do  | 30 Juli 2026     | 19:30 tot 21:00 | Vrije training 14+                                                                                       |
-| Za  | 1 Augustus 2026  |                 | Training via poll en afspraken via WhatsApp (Haacht, Sporthal Keerbergen gesloten wegens Molenfeesten )  |
+| Za  | 1 Augustus 2026  | 9:30 tot 11:00  | Vrije training 14+ te Haacht (Sporthal Keerbergen gesloten wegens Molenfeesten )                         |
 | Di  | 4 Augustus 2026  | 19:30 tot 21:00 | Vrije training 14+                                                                                       |
 | Do  | 6 Augustus 2026  | 18:30 tot 19:30 | Jeugdtraining voor alle jeugdgroepen samen                                                               |
 | Do  | 6 Augustus 2026  | 19:30 tot 21:00 | Vrije training 14+                                                                                       |
