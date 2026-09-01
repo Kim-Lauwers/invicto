@@ -14,8 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                                                                                               |
 |:----|:-----------------|:----------------|:---------------------------------------------------------------------------------------------------------|
-| Dag | Datum             | Tijd            | Activiteit                                      |
-|-----|-------------------|-----------------|-------------------------------------------------|
 | Di  | 01 September 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
 | Di  | 01 September 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
 | Di  | 01 September 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
