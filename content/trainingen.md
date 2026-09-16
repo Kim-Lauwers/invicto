@@ -26,7 +26,6 @@ layout = "generic"
 * Zaterdag: [Striking](/striking) van 09:30 tot 10:30.
 * Zaterdag: [No-Gi / Grappling](/grappling) van 10:30 tot 12:30.
 
-Dit zijn de uren waarop de trainers effectief lesgeven. Wie Ju-Jitsu graag een volledig uur wil trainen, kan na het eerste halfuur zelfstandig verder oefenen, zolang daar voldoende plaats voor is op de mat.
 
 ### Locatie
 Gemeentelijke Sporthal Keerbergen \
