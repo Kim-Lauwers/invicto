@@ -19,12 +19,13 @@ layout = "generic"
 * Zaterdag van 09:30 tot 10:30.
 
 #### Voor de volwassenen(vanaf 14 jaar)
-* Dinsdag: [Ju-Jitsu Fighting](/fighting) van 19:30 tot 20:30.
-* Dinsdag: [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:30 tot 22:00.
-* Donderdag: [Ju-Jitsu Fighting](/fighting) van 19:30 tot 20:30.
-* Donderdag: [No-Gi / Grappling](/grappling) van 20:30 tot 22:00.
+* Dinsdag: [Ju-Jitsu - Takedowns Gi](/fighting) van 19:30 tot 20:00.
+* Dinsdag: [Brazilian Ju-Jitsu (BJJ)](/bjj) van 20:00 tot 21:30.
+* Donderdag: [Ju-Jitsu - Takedowns No-Gi](/fighting) van 19:30 tot 20:00.
+* Donderdag: [No-Gi / Grappling](/grappling) van 20:00 tot 21:30.
 * Zaterdag: [Striking](/striking) van 09:30 tot 10:30.
 * Zaterdag: [No-Gi / Grappling](/grappling) van 10:30 tot 12:30.
+
 
 ### Locatie
 Gemeentelijke Sporthal Keerbergen \
