@@ -24,7 +24,7 @@ layout = "generic"
 * Donderdag: [Ju-Jitsu - Takedowns No-Gi](/fighting) van 19:30 tot 20:00.
 * Donderdag: [No-Gi / Grappling](/grappling) van 20:00 tot 21:30.
 * Zaterdag: [Striking](/striking) van 09:30 tot 10:30.
-* Zaterdag: [No-Gi / Grappling](/grappling) van 10:30 tot 12:30.
+* Zaterdag: [No-Gi / Grappling](/grappling) van 10:30 tot 12:00.
 
 
 ### Locatie
