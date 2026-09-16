@@ -14,16 +14,6 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                                                                                               |
 |:----|:-----------------|:----------------|:---------------------------------------------------------------------------------------------------------|
-| Do  | 10 September 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
-| Do  | 10 September 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
-| Do  | 10 September 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
-| Do  | 10 September 2026 | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)                |
-| Za  | 12 September 2026 | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
-| Za  | 12 September 2026 | 10:30 tot 12:30 | [No-Gi / Grappling](/grappling)                |
-| Di  | 15 September 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
-| Di  | 15 September 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
-| Di  | 15 September 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
-| Di  | 15 September 2026 | 20:30 tot 22:00 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
 | Do  | 17 September 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
 | Do  | 17 September 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
 | Do  | 17 September 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
