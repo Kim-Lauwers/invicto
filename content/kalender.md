@@ -14,26 +14,52 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 
 | Dag | Datum            | Tijd            | Activiteit                                                                                               |
 |:----|:-----------------|:----------------|:---------------------------------------------------------------------------------------------------------|
-| Do  | 17 September 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
-| Do  | 17 September 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
-| Do  | 17 September 2026 | 19:30 tot 20:30 | [Ju-Jitsu Fighting](/fighting)                 |
-| Do  | 17 September 2026 | 20:30 tot 22:00 | [No-Gi / Grappling](/grappling)                |
-| Za  | 19 September 2026 | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
-| Za  | 19 September 2026 | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                |
-| Di  | 22 September 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
-| Di  | 22 September 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
-| Di  | 22 September 2026 | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns Gi](/fighting)           |
-| Di  | 22 September 2026 | 20:00 tot 21:30 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
-| Do  | 24 September 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
-| Do  | 24 September 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
-| Do  | 24 September 2026 | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns No-Gi](/fighting)        |
-| Do  | 24 September 2026 | 20:00 tot 21:30 | [No-Gi / Grappling](/grappling)                |
-| Za  | 26 September 2026 | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
-| Za  | 26 September 2026 | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                |
-| Di  | 29 September 2026 | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
-| Di  | 29 September 2026 | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
-| Di  | 29 September 2026 | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns Gi](/fighting)           |
-| Di  | 29 September 2026 | 20:00 tot 21:30 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
+| Do  | 01 Oktober 2026   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Do  | 01 Oktober 2026   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Do  | 01 Oktober 2026   | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns No-Gi](/fighting)        |
+| Do  | 01 Oktober 2026   | 20:00 tot 21:30 | [No-Gi / Grappling](/grappling)                |
+| Za  | 03 Oktober 2026   | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 03 Oktober 2026   | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                |
+| Di  | 06 Oktober 2026   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Di  | 06 Oktober 2026   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Di  | 06 Oktober 2026   | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns Gi](/fighting)           |
+| Di  | 06 Oktober 2026   | 20:00 tot 21:30 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
+| Do  | 08 Oktober 2026   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Do  | 08 Oktober 2026   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Do  | 08 Oktober 2026   | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns No-Gi](/fighting)        |
+| Do  | 08 Oktober 2026   | 20:00 tot 21:30 | [No-Gi / Grappling](/grappling)                |
+| Za  | 10 Oktober 2026   | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 10 Oktober 2026   | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                |
+| Di  | 13 Oktober 2026   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Di  | 13 Oktober 2026   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Di  | 13 Oktober 2026   | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns Gi](/fighting)           |
+| Di  | 13 Oktober 2026   | 20:00 tot 21:30 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
+| Do  | 15 Oktober 2026   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Do  | 15 Oktober 2026   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Do  | 15 Oktober 2026   | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns No-Gi](/fighting)        |
+| Do  | 15 Oktober 2026   | 20:00 tot 21:30 | [No-Gi / Grappling](/grappling)                |
+| Za  | 17 Oktober 2026   | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 17 Oktober 2026   | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                |
+| Di  | 20 Oktober 2026   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Di  | 20 Oktober 2026   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Di  | 20 Oktober 2026   | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns Gi](/fighting)           |
+| Di  | 20 Oktober 2026   | 20:00 tot 21:30 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
+| Do  | 22 Oktober 2026   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Do  | 22 Oktober 2026   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Do  | 22 Oktober 2026   | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns No-Gi](/fighting)        |
+| Do  | 22 Oktober 2026   | 20:00 tot 21:30 | [No-Gi / Grappling](/grappling)                |
+| Za  | 24 Oktober 2026   | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 24 Oktober 2026   | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                |
+| Di  | 27 Oktober 2026   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Di  | 27 Oktober 2026   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Di  | 27 Oktober 2026   | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns Gi](/fighting)           |
+| Di  | 27 Oktober 2026   | 20:00 tot 21:30 | [Brazilian Ju-Jitsu (BJJ)](/bjj)               |
+| Do  | 29 Oktober 2026   | 18:00 tot 18:45 | [Jeugd 6-10 jaar](/jeugd)                      |
+| Do  | 29 Oktober 2026   | 18:45 tot 19:30 | [Jeugd 10-14 jaar](/jeugd)                     |
+| Do  | 29 Oktober 2026   | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns No-Gi](/fighting)        |
+| Do  | 29 Oktober 2026   | 20:00 tot 21:30 | [No-Gi / Grappling](/grappling)                |
+| Za  | 31 Oktober 2026   | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
+| Za  | 31 Oktober 2026   | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                |
 | Do  | 24 December 2026 |                 | Sporthal gesloten                                                                                        |
 | Za  | 26 December 2026 |                 | Sporthal gesloten                                                                                        |
 | Di  | 29 December 2026 |                 | Sporthal gesloten                                                                                        |
