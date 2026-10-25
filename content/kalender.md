@@ -37,7 +37,8 @@ Een weekoverzicht kan u [hier](/trainingen) vinden.
 | Za  | 31 Oktober 2026   | 09:30 tot 10:30 | [Jeugd 10-14 jaar / Grappling](/jeugd)         |
 | Za  | 31 Oktober 2026   | 10:30 tot 12:00 | [No-Gi / Grappling](/grappling)                |
 | Di  | 03 November 2026 | 18:30 tot 19:30 | 🎃 [Halloween training - Alle jeugdgroepen samen](/jeugd) (verkleden toegestaan) |
-| Di  | 03 November 2026 | 19:30 tot 21:30 | 🎃 [Halloween training - Volwassenen](/bjj) (verkleden toegestaan)              |
+| Di  | 03 November 2026 | 19:30 tot 20:00 | 🎃 [Halloween training - Ju-Jitsu - Takedowns Gi](/fighting)  (verkleden toegestaan)                         |
+| Di  | 03 November 2026 | 20:00 tot 21:30 | 🎃 [Halloween training - Volwassenen](/bjj) (verkleden toegestaan)              |
 | Do  | 05 November 2026 | 18:30 tot 19:30 | [Alle jeugdgroepen samen](/jeugd)              |
 | Do  | 05 November 2026 | 19:30 tot 20:00 | [Ju-Jitsu - Takedowns No-Gi](/fighting)        |
 | Do  | 05 November 2026 | 20:00 tot 21:30 | [No-Gi / Grappling](/grappling)                |
